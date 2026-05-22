@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Kl7XZvFdx1s
+# Banco de Occidente I Ahorro Edufin
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Kl7XZvFdx1s  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Porque Creemos en la educación financiera, queremos compartirte algunos consejos para ahorrar. Te invitamos a conocer más acerca de temas de educación financiera en nuestro portal exclusivo, ingresando a: https://goo.gl/eKwM3X
+## Transcripción
+_Video sin subtítulos disponibles en español._

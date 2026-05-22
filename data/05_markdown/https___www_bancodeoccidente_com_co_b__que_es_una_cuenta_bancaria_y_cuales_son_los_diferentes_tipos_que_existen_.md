@@ -1,0 +1,21 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/b/-que-es-una-cuenta-bancaria-y-cuales-son-los-diferentes-tipos-que-existen- -->
+URL: https://www.bancodeoccidente.com.co/b/-que-es-una-cuenta-bancaria-y-cuales-son-los-diferentes-tipos-que-existen-
+Los colombianos tenemos fama de ser juiciosos para trabajar, creativos y recursivos, pero hay un tema en el que no nos va tan bien: el ahorro. Menos del 55% de los hogares tiene capacidad de ahorro y menos del 25% de nosotros usa un mecanismo formal, como una cuenta de ahorro o una cuenta corriente.
+Hoy, gracias a Internet, desde la comodidad de nuestra casa podemos hacer cosas para las que antes teníamos que ir a una oficina, como abrir una cuenta bancaria. O sea que cada vez hay menos excusas para no tener un plan que nos permita tener dinero disponible para cubrir gastos extra o tapar esos huecos que nunca faltan.
+¿Pero qué tipos de cuentas bancarias existen y cuál es la que más te conviene? “En Banco de Occidente tenemos diferentes tipos de cuentas que se acomodan a las necesidades de nuestros clientes. Tenemos las tradicionales cuenta de ahorros y cuenta corriente, pero también tenemos unas cuentas específicas para algunos tipos de clientes, como las cuentas de pensionados, de nómina y de campañas políticas”.
+Por ejemplo, a un asalariado le conviene tener una Cuenta de Nómina en la que puede disponer de sus ingresos y tiene unos beneficios adicionales; ten en cuenta que, dependiendo de tus ingresos, unas cuentas de nómina también pueden ser de diferentes tipos. La  Cuenta de Pensionados es específicamente para que las personas que gozan de una pensión puedan recibir su mesada sin necesidad de ir al banco.
+Visita nuestro sitio en Internet y conoce cuáles son los requisitos para abrir una cuenta bancaria en el y los beneficios que tienes con ella.  Encuentra aquí .
+## Cuenta de ahorros, ¿cuáles son sus ventajas?
+¿Y cuál es la diferencia entre una cuenta de ahorros y una cuenta corriente? Aunque en general son muy parecidas, la Cuenta Corriente les sirve a las personas que quieran disponer de efectivo en todo momento y puedan necesitar pagar en cheque o realizar sobregiros.
+En una Cuenta de Ahorros, las personas pueden ahorrar mientras se generan unos rendimientos sobre el saldo. Pero, además de esto, una cuenta de ahorros del Banco de Occidente te ofrece algunas ventajas adicionales:
+- Puedes abrirla con cero pesos y no necesitas mantener un saldo mínimo.
+- Puedes marcarla como exenta del 4 x 1.000, pero recuerda que solo puedes tener una cuenta de ahorros o AFC con este beneficio.
+- Te genera rendimiento o intereses sobre el saldo, que puedes capitalizar.
+- Puedes acceder a ella a través de Internet, de la App Banca Móvil o de la Audio Línea de Occidente (ALO), de manera que no tienes que salir de tu casa para hacer la mayoría de las transacciones.
+- Dispones de más de 3.500 Cajeros Automáticos o más de 1.200 oficinas de las entidades del Grupo Aval en todo el país.
+- Desde tu cuenta, ¡puedes enviar dinero a otras personas usando tu celular!
+- Las cuentas del Banco de Occidente tienen el respaldo del Seguro de depósitos FOGAFÍN, por lo que tu dinero está protegido.
+Dependiendo de la cuenta que escojas, también puedes tener tarifas preferenciales para tus servicios financieros o no pagar cuota de manejo.
+Recuerda que si tienes otros productos financieros en el Banco de Occidente, como tarjetas de crédito o préstamos para vivienda o vehículo, tener tu cuenta de ahorros con nosotros te permite programar tus pagos de forma automática, para que no tengas que preocuparte por las fechas ni ir hasta la oficina.
+Por supuesto, desde tus cuentas también puedes programar los pagos de otras obligaciones, como servicios públicos o suscripciones a plataformas de streaming, entre otras. Este es un proceso automático y gratuito.
+Pero lo más importante es que tienes acceso a todos estos servicios, al mismo tiempo que tienes un mejor control sobre tu dinero y puedes fijarte metas de ahorro para cumplir tus objetivos. Estas ventajas no las tienes si todavía guardas ‘tus ahorros’ debajo del colchón.

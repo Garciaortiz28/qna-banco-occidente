@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=JZF4Hlg7LDQ
+# ¿Qué es el FNG?
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=JZF4Hlg7LDQ  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce más acerca del Fondo Nacional de Garantías, una entidad que respalda con su patrimonio a las micro, pequeñas y medianas empresas que no cuentan con las garantías suficientes para acceder a un crédito.
+## Transcripción
+_Video sin subtítulos disponibles en español._

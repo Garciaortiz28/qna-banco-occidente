@@ -1,0 +1,26 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/ -->
+URL: https://www.bancodeoccidente.com.co/
+# Canales Digitales y Redes Sociales — Banco de Occidente
+El Banco de Occidente mantiene presencia activa en redes sociales donde los clientes pueden obtener información y atención.
+## FACEBOOK
+- Enlace oficial en FACEBOOK: https://www.facebook.com/BcoOccidente
+- Enlace oficial en FACEBOOK: https://www.facebook.com/BcoOccidente/
+- Enlace oficial en FACEBOOK: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPremioPlanetaAzul
+## INSTAGRAM
+- Enlace oficial en INSTAGRAM: https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fcomunidadplanetaazul%2F&is_from_rle
+- Enlace oficial en INSTAGRAM: https://www.instagram.com/bco_occidente
+- Enlace oficial en INSTAGRAM: https://www.instagram.com/bco_occidente/
+## LINKEDIN
+- Enlace oficial en LINKEDIN: https://www.linkedin.com/company/banco-de-occidente/?trk=biz-companies-cym
+## TWITTER
+- Enlace oficial en TWITTER: https://x.com/Bco_Occidente?mx=2
+- Enlace oficial en TWITTER: https://x.com/i/flow/login?redirect_after_login=%2Fcomplanetaazul
+## WHATSAPP
+- Enlace oficial en WHATSAPP: https://api.whatsapp.com/send?phone=573186714836
+- Enlace oficial en WHATSAPP: https://api.whatsapp.com/send?phone=573186714836&text=Hola%2C%20estoy%20interesado%20en%20una%20compra_de_cartera%20
+- Enlace oficial en WHATSAPP: https://api.whatsapp.com/send?phone=573186714836&text=Hola%2C%20vengo%20de%20la%20p%C3%A1gina%20web%20y%20quiero%20abrir%20mi%20CDT
+## YOUTUBE
+- Enlace oficial en YOUTUBE: https://www.youtube.com/channel/UC7YOu9z6AfN8Hs9wEqKf5AQ
+- Enlace oficial en YOUTUBE: https://www.youtube.com/shorts/Dr0JF9_qxR0
+- Enlace oficial en YOUTUBE: https://www.youtube.com/user/ComunidadPlanetaAzul
+- Enlace oficial en YOUTUBE: https://www.youtube.com/watch?v=rnrx-8z4J6A&t

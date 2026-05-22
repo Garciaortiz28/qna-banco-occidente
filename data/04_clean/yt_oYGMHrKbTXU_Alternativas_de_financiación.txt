@@ -1,0 +1,7 @@
+# Alternativas de financiación.
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Queremos compartirles las alternativas de financiamiento diferentes a las líneas tradicionales en pesos. Con estas pueden financiar sus obligaciones o proyectos en dolares, euros o yenes.
+## Transcripción
+_Video sin subtítulos disponibles en español._

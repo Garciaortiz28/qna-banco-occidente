@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=cLm2G7ZgWkM
+# Informe de Sostenibilidad 2022, desarrollo de las personas, las regiones y el país
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=cLm2G7ZgWkM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Creemos firmemente en que nuestros colaboradores son parte fundamental de nuestra organización y que cada ser humano es el motor que nos impulsa a seguir haciendo más.
+## Transcripción
+_Video sin subtítulos disponibles en español._

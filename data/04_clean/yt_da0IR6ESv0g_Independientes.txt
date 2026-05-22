@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=da0IR6ESv0g
+# Independientes
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=da0IR6ESv0g  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Elegimos acompañarte en cada paso, para que tu proceso de crecimiento sea continuo.
+## Transcripción
+_Video sin subtítulos disponibles en español._

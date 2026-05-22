@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=qr8oQErfCOY
+# Foro Análisis Nueva Reforma Tributaria
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=qr8oQErfCOY  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+¿Quieres saber más sobre la Reforma Tributaria aprobada en este 2022? 🤔 Acompáñanos en este foro en donde analizamos al detalle junto con nuestro invitado especial todo lo relacionado con la nueva Reforma Tributaria.
+## Transcripción
+_Video sin subtítulos disponibles en español._

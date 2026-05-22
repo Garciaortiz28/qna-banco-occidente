@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Fk5lEWNhVuo
+# Perfilamiento de Servicio en la Aplicación Banco de Occidente Empresas
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Fk5lEWNhVuo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Descubre cómo configurar y administrar el perfilamiento de servicio dentro de la aplicación Banco de Occidente Empresas. Este tutorial te muestra cómo ajustar permisos, accesos y perfiles para optimizar la gestión de usuarios en tu empresa.
+## Transcripción
+_Video sin subtítulos disponibles en español._

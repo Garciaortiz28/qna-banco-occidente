@@ -1,0 +1,6 @@
+<!-- fuente: https://www.youtube.com/watch?v=UKDYINTgVwk -->
+URL: https://www.youtube.com/watch?v=UKDYINTgVwk
+# GENERAR EXTRACTOS
+**URL:** https://www.youtube.com/watch?v=UKDYINTgVwk
+👉https://www.bancodeoccidente.com.co/p....
+👉https://www.bancodeoccidente.com.co/w...

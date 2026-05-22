@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=SMfqnD5KGyg
+# Protocolo de Familia para Empresas Familiares
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=SMfqnD5KGyg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+¿Qué es el protocolo de familia y como se debe implementar en las empresas? 🤔 Junto a Diego Bernal Cortés, Gerente General y Consultor Senior de Family Firm Consulting, hablamos sobre la importancia de este tema.
+## Transcripción
+_Video sin subtítulos disponibles en español._

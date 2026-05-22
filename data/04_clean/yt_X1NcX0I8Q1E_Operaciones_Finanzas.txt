@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=X1NcX0I8Q1E
+# Operaciones & Finanzas
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=X1NcX0I8Q1E  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Diana Paola Dorado Strategic Business
+## Transcripción
+_Video sin subtítulos disponibles en español._

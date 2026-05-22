@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=JMxWnsiBSFI
+
+# El cómputo forense en las empresas
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=JMxWnsiBSFI  
+**Publicado:** 02/10/2023  
+**Duración:** 10:26  
+**Vistas:** 154  |  **Likes:** 4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Descubre el mundo del cómputo forense y su aplicación empresarial en esta entrevista junto a Andrés Muñoz Bermúdez, Gerente de Servicios Forenses de PwC Colombia. 🎙 Conoce todo detrás de la tecnología y la seguridad cibernética mientras exploramos cómo esta disciplina puede fortalecer tu empresa. 💻
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=MALT8YKa6u4
+# La digitalización de las Pymes
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=MALT8YKa6u4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+No te pierdas esta entrevista con Cristhian Quintero, CEO de Esuite, sobre cómo las pymes deben avanzar en su digitalización adaptándose al mundo digital para asegurar el crecimiento y la competitividad en el mercado actual. 📊 ¿Crees que es importante avanzar en la era digital en tu empresa? 🤔
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=CrKW10VIXOA
+# Foro virtual: Economía Circular para Pymes
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=CrKW10VIXOA  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce cómo la sostenibilidad puede transformar tu negocio. Descubre las tendencias globales, oportunidades y retos que están marcando el futuro empresarial.
+## Transcripción
+_Video sin subtítulos disponibles en español._

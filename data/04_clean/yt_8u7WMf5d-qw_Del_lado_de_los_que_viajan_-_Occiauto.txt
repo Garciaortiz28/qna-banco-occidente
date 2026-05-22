@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=8u7WMf5d-qw
+# Del lado de los que viajan - Occiauto
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=8u7WMf5d-qw  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Con los beneficios exclusivos que tenemos para ti, prepárate para explorar nuevos lugares. Deja de frenarte con tantos “peros” y empieza a recorrer nuevos caminos.
+## Transcripción
+_Video sin subtítulos disponibles en español._

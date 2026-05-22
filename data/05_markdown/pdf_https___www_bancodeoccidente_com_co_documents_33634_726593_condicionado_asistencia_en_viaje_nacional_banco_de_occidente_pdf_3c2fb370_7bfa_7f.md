@@ -1,0 +1,497 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/726593/condicionado-asistencia-en-viaje-nacional-banco-de-occidente.pdf/3c2fb370-7bfa-7fb1-cc54-14ecb374c50b?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/726593/condicionado-asistencia-en-viaje-nacional-banco-de-occidente.pdf/3c2fb370-7bfa-7fb1-cc54-14ecb374c50b?download=true
+# 3c2fb370 7bfa 7fb1 cc54 14ecb374c50b?download=true
+**PDF · 22 páginas**
+## LAS PERSONAS EN VIAJE NACIONAL
+asistencial, el Beneficiario deberá ponerse en contacto con la Central  de Alarmas de
+AXA ASISTENCIA las cual está disponible las veinticuatro (24) horas del día, los siete
+(7) días de la semana durante todo el año.
+crédito o débito preferencial emitidas por Banco de Occidente, aplicará únicamente el
+beneficio por la tarjeta con límite más alto. Esta especificación también se aplica para los
+2.4 COSTOS NO CONTEMPLADOS EN LAS
+3.2 GASTOS ODONTOLÓGICOS
+3.3 TRASLADO MÉDICO
+3.4 TRASLADO A DOMICILIO DESPUÉS DE
+3.5 GASTOS COMPLEMENTARIOS DE
+3.6 GASTOS FARMACÉUTICOS
+3.7 GASTOS DE HOTEL POR
+3.8 TIQUETE IDA Y VUELTA PARA UN
+3.9 GASTOS DE HOTEL PARA UN FAMILIAR
+3.10 ACOMPAÑAMIENTO DE MENORES DE
+15 AÑOS
+3.11 TRANSPORTE DE EJECUTIVOS
+3.0 EXCLUSIONES DE TEMAS MEDICOS
+4.1 ASISTENCIA ADMINISTRATIVA
+4.2 INFORMACIÓN GENERAL
+4.3 INFORMACIÓN DEL ESTADO DE
+5.1 TRASLADO EN CASO DE
+## FALLECIMIENTO O ENTIERRO LOCAL/
+5.2 REGRESO ANTICIPADO POR
+5.3 CONTACTO CON EL MÉDICO DE
+5.4 PAGO DE HONORARIOS LEGALES
+5.5 ADELANTOS DE FONDOS
+5.6 CONEXIÓN CON PROFESIONALES
+5.7 TRANSMISIÓN DE MENSAJES
+5.8 ASISTENCIA DERIVADA DE UNA
+## EMERGENCIA POR DAÑO ACCIDENTAL
+## DE EQUIPOS PORTÁTILES
+6.1 BÚSQUEDA Y TRANSPORTE DE
+## EQUIPAJES Y EFECTOS PERSONALES
+6.2 ASISTENCIA DE EMERGENCIA EN
+## CASO DE DEMORA Y/O PERDIDA DE
+6.0. EXCLUSIONES PARA LA PRESTACIÓN
+## DEL SERVICIO DE ASISTENCIA DE
+7.3 PRESCRIPCIÓN Y CADUCIDAD
+8. OTRAS CONDICIONES
+8.2 RESPONSABILIDAD
+8.3 LIMITACIÓN DE RESPONSABILIDAD
+8.4 LIMITACIÓN PARA REEMBOLSOS
+8.5 COSTOS NO CONTEMPLADOS EN LA
+9. DECLARACIONES Y AUTORIZACIONES DE TRATAMIENTO DE DATOS
+10. EXCLUSIONES GENERALES DEL SERVICIO DE ASISTENCIA 17
+11. ANEXOS Anexo No. 1: Valores de las asistencias nacionales. 18 - 22
+PRELIMINAR - DEFINICIONES: Siempre que se utilice con la primera letra mayúscula, en
+continuación tendrán el significado que se le atribuye en la siguiente condición:
+1. Ámbito de territorialidad: País donde AXA ASISTENCIA proporcionarán los Servicios de
+asistencia a un Beneficiario y que en este caso corresponde a Colombia. Para el Programa d e
+servicios de asistencia a las personas en viaje, se entenderá que el Beneficiario tendrá derecho a
+los servicios siempre y cuando se encuentre a más de veinticinco (25) km fuera de su Ciudad de
+2. Accidente: Todo acontecimiento que provoque daños corporales a un Beneficiario, causado
+única y directamente por una causa externa, fortuita y evidente (excluyendo la Enfermedad)
+que ocurra durante el Período de vigencia y en el Ámbito de territorialidad de validez def inido
+3. Beneficiarios: Es el titular de las tarjetas de crédito emitidas por Banco de Occidente
+mencionadas en le presente Programa de asistencia, su cónyuge o compañero (a) permanente,
+sus hijos menores de veinticinco (25) años y/o sus padres siempre que sean dependientes d el
+Titular económicamente y que tienen derecho a solicitar y recibir los servicios de asistencia
+detallados y establecidos en el presente Programa de asistencia. Para tarjetas de crédito
+Empresariales los beneficios aplican para máximo 6 (seis) empleados de la empresa que se
+4. Cónyuge o compañero(a) permanente: Es la persona que tiene con el Beneficiario un vínculo
+o relación sentimental.
+en este caso debe ser en Colombia.
+6. Enfermedad: Cualquier Enfermedad contraída por un Beneficiario, originada por primera vez
+y después de la fecha de salida de su Ciudad de residencia permanente, que ocurra du rante el
+7. Equipo técnico de AXA ASISTENCIA : El personal técnico y asistencial apropiado que esté
+prestando asistencia por cuenta de AXA ASISTENCIA un Beneficiario.
+8. Evento: Acontecimiento o suceso que implique una emergencia o urgencia y responda a los
+den derecho a la prestación de los Servicios de asistencia.
+9. Período de vigencia  del servicio : Se tomarán los días calendario máximos por viaje,
+dependiendo del tipo de tarjeta, contados desde el momento en el cual el beneficiario sale de su
+ciudad de residencia a otra ciudad del país.
+10. Residencia permanente : El domicilio habitual de un Beneficiario y que en este caso debe
+11. Servicios de asistencia : Los servicios asistenciales que prestan AXA ASISTENCIA a los
+12. Situación de asistencia: Cualquier suceso, situación o hecho de los descritos en el presente
+13. Año: Hace referencia a un año calendario (Enero-Diciembre).
+14. Asistencias: Son las descritas en el presente Programa de asistencia y aplican para los
+- El BIN de la tarjeta, que corresponde a los 6 (seis) primeros dígitos de la tarjeta.
+los anteriores datos. El Equipo médico de AXA ASISTENCIA tendrá libre acceso a la hi storia
+clínica del Beneficiario para enterarse de su condición. Si no hubiere justificación razonable del
+Beneficiario para negar a AXA ASISTENCIA el acceso necesario para dicha comprobación, se
+En los casos en que AXA ASISTENCIA, según sea el caso, no tengan disponibilidad de
+proveedores en el Ámbito de territorialidad de validez definida para el servicio, el Beneficiario
+podrá, después de autorización previa por parte de AXA ASISTENCIA, contratar y pagar los
+servicios respectivos y solicitar el reembolso de los gastos cubiertos hasta los topes
+establecidos en los límites de los servicios del Programa de asistencia.
+2.2. FALTA DE NOTIFICACIÓN POR PARTE DEL BENEFICIARIO
+No obstante, cualquier otra disposición de esta condición general o del Programa de asistencia,
+en caso que peligre su vida, el Beneficiario deberá siempre procurar tomar las medidas
+acontecimientos, y a través de los medios más inmediatos, y una vez hecho, deberá llamar a l a
+central de alarma de AXA ASISTENCIA dentro de los diez (10) días siguientes a fin de
+proporcionar la información apropiada. A falta de dicho aviso, AXA ASISTENCIA no rec onocerá
+ni incurrirá en ningún gasto de asistencia puesto que se considerará al Beneficiario como
+responsable de todos los costos y gastos ocasionados por el retraso del mismo en infor mar el
+2.2.2. FALTA DE NOTIFICACIÓN POR PARTE DEL BENEFICIARIO
+A menos que en la descripción de cada Servicio de asistencia este indicado el tiempo máximo de
+comunicación para reportar la Situación de asistencia con la Central de Alarma de AXA
+ASISTENCIA, queda establecido que, en caso de que el Beneficiario no se hubiere comunicado a
+la central de alarma de AXA ASISTENCIA prevista, dentro de los tres (3) días siguient es a la
+de asistencia. A falta de dicho aviso, AXA ASISTENCIA no reconocerá ni incurrirá en ningú n
+gasto de asistencia puesto que se considerará al Beneficiario como responsable de todos los
+costos y gastos ocasionados por el retraso del mismo en informar el suceso.
+2.3.1. DOCUMENTOS A PRESENTAR
+En caso de que los gastos amparados en el presente Programa de asistencia, se paguen antes
+de que el Beneficiario pueda ponerse en contacto con la central de alarma de AXA
+ASISTENCIA, única y exclusivamente en caso de presentarse una situación determinada en el
+numeral (2.2.) del presente artículo, la solicitud de reembolso de estos gastos tendrá que se r
+presentada a AXA ASISTENCIA para su aprobación junto con los documentos siguientes:
+c) Cualquier otro documento que sea necesario para que AXA ASISTENCIA efectué el trámite del
+reembolso solicitado por el Beneficiario.
+alarma de AXA ASISTENCIA, dentro de los tiempos estipulados para los Servicios de asistenci a
+indicados en la descripción de cada servicio o en el presente artículo, y tendrá un tiempo máximo
+de treinta (30) días calendario para el envío a AXA ASISTENCIA de la totalidad de los documentos
+solicitados, tiempo contado a partir de la fecha de la emergencia. Si transcurrido este período el
+Beneficiario no envía la documentación requerida, no tendrá derecho a ningún reembolso por
+parte de AXA ASISTENCIA. Este tiempo también aplica para los gastos farmacéuticos y/o
+medicamentos, así como los gastos odontológicos por enfermedad o accidente que igualmente
+estén enmarcados en el condicionado.
+a) Los gastos incurridos por el Beneficiario a nivel nacional que hayan sido estudiados y
+aprobados para reembolsar por parte de AXA ASISTENCIA, serán
+pagados en su equivalente en pesos colombianos liquidado a la TRM vigente del
+día de la Situación de emergencia
+b) En el estudio por parte de AXA ASISTENCIA sobre el reembolso solicitado por el Beneficiario,
+d) Si el aviso del siniestro se realiza máximo a los 60 días de la ocurrencia se reconoce má ximo
+e) Cuando hay lugar a que el cliente se autoasista y el gasto incurrido es hasta de 1.000  USD,
+se realiza el reembolso a las 48 horas posteriores al reporte.
+f) El reembolso se producirá a los 6 días posteriores al envío completo de la docu mentación,
+cuando el gasto incurrido es mayor a USD 1000.
+g) Para los gastos farmacéuticos y/o medicamentos y los gastos odontológicos de emergencia en
+los que el cliente se auto-asista, el caso debe reportarse máximo a los 180 días de tr anscurrido
+el evento, siempre y cuando esté enmarcado en las condiciones del presente condicionado.
+2.4. COSTOS NO CONTEMPLADOS EN LAS ASISTENCIAS
+Los costos de Servicios de asistencia adicionales no especificados en el presente
+Programa de asistencia o pagos de costos necesarios para la culminación de los
+servicios, que excedan el tope determinado para cada tipo de tarjeta,
+serán a cargo del Beneficiario. AXA ASISTENCIA indicará al Beneficiario,
+previamente a la prestación del servicio, dichos costos y/o excedentes, con el fin
+de este los conozca y decida si acepta asumirlos o no, esto teniendo en cuenta
+que no aceptar asumirlos puede significar la no prestación del servicio.
+Las garantías en el presente Programa de asistencia, expresadas con límite de Eventos en el
+año, se aplicarán según número de sucesos ocurridos en año calendario. En el Anexo No. 1
+nacionales se detalla cuales asistencias están
+limitadas por eventos.
+## PROGRAMA SERVICIOS DE ASISTENCIA EN VIAJE
+Los Servicios de asistencia en viaje nacional, se prestarán bajo las siguientes condiciones:
+- Los Servicios de asistencia son prestados durante los viajes que realice el Beneficiario dentro
+del Período de vigencia de su tarjeta de crédito.
+- Los Servicios de asistencia serán prestados de acuerdo a las definiciones descritas en cada
+prestación y solamente en una situación de emergencia.
+- En las situaciones en las cuales el tarjetahabiente cuente con dos o más tarjetas de crédito
+emitidas por BANCO DE OCCIDENTE, aplicará únicamente el cubrimiento por la tarj eta de
+crédito de categoría más alta. Esta especificación también se aplica para los Beneficiarios del
+3.1. GASTOS MÉDICOS
+En caso de que el Beneficiario, sufra un Accidente o una Enfermedad súbita durante el Perío do
+de vigencia, AXA ASISTENCIA organizará y pagará por los servicios médicos, gastos
+hospitalarios, intervenciones quirúrgicas y productos farmacéuticos hasta un máximo, segú n
+país de ocurrencia de la emergencia y tipo de tarjeta de crédito.
+AXA ASISTENCIA no cubrirá los servicios médicos adicionales y/o diferentes a aquellos que sean
+exclusivos para la atención de la emergencia, tales como terapias, controles médicos posteriores,
+etc. Este Programa de asistencia se configura como seguro médico, ni tiene como objeto la
+3.2. GASTOS ODONTOLÓGICOS
+En caso de que el Beneficiario, sufra un Accidente o una Enfermedad súbita de carácter
+odontológico durante el Período de validez de la garantía, AXA ASISTENCIA organizará y pagará
+por los servicios odontológicos que se deriven de la atención de emergencia.
+3.3. TRASLADO MÉDICO
+En caso de Accidente o Enfermedad del Beneficiario y una vez éste notifique a AXA ASISTENCIA
+organizará la prestación del servicio y pagará por uno de los siguientes beneficios, a consecuencia
+de una condición médica:
+a) El control previo del Equipo médico en contacto con el médico que atiende al Beneficiario
+herido o enfermo, para determinar, según la evolución de su estado, su traslado en ambulancia
+terrestre, hasta el centro hospitalario más cercano.
+b) El traslado al centro hospitalario más cercano, de acuerdo con el criterio del médico  tratante
+y el Equipo médico según la naturaleza de las heridas o la Enfermedad, por vehículo, ambulancia
+terrestre o avión de línea regular. El avión sanitario se utilizará en caso que las her idas o
+Enfermedad sean de tal gravedad que este medio sea el más adecuado según el criterio exclusivo
+del Equipo médico de AXA ASISTENCIA. Según las circunstancias, un médico o una enfermera
+acompañarán al paciente. No se podrá utilizar avión sanitario para transportes
+intercontinentales, ni distancias superiores a cuatro horas de vuelo, excluyendo las esca las
+3.4. TRASLADO A DOMICILIO DESPUÉS DE TRATAMIENTO
+Si el Beneficiario, después del tratamiento local, según el criterio del Equipo médico de AXA
+cargo de todos los gastos suplementarios de ambulancias locales en aeropuerto, si fues e
+necesario, y en el caso que el tiquete de regreso no fuese válido para tal propósito.
+3.5. GASTOS COMPLEMENTARIOS DE AMBULANCIA
+En caso de repatriación sanitaria, la compañía organizará y pagará los servicios de traslado en
+ambulancia del beneficiario hasta el aeropuerto para llevar a cabo la repatriación, y una vez
+repatriado, desde el aeropuerto hasta su domicilio habitual o hasta un centro hospitalario, según
+3.6. GASTOS FARMACÉUTICOS
+de validez de la garantía, AXA ASISTENCIA, organizará y pagará los productos farmacéu ticos
+derivados de la atención médica prestada.
+3.7. GASTOS DE HOTEL POR CONVALECENCIA
+AXA ASISTENCIA pagará los gastos de alojamiento para la prolongación de la estancia del
+Beneficiario en un hotel escogido por AXA ASISTENCIA inmediatamente después de haber sido
+dado de alta del hospital y si ésta prolongación ha sido prescrita por el médico local o  el Equipo
+médico de AXA ASISTENCIA.
+No se cubren los gastos adicionales al alojamiento como cargos de alimentación,
+comunicaciones, bebidas y demás servicios prestados por el hotel.
+3.8. TIQUETE IDA Y VUELTA PARA UN FAMILIAR ACOMPAÑANTE
+Si el Beneficiario debe permanecer hospitalizado por un período superior a cinco (5) días, AXA
+ASISTENCIA facilitará a un familiar o persona designada por el mismo y residente en la Ciudad
+de residencia permanente del Beneficiario, un tiquete de ida y vuelta para visitarle. (Avión de
+línea regular con tarifa en clase económica en primera prioridad, o en taxi o autobús según sea
+el caso). En caso de requerirse visa o cualquier otra exigencia para el viaje, será tr amitada y
+costeada por el Beneficiario del tiquete.
+3.9. GASTOS DE HOTEL PARA UN FAMILIAR ACOMPAÑANTE
+En caso de hospitalización del Beneficiario por un período superior a cinco (5) días, AXA
+ASISTENCIA pagará los gastos de estancia para un acompañante, en un hotel escogido por AXA
+3.10. ACOMPAÑAMIENTO DE MENORES DE 15 AÑOS
+En caso de Enfermedad o Accidente del Beneficiario, que deba permanecer hospitalizado y que
+se encontrare acompañado por un menor de 15 años, AXA ASISTENCIA se hará cargo y pagará
+a) El tiquete de avión línea regular en tarifa clase económica, de regreso al domicilio del menor,
+en Colombia, en el caso que el tiquete no fuera válido para tal propósito.
+b) El acompañamiento del menor hasta el aeropuerto.
+c) Las formalidades de embarque de dichos menor.
+d) La coordinación con la aerolínea para que dicho menor pueda viajar en condición de menor
+e) Proporcionar a los familiares de dicho menor las informaciones relativas a su retorno.
+3.11. TRANSPORTE DE EJECUTIVOS
+súbita, estando de viaje por compromisos laborales y no pueda posponerse la agenda de viaje,
+AXA ASISTENCIA asumirá los gastos del tiquete de ida y regreso en vuelo regular de aerolínea
+comercial de un ejecutivo designado por el Beneficiario para sustituirle y cumplir con la misión
+laboral encomendada al primero.
+3.0. EXCLUSIONES DE TEMAS MEDICOS
+Las siguientes son las exclusiones de los servicios enunciados en los numerales 3.1 a 3.11:
+a) El costo de prótesis, lentes de contacto, gafas, aparatos auditivos, dentaduras o  cirugía
+b) Gastos médicos y hospitalarios o tratamientos médicos en Colombia.
+c) Patologías preexistentes al viaje o dolencias crónicas o congénitas o recurrentes, conocid as
+o no por el Beneficiario antes o durante el viaje, así como también sus consecuencias y
+agudizaciones, aun cuando las mismas aparezcan por primera vez durante el viaje. La
+determinación de la patología preexistente se hará mediante la evaluación del estado clínico
+del paciente y estará a cargo del Equipo médico de AXA ASISTENCIA. En estos eventos no se
+cubrirá la urgencia vital.
+d) No se cubrirá enfermedades cardiacas, coronarias ni cardiovasculares, así como sus
+complicaciones tal es el caso del infarto agudo al miocardio. En estos eventos no se cubrir á
+la urgencia vital.
+e) Cálculos o litos del árbol urinario o del árbol hepático.
+f) Embarazos durante los últimos tres meses antes de la fecha prevista del parto, así como este
+último y los exámenes prenatales.
+g) Enfermedades mentales o alienación.
+h) Neumonía y sus complicaciones, patologías de la vía aérea inferior. El manejo
+intrahospitalario de dicha patología se encuentra por fuera del servicio de asistencias. En
+estos eventos no se cubrirá la urgencia vital.
+i) Enfermedades cerebro vasculares ni sus complicaciones tales como accidente isquémico
+transitorio, hemorragias intracraneanas de cualquier localización, ni eventos isquémicos. En
+j) Patologías neoplasicas ni sus complicaciones y/o agudizaciones, sean o no conocidas por el
+k) Asistencia por afecciones o lesiones consecuentes de la exposición del sol.
+l) Controles de tensión, hipertensión e hipotensión arterial y sus consecuencias.
+m) Cáncer y todos sus tratamientos.
+n) Elementos protésicos (Sillas de Ruedas, Muletas, Bastones, Férulas, etc.)
+o) Para la asistencia odontológica, quedan excluidas las prótesis dentales, tratamientos
+estéticos y cualquier otro tratamiento que no esté encaminado a superar la urgencia y hacer
+un adecuado manejo del dolor.
+p) Autolesiones de cualquier tipo y las consecuencias de las mismas al igual que el suicidio o
+enfermedad y lesiones resultantes del suicidio o lesiones resultado de la puesta en peligro de
+manera voluntaria por parte del Beneficiario.
+q) Toda actividad que implique un riesgo, la práctica de deportes como profesional o la
+participación en competencias oficiales o exhibiciones.
+r) La participación del Beneficiario en carreras de caballos, de bicicletas, y en cualquier clase
+de coches y exhibiciones, u otros deportes peligrosos o de alto riesgo.
+s) Enfermedades o estados patológicos producidos de manera intencional, o por la ingestión o
+administración de tóxicos (drogas), embriaguez, narcóticos, o por la utilización de
+t) Suicidio o enfermedad y lesiones resultantes del suicidio.
+u) Enfermedad ocurrida durante un viaje realizado contra la prescripción médica.
+v) Todas las Enfermedades de Transmisión Sexual (ETS) y/o prácticas sexuales irresponsables
+que afecten el bienestar y las enfermedades derivadas.
+w) Emergencias o enfermedades causadas por exposición a radioactividad o similares.
+4. ASISTENCIAS DE INFORMACIÓN
+4.1. ASISTENCIA ADMINISTRATIVA
+En caso de pérdida o robo de un documento esencial para la continuación del viaje d el
+Beneficiario (como, por ejemplo tarjeta de crédito, tiquete de compañía aérea.) AXA ASISTENCIA
+4.2. INFORMACIÓN GENERAL
+A solicitud del Beneficiario, AXA ASISTENCIA le informará o comunicará sobre los sigu ientes
+servicios, que sean prestados en Colombia:
+## Información para Ejecutivos
+-   Renta de equipos: celulares y computadores portátiles
+## Información Turística
+-   Teléfonos y direcciones de los Consulados y Embajadas extranjeras
+-   Teléfonos y direcciones de las principales compañías aéreas
+-   Principales hoteles a nivel internacional
+-   Impuestos de aeropuerto.
+4.3. INFORMACIÓN DEL ESTADO DE CARRETERAS
+5. ASISTENCIAS ESPECIALES
+5.1. TRASLADO EN CASO DE FALLECIMIENTO O ENTIERRO LOCAL/ REPATRIACION
+En caso de fallecimiento del Beneficiario, AXA ASISTENCIA hará los arreglos que sean necesarios
+(incluyendo las acciones necesarias para cumplir las formalidades oficiales que le fueran
+permitidas), organizará y pagará por uno de los siguientes beneficios:
+a) El traslado del cuerpo o de sus cenizas al lugar de sepultura en la Ciudad de res idencia
+permanente (AXA ASISTENCIA no reconocerá ni asumirá los gastos funerarios, ni de entierro o
+b) A solicitud de los herederos o Representantes del Beneficiario, el entierro local del Beneficiario,
+en el entendido que la responsabilidad financiera de AXA ASISTENCIA por dicho entierro a nivel
+local, estará limitada al equivalente del costo del traslado de los restos conforme a lo establecido
+5.2. REGRESO ANTICIPADO POR FALLECIMIENTO DE UN FAMILIAR
+AXA ASISTENCIA organizará y tomará a su cargo los gastos suplementarios derivados del regreso
+anticipado del Beneficiario por avión de línea regular tarifa en clase económica, en caso de
+fallecimiento súbito y accidental de un familiar en primer grado, entendiéndose padres, hij os o
+su cónyuge, en la Ciudad de residencia permanente, siempre que no pueda utilizar su tiquete
+inicial de regreso.
+5.3. CONTACTO CON EL MÉDICO DE CABECERA
+En el caso de que los Beneficiarios soliciten contactarse con el médico de cabecera en virtud del
+accidente o enfermedad, originada o no por una afección preexistente, que hayan sufrido durante
+el viaje, Axa organizará y pondrá a disposición sus redes de contacto para localizar a dicho
+médico de cabecera y pagará los costos y gastos de la comunicación telefónica.
+5.4. PAGO DE HONORARIOS LEGALES
+En el caso de que los Beneficiarios durante el viaje necesitaran asistencia legal en relación a la
+imputación de responsabilidad por un accidente, y siempre que dicha imputación no se relacione
+con una actividad comercial, ni con el tráfico, posesión o venta de drogas, armas,
+estupefacientes, enervantes o cualquier otro crimen que no sea la responsabilidad por  dicho
+accidente, AXA Asistencia pagará los honorarios de abogados intervinientes en las cuestiones
+preliminares de defensa de dicha imputación de responsabilidad, hasta el límite establecido en
+el Anexo No. 1 “Valores de las asistencias Nacionales”.
+5.5. ADELANTOS DE FONDOS
+En caso de arresto o detención del Beneficiario como consecuencia de un accidente
+automovilístico, AXA ASISTENCIA hará los arreglos necesarios para otorgar el depósito de
+garantía a fin de procurar obtener la libertad provisional del Beneficiario. Queda excluida
+cualquier reclamación que se derive de un riesgo ocupacional, o por implicaciones en tráfico y/o
+posesión de drogas, estupefacientes o enervantes, o cualquier otra acción criminal. Previamente
+a desembolso de cualquier avance de pago por AXA ASISTENCIA, el Beneficiario o su
+autorización para debitar de su propia cuenta el importe equivalente.
+AXA Asistencia adelantará fondos al beneficiario, en caso de necesidad, hasta el límite. AXA
+solicitará al Beneficiario algún tipo de aval o garantía que le asegure el cobro del anticipo. En
+cualquier caso, las cantidades adelantadas deberán ser devueltas a AXA en el plazo máximo de
+30 días.
+5.6. CONEXIÓN CON PROFESIONALES
+técnicos en las siguientes especialidades, sin asumir ningún, costo o responsabilidad: i)
+Jardinería, ii) Vigilancia, iii) Arquitectura, iv) Ebanistería, v) Pintura, vi) Lavado de tapetes.  El
+costo de los servicios prestados por los profesionales referidos estará por cuenta del Beneficiario.
+5.7. TRANSMISIÓN DE MENSAJES URGENTES
+5.8. ASISTENCIA DERIVADA DE UNA EMERGENCIA POR DAÑO ACCIDENTAL DE EQUIPOS
+6. SERVICIOS DE ASISTENCIA DE EQUIPAJE
+sufra demora o pérdida de equipaje en el viaje, con el fin de que este pueda recuperar o reponer
+sus elementos de primera necesidad.
+- Aplica para trayectos nacionales realizados en aerolíneas comerciales.
+- El Servicio de asistencia aplica siempre y cuando la aerolínea se haya hecho responsable del
+traslado del equipaje, que en este caso se refiere a todos aquellos artículos y efecto s personales
+que el pasajero no lleva consigo; los cuales se demoren en llegar a la ciudad de destino de l
+Beneficiario o que se extravíen o pierdan en su traslado.
+- Las asistencias serán aplicables durante los viajes que realice el Beneficiario dentro del Período
+- El Servicio de asistencia de equipaje está limitada a 2 eventos por año.
+emitidas por BANCO DE OCCIDENTE, aplicará únicamente el servicio por la tarjeta de crédito
+con límite más alto. Esta especificación también se aplica para los Beneficiarios del
+6.1. BÚSQUEDA Y TRANSPORTE DE EQUIPAJES Y EFECTOS PERSONALES
+línea comercial, AXA ASISTENCIA prestará asesoría al Beneficiario para la denuncia de los
+hechos frente a la aerolínea y ayudará en su búsqueda. Es de indicar que la responsabilid ad de
+extravío o pérdida del equipaje es de la aerolínea y AXA ASISTENCIA única mente asistirá al
+Beneficiario en la búsqueda del mismo. Si el equipaje fuera recuperado, AXA ASISTENCIA se
+encargará de coordinar su transporte hasta el lugar donde se encuentre el Beneficiario en viaje
+o hasta la Ciudad de residencia permanente en Colombia.
+6.2. ASISTENCIA DE EMERGENCIA EN CASO DE DEMORA DE EQUIPAJE
+LAS ASISTENCIAS NACIONALES, por el medio que AXA ASISTENCIA considere más idóneo. Este
+servicio aplica independientemente del número de piezas de equipaje del Beneficiario.
+Anexo No. 1: VALORES DE LAS ASISTENCIAS NACIONALES.
+En el trayecto de vuelo de regreso del Beneficiario a su Ciudad de Residencia en el ca so de solo
+será aplicable y exigible la garantía de satisfacción del servicio por pérdida definitiva de equipaje,
+en este caso no aplicará la asistencia por demora.
+6.0. EXCLUSIONES PARA LA PRESTACIÓN DEL SERVICIO DE ASISTENCIA DE EQUIPAJE
+7. OBLIGACIONES GENERALES DEL BENEFICIARIO
+8. OTRAS CONDICIONES DEL SERVICIO DE ASISTENCIA
+omisión por parte de dichos proveedores que estén debidamente autorizados (cuando sea
+8.5 COSTOS NO CONTEMPLADOS EN LA ASISTENCIA
+9. DECLARIACIONES Y AUTORIZACIONES DE TRATAMIENTO DE DATOS PERSONALES
+con el Servicio de asistencia, pudiendo compartir su información personal con contratistas,
+subcontratistas, proveedores, proveedores tecnológicos, proveedores de salud , operadores
+logísticos, compañías financieras, compañías de franquicias, compañías de  terceros que
+estén relacionados con la prestación de los servicios de asistencia aquí contratados, filiales
+del grupo AXA que se encuentren ubicadas en Colombia, y en cualquier otro país en donde
+las filiales del grupo AXA tenga operación o con cualquier tercero que con ocasión a la
+ejecución del servicio de asistencia deba conocer mi información personal, del mismo modo,
+autoriza el tratamiento de sus datos personales o para cualquier operación que resulte
+necesaria para la prestación del servicio de asistencia, a fin complementada o asociada.
+Esta autorización también involucra la revelación o encargo de su información personal
+dentro y fuera del territorio colombiano. Adicionalmente autoriza transferir y transmitir sus
+datos personales con terceros a nivel nacional e internacional cuando sea necesario siempre
+y cuando dicha transmisión o transferencia se relacione con el Servicio de asistencia
+• El Beneficiario autoriza el tratamiento de sus datos de carácter especial, por tanto , la
+información personal sensible y por tanto se tratará para los siguientes fines: orient ación
+médica general que no implica diagnóstico ni cita médica y la información relacionada con
+su estado de salud la cual sea reportada a través de la Central de Alarmas a proveedo res
+de Salud, y en general a proveedores de servicios relacionados con los Servicios de este
+documento. Esta información es tratada con la finalidad exclusiva de contar con un
+esquema de seguridad que permita facilitar la prestación del Servicio de asistencia,
+identificar los tipos de servicios requeridos como usuario y en generar una mejor atención
+en sus Servicios de asistencia.
+Para más información debe consultar las políticas y condiciones a través de la página web:
+prestación de los Servicios, serán utilizados para: (i) la prestación del servicio de asistencia,
+(ii) para que lo contacten a través de canales presenciales o no presenciales para la
+recepción de publicidad, obsequios e información sobre diferentes productos de asistencia,
+(iii) adicionalmente autoriza a tratar sus datos personales de manera directa o a través de
+datos personales, (iv) autoriza utilizar su información personal para que se realicen
+informes comerciales, estadísticas, encuestas y estudios de mercado, (v) reconoce y ace pta
+que existe la posibilidad de que AXA ASISTENCIA transfiera los datos personales a terceros
+con la finalidad de realizar actividades de telemarketing bajo la garantía de que AXA
+ASISTENCIA no utilizará de manera indebida la información personal. En el evento en que
+AXA ASISTENCIA les diera un uso distinto a los datos personales el Beneficiario podrá
+comunicar a AXA ASISTENCIA a través de correo electrónico sobre dicho uso, d e manera
+que pueda formular cualquier tipo de oposición a dichos tratamientos en caso de no est ar
+datos personales, imposibilita a AXA ASISTENCIA a incluirlos en cualquier base de datos
+que remita información instantánea y actualizada. Además, de solicitar la revocatoria, AXA
+revocatoria de consentimiento, modificación o cualquier otro, podrá contactarnos a tr avés
+10.  EXCLUSIONES GENERALES DEL SERVICIO DE ASISTENCIA
+## Asistencia viaje nacional
+Es el titular de las tarjetas de crédito emitidas por Banco de Occidente mencionadas  en el presente Programa de
+asistencia, su cónyuge o compañero (a) permanente, sus hijos menores de veinticinco (25) años y/o sus pad res
+siempre que sean dependientes del Titular económicamente y que tienen derecho a solicitar y recibi r los servicios de
+asistencia detallados y establecidos en el presente Programa de asistencia. (Este producto aplica también para
+colombianos que tengan la tarjeta y que vivan o laboren fuera del país).
+El derecho a las prestaciones de este anexo comenzará a partir del kilómetro 100 desde la dirección de domicilio del
+asegurado. Las asistencias referidas se extenderán al territorio de la República de Colombia, si empre y cuando la
+permanencia del asegurado y/o beneficiario(s) fuera de su domicilio habitual no sea superior a 100 d ías.
+## ASISTENCIA EN VIAJE NACIONAL LIMITE POR EVENTO
+## INTERNACIONAL ORO/GOLD PLATINUM BLACK SIGNATURE INFINITE
+01 Gastos médicos por accidente o
+enfermedad USD 100 USD 100 USD 200 USD 200 USD 300 USD 300
+03 Traslados médicos de emergencia USD 10.000 USD 10.000 USD 10.000 USD 10.000 USD 10.000 USD 10.000
+04 Traslado médico de emergencia y/o
+05 Gastos complementarios de ambulancia USD 10.000 USD 10.000 USD 10.000 USD 10.000 USD 10.000 USD 10.000
+06 Medicamentos USD 100 USD 100 USD 200 USD 200 USD 200 USD 700
+07 Gastos de Hotel por convalecencia USD 200 día / 10
+08 Interrupción del viaje ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+09 Gastos de acompañamiento de un familiar ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+10 Acompañamiento y retorno de menores de
+15 años ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+11 Traslado de restos mortales USD 10.000 USD 10.000 USD 10.000 USD 10.000 USD 10.000 USD 10.000
+12 Contacto con el médico de cabecera ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+13 Asistencia administrativa ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+14 Pago de honorarios legales N/A USD 2.500 USD 2.500 USD 3.000 USD 3.000 USD 3.000
+16 conserjería y servicios de información ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+17 Conexión con profesionales ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+18 Trasmisión de mensajes urgentes ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+19 Localización y transporte de equipaje ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO ILIMITADO
+20 Demora o extravío de equipaje USD 150 USD 150 USD 300 USD 600 USD 600 USD 800
+21 Pérdida definitiva de equipaje USD 500 USD 600 USD 650 USD 1.500 USD 1.500 USD 2.000
+22 Compensación de equipos portátiles por
+pérdida o daño accidental NO CUBRE NO CUBRE NO CUBRE USD 1.000 1
+USD 1.000 1 evento
+## Días de viaje 100 días 110 días
+## Asistencia en viaje Nacional Corporativo y empresas
+Es el titular de las tarjetas de crédito emitidas por Banco de Occidente mencionadas en el presente Programa de
+siempre que sean dependientes del Titular económicamente y que tienen derecho a solicitar y reci bir los servicios
+de asistencia detallados y establecidos en el presente Programa de asistencia. Para tarjetas de crédito
+Empresariales los beneficios aplican para máximo 6 (seis) empleados de la empresa que se encuentren en
+misión de trabajo.
+territorio de la República de Colombia, siempre y cuando la permanencia del asegurado y/o beneficiario (s ) fuera
+de su domicilio habitual no sea superior a 100 días.
+## ASISTENCIA EN VIAJE NACIONAL, TARJETA
+## EMPRESARIAL Y CORPORATIVA LIMITE POR EVENTO
+## Asistencias MASTER CARD PYME
+01 Gastos médicos por accidente o enfermedad  USD 1.500 USD 2.000 USD 3.000 USD 5.000
+300 USD en caso de
+accidente o enfermedad
+Evacuación medica  USD 10.000 USD 10.000 USD 10.000 USD 10.000
+05 Gastos complementarios de ambulancia  USD 10.000 USD 10.000 USD 10.000 USD 10.000
+06 Medicamentos Ilimitado  Ilimitado  Ilimitado  Ilimitado
+07 Gastos de hotel por convalecencia   USD 2.000 / 10 Noches  USD 2.000 / 10 Noches  USD 2.000 / 10 Noches  USD 2.500 / 10 Noches
+09 Gastos de acompañamiento de un familiar  Ilimitado  Ilimitado  Ilimitado  Ilimitado
+10 Transporte de ejecutivos  2 EVENTOS 2 EVENTOS 2 EVENTOS 2 EVENTOS
+11 Acompañamiento y retorno de menores de 15
+años  Ilimitado  Ilimitado  Ilimitado  Ilimitado
+12 Traslado de resto mortales  Ilimitado  Ilimitado  Ilimitado  Ilimitado
+13 Contacto con el médico de cabecera  Eventos ilimitados Eventos ilimitados Eventos ilimitados Eventos ilimitados
+14 Asistencia administrativa  Ilimitado  Ilimitado  Ilimitado  Ilimitado
+15 Pago de honorarios legales  USD 1.000 USD 2.500 USD 2.500 USD 2.500
+16 Adelantos de fondos  USD 6.000 USD 6.000 USD 6.000 USD 6.000
+17 Consejería y servicios de información  Ilimitado  Ilimitado  Ilimitado  Ilimitado
+18 Conexión con profesionales  Ilimitado  Ilimitado  Ilimitado  Ilimitado
+19 Transmisiones de mensajes urgentes  Ilimitado  Ilimitado  Ilimitado  Ilimitado
+20 Localización y transporte de equipaje  Ilimitado  Ilimitado  Ilimitado  Ilimitado
+21 Demora o extravío de equipaje  USD 200 USD 200 USD 200 USD 500
+22 Pérdida definitiva de equipaje  USD 1.800 USD 1.800 USD 1.800 USD 2.000
+23 Compensación de equipaje portátiles por
+perdida o daño accidental  USD 500 USD 500 USD 500 USD 700
+## PROGRAMA DE ASISTENCIA A LAS PERSONAS EN VIAJE NACIONAL
+Ámbito de territorialidad: A partir del Km 25 fuera de la ciudad de residencia dentro del territorio nacional colombiano
+## Asistencias Límite
+Gastos médicos por accidente o enfermedad  USD 1.500
+Gastos odontológicos por accidente o enfermedad  300 USD en caso de accidente o enfermedad
+Repatriación médica USD 10.000
+Gastos complementarios de ambulancia  USD 10.000
+## Medicamentos Ilimitado
+Gastos de hotel por convalecencia   USD 2.000 / 10 Noches
+## Interrupción del viaje  Ilimitado
+## Gastos de acompañamiento de un familiar  Ilimitado
+## Transporte de ejecutivos  2 EVENTOS
+## Acompañamiento y retorno de menores de 15 años  Ilimitado
+## Repatriación en caso de fallecimiento  Ilimitado
+## Contacto con el médico de cabecera  Eventos ilimitados
+## Asistencia administrativa  Ilimitado
+Pago de honorarios legales  USD 1.000
+Adelantos de fondos  USD 6.000
+## Consejería y servicios de información  Ilimitado
+## Conexión con profesionales  Ilimitado
+## Transmisiones de mensajes urgentes  Ilimitado
+## Localización y transporte de equipaje  Ilimitado

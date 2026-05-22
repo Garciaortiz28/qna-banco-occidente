@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=pe6ebCxD1cw
+# Banco de Occidente I MiboBdO
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=pe6ebCxD1cw  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Buscando estar al día con las tendencias digitales, hemos creado un nuevo canal de consulta en Twitter. Síguenos en: https://twitter.com/MiboBdO ¡y espera pronto más información!
+## Transcripción
+_Video sin subtítulos disponibles en español._

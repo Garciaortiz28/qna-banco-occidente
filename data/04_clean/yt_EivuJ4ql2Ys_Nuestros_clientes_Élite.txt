@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=EivuJ4ql2Ys
+# Nuestros clientes Élite.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=EivuJ4ql2Ys  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce todos los beneficios que tenemos para ti por ser cliente Élite.
+## Transcripción
+_Video sin subtítulos disponibles en español._

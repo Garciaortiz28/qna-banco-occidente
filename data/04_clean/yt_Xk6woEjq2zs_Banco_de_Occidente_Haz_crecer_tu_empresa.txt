@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Xk6woEjq2zs
+# Banco de Occidente | ¡Haz crecer tu empresa!
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Xk6woEjq2zs  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Porque Creemos en la educación financiera, conoce cómo aprovechar lo que el sector financiero ofrece para hacer crecer tu empresa.
+## Transcripción
+_Video sin subtítulos disponibles en español._

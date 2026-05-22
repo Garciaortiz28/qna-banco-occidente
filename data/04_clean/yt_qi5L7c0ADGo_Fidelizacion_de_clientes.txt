@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=qi5L7c0ADGo
+# Fidelización de clientes
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=qi5L7c0ADGo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conferencista: Diana Paola Dorado Strategic Business
+## Transcripción
+_Video sin subtítulos disponibles en español._

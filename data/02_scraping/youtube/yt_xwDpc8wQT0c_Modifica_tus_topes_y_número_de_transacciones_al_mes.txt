@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=xwDpc8wQT0c
+
+# Modifica tus topes y número de transacciones al mes
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=xwDpc8wQT0c  
+**Publicado:** 22/05/2024  
+**Duración:** 1:13  
+**Vistas:** 3,023  |  **Likes:** 6  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conoce el paso a paso para actualizar tus topes y número de transacciones al mes.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,21 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/web/empresas/factoring/calendario-tributario -->
+URL: https://www.bancodeoccidente.com.co/web/empresas/factoring/calendario-tributario
+# Pago Impuestos Nacionales | Banco de Occidente - Empresas
+# Consulta las fechas de pago:
+## PES, IVA, Retefuente, Consumo, Gasolina, Carbono, RST
+## Retefuente, Renta, Gasolina, RST, RUB
+## PES, IVA, Retefuente, Consumo, Gasolina, Carbono
+## Renta, Declaracion Anual, Retefuente, Gasolina, RST
+Renta, personas jurídicas, personas no residentes, IVA,
+### Principales impuestos que puedes pagar
+#### Impuesto sobre la Renta
+#### Impuesto al Valor Agregado (IVA)
+#### Régimen Simple de Tributación (RST)
+### Evita sanciones e intereses por mora
+El Banco de Occidente pone a tu disposición el calendario tributario actualizado, donde puedes consultar fácilmente las fechas límite de pago según el tipo de impuesto.
+### Consulta aquí las fechas de los Impuestos Nacionales
+### ¿Cómo pagar tus impuestos con el Banco de Occidente?
+Ingresa a la plataforma MUISCA de la DIAN y liquida tu impuesto.
+Obtén el número del formulario o recibo.
+## Paga tu impuesto: En línea a través de PSE
+### Pagar tus impuestos nacionales nunca fue tan fácil.

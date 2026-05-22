@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=86D4ZjEcHfA
+
+# Aprende a activar tu Token Mobile
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=86D4ZjEcHfA  
+**Publicado:** 06/08/2024  
+**Duración:** 2:06  
+**Vistas:** 5,230  |  **Likes:** 10  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Realiza este paso a paso desde el portal transaccional. Estamos contigo donde estés.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

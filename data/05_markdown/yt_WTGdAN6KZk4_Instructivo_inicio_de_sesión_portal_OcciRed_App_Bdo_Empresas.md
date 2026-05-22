@@ -1,0 +1,7 @@
+<!-- fuente: https://www.youtube.com/watch?v=WTGdAN6KZk4 -->
+URL: https://www.youtube.com/watch?v=WTGdAN6KZk4
+# Instructivo inicio de sesión portal OcciRed – App Bdo Empresas
+**URL:** https://www.youtube.com/watch?v=WTGdAN6KZk4
+Conoce los nuevos cambios en el token virtual para que puedas iniciar sesión en tu portal OcciRed de manera más ágil, segura y con menos pasos.
+Para más información, comunícate con nuestra línea de atención al 01 8000 51 4652, opción 8. ¡Estamos aquí para ayudarte!
+#ContigoDondeEstés #AppEmpresas # OcciRed.

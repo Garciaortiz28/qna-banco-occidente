@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=3PsEJnC8FJM
+# Cuenta de Ahorros 100% digital.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=3PsEJnC8FJM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Abre tu Cuenta de Ahorros hoy, activa tu KUBO Rentable y recibe 9% E.A. de
+## Transcripción
+_Video sin subtítulos disponibles en español._

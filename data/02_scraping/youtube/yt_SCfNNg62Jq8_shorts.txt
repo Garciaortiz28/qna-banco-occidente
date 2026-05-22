@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=SCfNNg62Jq8
+
+# #shorts
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=SCfNNg62Jq8  
+**Publicado:** 17/03/2023  
+**Duración:** 0:16  
+**Vistas:** 102  |  **Likes:** 1  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

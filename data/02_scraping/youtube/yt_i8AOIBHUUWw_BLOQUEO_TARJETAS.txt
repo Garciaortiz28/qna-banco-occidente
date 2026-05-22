@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=i8AOIBHUUWw
+
+# BLOQUEO TARJETAS
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=i8AOIBHUUWw  
+**Publicado:** 04/03/2026  
+**Duración:** 1:05  
+**Vistas:** 481  |  **Likes:** 3  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=s7Yugn_C6gU
+
+# Foro Virtual OcciRed Módulo de Consultas - Accede a toda la información de tus productos.
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=s7Yugn_C6gU  
+**Publicado:** 19/05/2022  
+**Duración:** 51:38  
+**Vistas:** 486  |  **Likes:** 4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conocer el saldo de tus productos, consultar los movimientos de tus cuentas o generar en línea tus extractos, lo puedes hacer ahora a través del Módulo de Consultas de tu Portal Transaccional. Mira el video y descubre sus nuevas funcionalidades.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

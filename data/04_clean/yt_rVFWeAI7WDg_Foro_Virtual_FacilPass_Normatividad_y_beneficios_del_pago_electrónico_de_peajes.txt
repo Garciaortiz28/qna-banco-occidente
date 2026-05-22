@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=rVFWeAI7WDg
+# Foro Virtual FacilPass – Normatividad y beneficios del pago electrónico de peajes
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=rVFWeAI7WDg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce la normativa sobre la interaoperabilidad del pago electrónico de peajes y los beneficios para tu compañía. 
+Conferencistas invitados: María Elena Obando, Presidenta Ejecutiva Grupo Coordinadora y Alberto Moncada, Gerente de FacilPass.
+## Transcripción
+_Video sin subtítulos disponibles en español._

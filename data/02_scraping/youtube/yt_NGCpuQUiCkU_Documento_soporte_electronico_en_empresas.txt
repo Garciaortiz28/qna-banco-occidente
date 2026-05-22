@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=NGCpuQUiCkU
+
+# Documento soporte electrónico en empresas
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=NGCpuQUiCkU  
+**Publicado:** 20/08/2024  
+**Duración:** 7:38  
+**Vistas:** 142  |  **Likes:** 1  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+¿Por qué es tan importante? ¿Qué requisitos debe tener? No te pierdas la entrevista a Andres Torres, líder de cumplimiento y normativa de Alegra.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

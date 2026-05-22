@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=olY0Y4z0voo
+# Hacer nos mantiene unidos
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=olY0Y4z0voo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En Banco de Occidente lo tenemos todo para que juntos sigamos alcanzando todas tus metas y proyectos. Descubre cómo el hacer nos une.
+## Transcripción
+_Video sin subtítulos disponibles en español._

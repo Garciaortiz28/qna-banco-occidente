@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=pcpt2cMJcFo
+
+# Segmento Preferente
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=pcpt2cMJcFo  
+**Publicado:** 12/06/2024  
+**Duración:** 0:47  
+**Vistas:** 5,639  |  **Likes:** 31  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conoce nuestro segmento Preferente, donde encontrarás un ecosistema de atención digital de manera fácil, rápida y segura. Disfruta de los canales que tenemos para ti, como WhatsApp, banca móvil, línea de atención, página web, entre otros, porque queremos estar contigo donde estés.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

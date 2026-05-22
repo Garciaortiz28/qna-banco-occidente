@@ -1,0 +1,34 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/quienes-somos/informacion-accionistas -->
+URL: https://www.bancodeoccidente.com.co/quienes-somos/informacion-accionistas
+# Information for investors
+#### Financial statements
+Find the nearest Bank of the West branch and access all our services.
+#### Corporate Governance
+Enter and consult the Code of Good Corporate Governance and Reports of Best Corporate Practices.
+See shareholding, information about the Assembly, information of interest to the investor, among others.
+Consult relevant information about our Company, reported to the Financial Superintendence of Colombia.
+Consult the bond issuance from 2006 to the current date.
+Download the reports from the rating agencies Fitch Rating and Standard & Poor's.calificadoras Fitch Rating y Standard & Poor´s.
+Members of the Board of Directors, Alternates, Advisors, President of the Bank and Vice Presidents.
+We make available to our clients and investors information about our board members, alternates, advisors, President and Vice Presidents of the Bank. Curriculum Vitae of the members of the Board of Directors Statutory period March 2024 to March 2025.
+Note: Experience is according to the GICS Dow Jones classification.
+## General Organization Chart of the Bank
+## Jorge Castaño Gutiérrez
+## Ricardo Villaveces Pardo
+## Ivan Felipe Mejia Cabal
+## Mauricio Gutiérrez Vergara
+## Eduardo Herrera Botta
+## Mauricio Iragorri Rizo
+## Eduardo Duque Suarez
+## Maria Fernanda Mejía de Juri
+Notas: La experiencia es según la clasificación GICS por el Dow Jones.
+## Luis Carlos Sarmiento Angulo
+## Juana Beltrán Echeverri – Vicepresidencia Jurídica
+## Carlos Andrés Echeverri – Vicepresidencia Empresas
+## Mauricio Maldonado Umaña - Vicepresidente Financiero y de Estrategia
+## Julián Sinisterra Reyes - Vicepresidente Comercial Personas
+## Mario Fernando Botina Tovar - Vicepresidencia de Operaciones y Tecnología
+## Fabian Mauricio Arias – Vicepresidente de Riesgo
+## Iván Mauricio Cepeda Díaz-Granados – Vicepresidente de Crédito
+## Ángela María Ceballos Buitrago - Vicepresidencia de Talento Humano y Administrativa
+## Ricardo Alberto Virguez García - Auditor

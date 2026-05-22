@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=vNndLQVWHfo
+
+# Aprende a inscribir cuentas desde nuestro Portal Transaccional
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=vNndLQVWHfo  
+**Publicado:** 24/05/2024  
+**Duración:** 1:22  
+**Vistas:** 3,598  |  **Likes:** 9  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conoce el paso a paso para realizar inscripciones de cuentas desde el portal transaccional.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,199 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/796741/tasas-personas-bdo.pdf/087eaf8e-0e19-2b07-38c3-b1e8e05d5dda?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/796741/tasas-personas-bdo.pdf/087eaf8e-0e19-2b07-38c3-b1e8e05d5dda?download=true
+# 087eaf8e 0e19 2b07 38c3 b1e8e05d5dda?download=true
+**PDF · 18 páginas**
+PUEDE CONSULTAR LAS TASAS DE LOS PRODUCTOS Y SERVICIOS, INGRESANDO
+## Portafolio Cuenta Activa
+• Cuenta de ahorros Occidía
+• Cuenta Corriente
+• CDT
+• Paquete de Servicios Básicos
+## Tarjeta de Crédito Credencial
+• Cuota Fija
+## Credencial Mastercard
+## Tarjeta de Crédito Credencial Marcas Compartidas
+• Clásica  Visa LATAM
+• Gold  Visa LATAM
+• Platinum Visa LATAM
+• Signature Visa LATAM
+• Gold –  BODYTECH
+• Signature - BODYTECH
+## Líneas de Crédito
+• Préstamo Personal
+• Crédito rotativo
+• Crédito de libranza
+• Programa Fondo de Pensiones Voluntarias - Porvenir
+## Financiación en Vivienda
+• Crédito Hipotecario y Leasing Habitacional
+• Cuentas AFC
+• Tasas y Tarifas Occiauto
+• Vehículos Livianos
+• Transportador –  Autos
+## Cupo línea Préstamo Personal
+## LIBRE INVERSIÓN  COMPRA DE CARTERA
+## Desde Hasta Desde Hasta
+Tasa M.V  1,56% 1,99% 1,35% 1,99%
+Tasa E.A  20,41% 26,68% 17,46% 26,68%
+* Las tasas pueden variar dependiendo del monto, el plazo y el perfil crediticio del cliente.
+* Vigencia del 01 al 30 de Abril de 2026
+## Cupo línea Crédito Rotativo
+Tasa M.V  1,56% 1,93% 1,35% 1,93%
+Tasa E.A  20,41% 25,78% 17,46% 25,78%
+## Ahorro e Inversión:
+## Cuenta Corriente
+## Períodos  Tasa Efectiva  Tasa Nominal Vencida
+## Tasa Diaria 26,61% 23,60%
+## Cuenta de Ahorros Occidia
+* 1. Las tasas de ahorro para montos superiores a $1.000 MM, deben de consultarse en Tesorería, en caso que la tabla de arriba
+* 2. Para obtener remuneración sobre la totalidad del saldo diario en cuenta que exceda el tope de $3.000 MM, se debe solicitar
+al Gerente Comercial el trámite de una condición especial.
+## Cuenta de Nómina y Pensionados
+*Recuerda que tu cuenta de pensión tiene la tarjeta débito Activa con cuota de manejo gratis y retiros ilimitados gratis en cajeros
+automáticos de la red aval.
+* De acuerdo con la tabla procede la remuneración de intereses hasta por valor de $3.000 MM de saldo diario en cuenta. Para
+obtener remuneración sobre la totalidad del saldo diario en cuenta que exceda el tope de $3.000 MM, se debe solicitar al Gerente
+Comercial el trámite de una condición especial.
+SALDO DIARIO  TASA E.A
+De $0 a $5’000.000 0,01 %
+De $5’000.001 a $20’000.000 0,01 %
+De $20’000.001 a $50’000.000 0,05 %
+De $50’000.001 a $100.000.000 0,05 %
+De $100’000.001 a $3.000.000.000 0,10 %
+De $3.000.000.001 en adelante Se requiere negociar con el Gerente Comercial *
+De $0 a $100’000.000 0,01 %
+De $100’000.001 a $3’000.000.000 Se requiere negociar con el
+## Gerente Comercial*
+## Paquete de Servicios Básicos
+## Tasas de Captación de CDT
+## TASAS EXPRESADAS EN % EA (EFECTIVO ANUAL)
+$1 - 99 Millones  $100 - 499
+Millones  $500 - 10.000 Millones
+30 Días (30 Hasta 50 Días) 0,05% 0,05% 0,05%
+60 Días (51 Hasta 80 Días) 0,05% 0,05% 0,05%
+90 Días (81 Hasta 150 Días) 11,05% 11,15% 11,25%
+90 Días exactos base 360 o real  11,05% 11,15% 11,25%
+180 Días (151 Hasta 240 Días) 11,20% 11,30% 11,40%
+270 Días (241 Hasta 330 Días) 11,70% 11,80% 11,90%
+360 Días (331 Hasta 539 Días) 12,10% 12,20% 12,30%
+540 Días (540 Hasta 719 Días) 12,45% 12,45% 12,55%
+720 Días (720 Hasta 1079 Días) 12,45% 12,45% 12,55%
+1080 Días ( Mayor o Igual a 1080 Días) 12,45% 12,45% 12,55%
+## Tasas de Captación de CDT LARGO PLAZO
+## Plazo IPC %EA  IBR %MV
+90 Días
+180 Días
+360 Días 3,20% 0,60%
+18 Meses 3,60% 0,35%
+2 Años 3,80% 0,20%
+3 Años  3,90% 0,00%
+* Vigencia del 21 al 27 de Abril de 2026
+La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia
+Financiera de Colombia.
+## Tasa compra y avances 26,61% 23,60%
+## Mora 26,61% 23,60%
+* Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan
+mes vencido y la liquidación de éstos se genera a partir de la fecha de la transacción. El primer cobro se ve reflejado en el
+segundo extracto después de haber realizado la transacción de Compra. Se aplica la tasa vigente de la fecha de la transacción.
+* Para Avances en Efectivo y Pago de Impuestos (Oficina Banco):  En las transacciones de avances en efectivo e Impuestos
+Nacionales y Distritales los intereses corrientes son cobrados desde la fecha de la transacción y el primer cobro se ve reflejado en
+el siguiente extracto, sin importar que se registre el pago total del saldo. Se aplica la tasa vigente de la fecha de la transacción.
+## Visa Cuota Fija
+## Clásica Mastercard
+## Financiera de Colombia
+## Tasa compra y avances 26,61% 23,60% 22,21% 20,23%
+## Mora 26,61% 23,60% 26,61% 23,60%
+Para Avances en Efectivo y Pago de Impuestos (Oficina Banco):  En las transacciones de avances en efectivo e Impuestos
+Aplicación de Tasa Representativa del Mercado a su PAGO EN PESOS de consumos en dólares.
+Tenga en cuenta que el valor registrado en su extracto para PAGO EN PESOS de consumos en dólares con su Tarjeta Credencial
+Mastercard, es proyectado con una tasa promedio y al momento de realizar el pago, se toma la Tasa Representativa del Mercado
+(TRM) de la fecha de esta transacción. Esto genera en su próximo estado de cuenta un ajuste a favor o en contra por esta
+diferencia. El concepto con el cual se registra en su extracto es “Ajuste tasa representativa” o “Abono tasa representativa”.
+e.a. n.v e.a. n.v.
+## Platinum Mastercard
+* Tasa de interés corriente para compras: En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan
+* Para Avances en Efectivo y Pago de Impuestos (Oficina Banco): En las transacciones de avances en efectivo e Impuestos
+diferencia. El concepto con el cual se registra en su extracto es “Ajuste tasa representativa” o “Abono tasa representativa”
+## Mastercard Gold – UNICEF
+## Clásica - Visa LATAM
+el siguiente extracto, sin importar que se registre el pago total del saldo. Se aplica la tasa vigente de la fecha de la transacción..
+## Platinum - Visa LATAM
+## Signature - Visa LATAM
+## Signature – BODYTECH
+## Préstamo Personal
+## Crédito de Libranza
+## LIBRE INVERSIÓN  COMPRA DE CARTERA  RETANQUEO
+## Desde Hasta Desde Hasta Desde Hasta
+Tasa M.V  1,22% 1,89% 1,17% 1,83% 1,14% 1,80%
+Tasa E.A  15,66% 25,19% 14,98% 24,31% 14,57% 23,87%
+* Las tasas pueden variar de acuerdo con el monto, plazo y perfil del cliente
+*Estas tasas varían dependiendo del segmento y convenio al cual pertenezca el cliente
+* Retanqueo es la opción que te permite renovar tu Crédito de Libranza actual, recogiendo tu saldo y accediendo a
+un desembolso adicional.
+## Programa Fondo de Pensiones Voluntarias – Porvenir
+## TASAS PARA MONTOS INFERIORES A $ 300MM
+## Tasas Convenios  Cartera Ordinaria* y Préstamo Personal**
+Todos los plazos IBR + 6,97 % T.V
+## TASAS PARA MONTOS SUPERIORES O IGUALES A $ 300MM
+Todos los plazos IBR + 6,51 % T.V
+*Tasa Variable.
+**La tasa de interés, se convertirá en su equivalente M.V en tasa fija, durante la vigencia del Crédito.
+## Tasas Vivienda
+TASA E.A.
+## CRÉDITO HIPOTECARIO  LEASING HABITACIONAL
+14,67% 17,69% 14,30% 17,69%
+Rango Clear: Es una puntuación numérica basada en la información de las Centrales de Riesgo, que refleja el
+comportamiento crediticio de los clientes para pronosticar su posibilidad de cumplimiento en el pago de sus
+Cuentas AFC.
+## Rendimiento sobre saldo  Tasa EA
+## Para todo monto 1,00%
+## Vehículos Livianos
+## MODELO TIPO DE TASA  Desde
+Nuevo* TASA m.v. 1,45%
+TASA E.A. 18,92%
+Usado* TASA m.v. 1,49%
+TASA E.A. 19,49%
+## Transportador - Autos
+Nuevo* M.V. 1,85%
+## Usado* 1,89%
+Nuevo* M.V. 1,55%
+## Usado* 1,59%
+## Motos Alto Cilindraje
+La asignación de la tasa depende del análisis interno que realice el Banco de Occidente, esta información es
+meramente informativa y no constituye ningún compromiso formal ni legal.
+Notas: 1- Todas las Tasas son variables y atadas a la IBR nominal a tres meses, más los puntos correspondientes
+## Contacto Cre dicentros:
+BOGOTA D.C. Credicentro  de Vehículos - Oficina Bogotá, Autopista Norte No. 128A - 73, Tel: 756 17 17; TUNJA, Centro de
+Financiación en Concesionarios, Calle 52 # 5 - 125, Tel:747 39 39; CALI, Credicentros de Vehículos: Calle 13 No. 73-116 Local 101-
+102, Tel: 315 61 11; Calle 47A # 3N-09 Esquina, Tel: 4869328; PASTO, Carrera 39 # 16A - 19 esquina, Tel:7334949; TULUA, Carrera
+40 # 37 - 51 local A49, Tel: 235 94 44, MEDELLÍN, Carrera 43 A No. 23 -37 Av. Mall local 131, Tel: 605 24 74; PEREIRA, Credicentro,
+Av. Circunvalar No.11 - 51, Tel: 340 04 45; BARRANQUILLA, Cra 47 # 82 -236, Tel: 385 91 39; CARTAGENA, Pie del Cerro Calle 30
+No. 18A - 208, Tel: 693 50 86; BUCARAMANGA, Cra 29 # 48- 52,Tel: 698 50 50; MANIZALES, Carrera 23 # 52 - 07 Edificio
+Meridiano Locales 2 y 3, Tel: 892 81 11; ARMENIA, Avenida Bolívar Calle 19 Norte Esquina, Tel: 749 48 20; IBAGUÉ ,Carrera 5 No. 30
+- 43, Tel: 277 00 00; MONTERIA, Calle 62 B No.6 -31 Local 207 Centro Comercial Plaza de la Castellana, Tel: 785 39 88 – 785 18
+17; VILLAVICENCIO, Avenida 40 #16B - 159, Centro comercial villacentro, local 7, Tel: 668 60 60, YOPAL,Carrera 22 No. 7 -39
+## SEGURO MODELO MODALIDAD DE PAGO  TASA
+Auto Protegido Nuevo Mensual La prima es calculada por el corredor de seguros
+Usado Mensual La prima es calculada por el corredor de seguros
+## Global - Mensual 7,69% (IVA incluido)
+Global -. Prima única 7,69% (IVA incluido)
+## SEGURO MODALIDAD DE PAGO  TASA
+Productivos Protegidos Mensual La prima es calculada por el corredor de seguros
+Cuota Protegida Transportador Prima única $49.500 por el plazo del crédito
+Moto Protegida Mensual La prima es calculada por el corredor de seguros
+Cuota Protegida Motos Prima única 6.19% por cuota mensual del crédito por el plazo (IVA incluido)
+## SEGURO MODALIDAD DE PAGO  RANGO DE EDAD  TASA
+18 a 40 AÑOS 0,391000
+41 a 69 AÑOS 0,708000
+70 a 79 AÑOS 2,191000
+>= 80 AÑOS 5,016000
+## Protegida Libranza Mensual
+## Tasas Seguros para Crédito Hi potecario y Leasing
+## SEGURO ASEGURADORA  MODALIDAD DE PAGO  TASA
+## Incendio y Terremoto Aseguradora Solidaria de Colombia
+## Entidad Cooperativa Mensual 0,013288%*
+Vida Deudor Seguros de Vida Alfa S.A. Mensual 0,037500%*
+* Incluido IVA, calculado sobre el valor comercial del inmueble.
+** Sobre el saldo de la deuda o el valor del desembolso.
+La asignación de la tasa depende del análisis interno que realice el Banco de Occidente, esta información es meramente
+informativa y no constituye ningún compromiso formal ni legal.
+Notas: 1- Todas las Tasas son variables y atadas a la IBR nominal a tres meses, más los puntos correspondientes.

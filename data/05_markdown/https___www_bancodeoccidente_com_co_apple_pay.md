@@ -1,0 +1,29 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/apple-pay -->
+URL: https://www.bancodeoccidente.com.co/apple-pay
+# Apple Pay
+### ¿Cómo agregar mis tarjetas Credencial Banco de Occidente a Apple Pay?
+Ingresa a tu Banca móvil.
+Elige la tarjeta de crédito que deseas añadir a Apple Pay y da clicen "Agregar en Apple Wallet".
+Acepta los términos y condiciones y sigue las instrucciones, una vez añadida tu tarjeta, recibirás un mensaje o correo electrónico de confirmación.
+En la Banca Móvil se mostrará el mensaje "Dispositivo vinculado".
+## Agrega tu tarjeta Banco de Occidente a Apple Wallet
+### Usa Apple Pay donde veas uno de estos símbolos
+Debes tener en cuenta estos símbolos para realizar pagos en tus comercios favoritos:
+Presiona dos veces el botón lateral.
+Usa Face ID o Touch ID para autenticar tu identidad.
+Acerca tu celular al datafono y listo.
+#### Características y beneficios
+#### Seguridad y privacidad
+Apple Pay utiliza varias capas de seguridad para proteger tu información, cada transacción requiere tu autorización mediante reconocimiento facial o huella dactilar.
+Acerca tu iphone o Apple Watch y realiza pagos fácil y rápido sin mostrar tu tarjeta.
+Agrega todas tus tarjetas de Crédito Credencial Mastercard y Visa sin costo, para disfrutar de esta experiencia de pago.
+Podrás pagar en los comercios físicos, Online y aplicaciones móviles que soporten Apple pay.
+### Preguntas frecuentes
+## ¿Pagar con Apple Pay me genera algún cobro?
+## ¿Qué tarjetas puedo usar en Apple Pay?
+## ¿Dónde puedo pagar con Apple Pay?
+## ¿Es seguro pagar con Apple Pay?
+## ¿Puedo usar Apple Pay en otros países?
+## ¿Puedo usar mi tarjeta empresarial en la billetera de Apple?
+Obtén tu crédito y haz realidad tus planes con plazos flexibles y t
+Protege tu dinero, hazlo crecer y úsalo cuando lo necesites. ¡Empieza hoy!

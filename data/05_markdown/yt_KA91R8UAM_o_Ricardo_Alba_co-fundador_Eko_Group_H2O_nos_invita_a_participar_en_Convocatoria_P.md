@@ -1,0 +1,6 @@
+<!-- fuente: https://www.youtube.com/watch?v=KA91R8UAM_o -->
+URL: https://www.youtube.com/watch?v=KA91R8UAM_o
+# Ricardo Alba co-fundador Eko Group H2O+ nos invita a participar en Convocatoria Premio Planeta Azul
+**URL:** https://www.youtube.com/watch?v=KA91R8UAM_o
+Ricardo Alba co-fundador de la empresa Eko Group H2O+, nos cuenta como con el proyecto Ekomuro H2O cosecha de lluvias en colegios y áreas urbanas de pobreza”, ganador del Premio Planeta Azul en la categoría General (2016- 2017), lograron consolidar su empresa familiar e implementar iniciativas del cuidado del medio ambiente en comunidades vulnerables.
+Trabajamos juntos por el cuidado del planeta. Cuéntanos tu historia acerca del cuidado del planeta y podrás participar por $224.000.000 en premios en la categoría empresas. Inscríbete aquí: https://cutt.ly/DEYasw1

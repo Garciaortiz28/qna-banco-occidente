@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=lB5m_9avOsk
+# Inscripción y mantenimiento de Beneficiarios de Transferencias
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=lB5m_9avOsk  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce cómo inscribir y manejar beneficiarios para tus transferencias desde Occidental Bank Barbados.
+## Transcripción
+_Video sin subtítulos disponibles en español._

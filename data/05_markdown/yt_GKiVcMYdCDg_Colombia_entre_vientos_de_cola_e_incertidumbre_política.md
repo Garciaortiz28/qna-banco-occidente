@@ -1,0 +1,7 @@
+# Colombia, entre vientos de cola e incertidumbre política
+Maestros del Hacer, plataforma de educación del Banco de Occidente, presenta este foro especializado en donde se analizan los desafíos económicos y posibles escenarios del nuevo gobierno de Colombia. Espacio liderado por los expertos: Juan Carlos Echeverry, Ex ministro de hacienda y crédito público de Colombia; Alberto Bernal León, Director de mercados emergentes y estrategia global en XP Investment; y  Luis Fernando Insignares, Subgerente de la mesa de distribución del Banco de Occidente.
+0:00 Colombia, entre vientos de cola e incertidumbre política - Intro
+0:04:56 Bloque #1: Contexto internacional
+0:30:54 Bloque #2 Fundamentales Colombia
+1:03:30 Bloque #3: Finanzas públicas, marco fiscal de mediano plazo 2022 y reforma tributaria
+1:25:10 Bloque #4: Propuestas nuevo gobierno

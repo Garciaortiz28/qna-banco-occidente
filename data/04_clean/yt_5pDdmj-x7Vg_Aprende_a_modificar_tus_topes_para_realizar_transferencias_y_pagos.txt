@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=5pDdmj-x7Vg
+# Aprende a modificar tus topes para realizar transferencias y pagos
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=5pDdmj-x7Vg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Estamos #ContigoDondeEstés.
+## Transcripción
+_Video sin subtítulos disponibles en español._

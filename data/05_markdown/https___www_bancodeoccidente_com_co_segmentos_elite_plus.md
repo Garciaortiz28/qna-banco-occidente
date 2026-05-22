@@ -1,0 +1,15 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/segmentos/elite-plus -->
+URL: https://www.bancodeoccidente.com.co/segmentos/elite-plus
+# Clientes Segmento Elite Plus Banco de Occidente
+#### Inversiones y Portafolio Exclusivo
+Acceso a portafolios exclusivos a través de nuestras filiales y aliados, con productos de inversiones diferenciados, CDT con tasas diferenciales.
+#### Salud y Bienestar Global
+A través de nuestros aliados estratégicos podrás tener mayores beneficios en Salud y bienestar para ti y toda tu familia.
+#### Beneficios Financieros
+Líneas de crédito exclusivas, cuentas en múltiples monedas, transferencias y mercados globales.
+#### Atención Prioritaria
+Protocolos especializados, atención oportuna y diferencial en PQRS y gestión de emergencias financieras.
+#### Beneficios Familiares
+Podrás extender los beneficios como seguros internacionales, acceso a eventos exclusivos y experiencias personalizadas a tus familiares.
+Consultoría personalizada en inversiones, planificación patrimonial y sucesoral. Asesoría disponible 24/7.
+Estamos comprometidos en brindarte productos de alto valor, asegurándote estar un paso adelante en tu crecimiento.

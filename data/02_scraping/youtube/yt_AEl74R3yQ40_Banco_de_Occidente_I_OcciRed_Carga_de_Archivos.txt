@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=AEl74R3yQ40
+
+# Banco de Occidente I OcciRed Carga de Archivos
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=AEl74R3yQ40  
+**Publicado:** 15/04/2021  
+**Duración:** 1:49  
+**Vistas:** 3,160  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

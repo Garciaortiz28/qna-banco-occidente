@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=RRoLdGGe3Ng
+# ¡Saca tu Tarjeta! Solicítala en Banco de Occidente
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=RRoLdGGe3Ng  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Solicita tu Credencial Visa y participa por entradas para la FIFA World Cup 26™, gracias a Visa.
+## Transcripción
+_Video sin subtítulos disponibles en español._

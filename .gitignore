@@ -1,0 +1,26 @@
+# Claves y variables de entorno
+.env
+*.env
+
+# Entorno virtual Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB (demasiado grande para GitHub)
+data/08_chroma/
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Modelos descargados localmente
+models/
+*.bin
+*.safetensors

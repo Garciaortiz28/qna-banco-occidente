@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=r0nys7dV_Uk
+
+# #shorts #seguridad #consejos
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=r0nys7dV_Uk  
+**Publicado:** 27/04/2023  
+**Duración:** 0:28  
+**Vistas:** 315  |  **Likes:** 7  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

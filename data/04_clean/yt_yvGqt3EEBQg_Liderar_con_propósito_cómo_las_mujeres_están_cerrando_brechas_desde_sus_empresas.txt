@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=yvGqt3EEBQg
+# Liderar con propósito: cómo las mujeres están cerrando brechas desde sus empresas.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=yvGqt3EEBQg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Un foro para inspirante, conectar y seguir liderando el cambio que tu empresa y entorno necesitan.
+## Transcripción
+_Video sin subtítulos disponibles en español._

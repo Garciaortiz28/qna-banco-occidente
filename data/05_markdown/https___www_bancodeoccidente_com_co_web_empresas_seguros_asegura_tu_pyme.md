@@ -1,0 +1,20 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/web/empresas/seguros/asegura-tu-pyme -->
+URL: https://www.bancodeoccidente.com.co/web/empresas/seguros/asegura-tu-pyme
+# Protege tu Pyme con Seguros Empresariales | Banco de Occidente​ - Empresas
+# Seguro Pyme protegida
+Protege inmuebles, maquinaria, mercancía y equipos electrónicos ante daños o pérdidas.
+Asegura tu negocio contra vandalismo, terrorismo y robos.
+Accede a servicios de emergencia y soporte especializado en caso de siniestros.
+Cubre daños a terceros derivados de la operación de tu empresa.
+## Encuentra la mejor protección para tu empresa
+Recibe asesoría especializada para estructurar la cobertura ideal según las necesidades de tu negocio.
+Conoce los requisitos y características del seguro y protege tu inversión.
+El recaudo de la prima es a través de los diferentes medios de pago que nuestra aseguradora aliada tiene a su disposición: Pago en línea o físico en oficinas bancarias.
+Por Axa Colpatria, la cual cuenta con excelentes coberturas que brindan tranquilidad a tu inversión y a tu patrimonio.
+Podrás comunicarte a la línea de atención al Cliente de Axa Colpatria #247
+## Fenómenos naturales
+Amparo de hurto simple.
+Rotura de maquinaria.
+## Amparo por fenómeno eléctrico y/o electromagnético
+### Solicita tu Seguro para tu Pyme
+Protege tu activo con la mejor cobertura y empieza a proteger tu patrimonio empresarial.

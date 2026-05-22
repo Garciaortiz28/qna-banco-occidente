@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=hfx7PcfxBtk
+# 5 Lecciones PYME | Ciberseguridad En Una Era De Innovación Y Transformación Digital
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=hfx7PcfxBtk  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+¿Sabías que los fraudes cibernéticos en Colombia crecieron este año un 59% respecto a 2019? Conoce en nuestra charla No. 2 la importancia de la ciberseguridad en los tiempos de innovación y transformación digital.
+## Transcripción
+_Video sin subtítulos disponibles en español._

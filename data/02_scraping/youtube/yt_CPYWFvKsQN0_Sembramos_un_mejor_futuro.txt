@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=CPYWFvKsQN0
+
+# ¡Sembramos un mejor futuro!
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=CPYWFvKsQN0  
+**Publicado:** 26/12/2022  
+**Duración:** 2:51  
+**Vistas:** 85  |  **Likes:** 3  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Este año junto a nuestro equipo de Banco de Occidente sembramos más de 1.000 árboles en Parques Naturales de Bogotá, Cali, Medellín y Barranquilla. Estamos felices por contar con una alianza realizada junto a WWF Colombia que nos permite crear un impacto positivo en las áreas protegidas de nuestra diversa Colombia.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

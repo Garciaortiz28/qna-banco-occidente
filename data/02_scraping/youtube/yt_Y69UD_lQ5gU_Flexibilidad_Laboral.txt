@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=Y69UD_lQ5gU
+
+# Flexibilidad Laboral
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Y69UD_lQ5gU  
+**Publicado:** 24/05/2024  
+**Duración:** 6:16  
+**Vistas:** 126  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conoce la entrevista que hicimos al Líder del Centro de Pensamiento, Talento Humano y Organizaciones Saludables del Politécnico Grancolombiano.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

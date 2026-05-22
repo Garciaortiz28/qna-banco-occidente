@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=GjSHcAky7qo
+# Aprende a programar tus transferencias desde el Portal Transaccional
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=GjSHcAky7qo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Aquí emprenderás unos sencillos paso de cómo programar transferencias de una cuenta a otra. Estamos contigo donde estés.
+## Transcripción
+_Video sin subtítulos disponibles en español._

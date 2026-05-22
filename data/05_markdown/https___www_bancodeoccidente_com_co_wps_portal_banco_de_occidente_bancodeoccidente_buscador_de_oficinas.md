@@ -1,0 +1,18 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/buscador-de-oficinas -->
+URL: https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/buscador-de-oficinas
+# Buscador de Oficinas
+## Inicio Buscador de Oficinas
+## Buscador de oficinas
+En nuestro buscador, podrás encontrar oficinas, cajeros y corresponsales bancarios. Revisa el mapa y busca el que más cerca te quede.
+Horarios de atención en oficinas a la fecha.
+## SOLICITA PRODUCTOS EN LÍNEA
+*La siguiente oficina iniciará a prestar servicio en jornada continua los dos primeros días hábiles de la semana:
+Oficina Ciudad Horario los primeros dos días hábiles de la semana Resto de la semana
+Pasto Principal Pasto 8:00 a.m. a 4:00 p.m. Jornada Continua 8:00 a.m. a 12:00 m. y de 2:00 p.m. a 4:00 p.m.
+Se habilita Horario Adicional los días sábado en la franja de 9:00 a.m. a 1:00 pm en las siguientes Oficinas:
+## Zona Código Oficina
+## Bogotá ll 500 Florencia
+## Medellin 099 Unicentro Pereira
+- Buscador de Oficinas
+## Horarios de atención en oficinas a la fecha.
+8:00 a.m. a 4:00 p.m. Jornada Continua

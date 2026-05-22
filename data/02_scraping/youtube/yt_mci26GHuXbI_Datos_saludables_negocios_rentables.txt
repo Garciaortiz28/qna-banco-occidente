@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=mci26GHuXbI
+
+# Datos saludables, negocios rentables
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=mci26GHuXbI  
+**Publicado:** 24/08/2023  
+**Duración:** 6:54  
+**Vistas:** 119  |  **Likes:** 3  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Junto a Carlos Díaz, Vicepresidente de Data Nola Keyrus, hablamos sobre cómo la eficiente gestión de datos puede impulsar el desarrollo de los negocios. 📝 Sigue conectado a los contenidos que tenemos para ti y tu equipo en Tu Comunidad Empresarial Banco de Occidente. 💻
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

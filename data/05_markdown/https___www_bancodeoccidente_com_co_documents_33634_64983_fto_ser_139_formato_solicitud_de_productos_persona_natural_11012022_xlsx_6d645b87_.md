@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/64983/fto-ser-139-formato-solicitud-de-productos-persona-natural-11012022.xlsx/6d645b87-8d1c-dd15-8e4a-177cf2b41364?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/64983/fto-ser-139-formato-solicitud-de-productos-persona-natural-11012022.xlsx/6d645b87-8d1c-dd15-8e4a-177cf2b41364?download=true

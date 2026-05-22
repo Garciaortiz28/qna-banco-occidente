@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=7QIm3uDpCGU
+# Conoce el método Kanban de productividad empresarial.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=7QIm3uDpCGU  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Una entrevista ideal para todo tu equipo de trabajo. 🙌 Descubre junto a Diego Araya, Country Mánager de Kibernum para Colombia, la forma en que las empresas pueden aumentar sus índices de productividad con este método eficaz. 💻
+## Transcripción
+_Video sin subtítulos disponibles en español._

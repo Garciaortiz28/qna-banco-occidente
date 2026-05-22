@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=WVcvlz4AmnY
+# Lytics
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=WVcvlz4AmnY  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Lytics es una herramienta en donde tendrás acceso a información personalizada que te permitirá fortalecer tus estrategias para continuar creciendo tu negocio.
+## Transcripción
+_Video sin subtítulos disponibles en español._

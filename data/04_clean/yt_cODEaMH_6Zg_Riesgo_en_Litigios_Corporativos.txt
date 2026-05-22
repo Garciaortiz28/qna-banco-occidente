@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=cODEaMH_6Zg
+# Riesgo en Litigios Corporativos
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=cODEaMH_6Zg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En esta entrevista junto a Mario Cancino Araya, Físico y Especialista en Simulación y Riesgo Cuantitativo, hacemos un análisis sobre los riesgos en litigios que puede haber en las empresas. 🚨
+## Transcripción
+_Video sin subtítulos disponibles en español._

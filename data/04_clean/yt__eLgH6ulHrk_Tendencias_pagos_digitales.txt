@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=_eLgH6ulHrk
+# Tendencias pagos digitales
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=_eLgH6ulHrk  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a: Simón Pinilla – Co Fundador de DRUO Andrea Piña
+## Transcripción
+_Video sin subtítulos disponibles en español._

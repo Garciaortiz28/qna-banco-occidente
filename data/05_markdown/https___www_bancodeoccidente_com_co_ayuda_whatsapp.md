@@ -1,0 +1,15 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/ayuda/whatsapp -->
+URL: https://www.bancodeoccidente.com.co/ayuda/whatsapp
+# Solicita Productos del Banco por WhatsApp Fácil y Rápido
+# WhatsApp Banco de Occidente - ¿Qué puedes hacer?
+Cuotas aproximadas. Tasas, ingresos sugeridos con acompañamiento de un ejecutivo y/o aprobación digital.
+#### Solicitud de productos
+Créditos, vehículos, fiducias, CDT y Tarjetas de crédito con aprobaciones 100% digitales en acompañamiento de un ejecutivo especializado.
+#### Solicitud de productos Pyme
+Activaciones, desembolsos y seguros en acompañamiento de un ejecutivo/gerente especializado.
+#### Cliente Banca Diplomática
+Solicitudes, consultas y asesorías comerciales a clientes diplomáticos.
+## ¡Estamos aquí para asesorarte y acompañarte en cada paso!
+### ¿Necesitas ayuda inmediata?
+Chatea con un asesor y resuelve tus dudas en tiempo real. Recibe orientación rápida y soluciones a tu medida.
+## Consulta aquí el listado de agentes autorizados para atenderte

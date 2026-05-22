@@ -1,0 +1,7 @@
+# La estrategia adecuada de Marketing para tu empresa
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Daniel Jiménez, experto en marketing digital, nos habla en esta entrevista sobre cómo elegir una estategia de marketing que sea acorde a la empresa y que se ajuste a las necesidades y objetivos planteados. 💻
+## Transcripción
+_Video sin subtítulos disponibles en español._

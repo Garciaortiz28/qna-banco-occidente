@@ -1,0 +1,2 @@
+# ¡Sembramos un mejor futuro!
+Este año junto a nuestro equipo de Banco de Occidente sembramos más de 1.000 árboles en Parques Naturales de Bogotá, Cali, Medellín y Barranquilla. Estamos felices por contar con una alianza realizada junto a WWF Colombia que nos permite crear un impacto positivo en las áreas protegidas de nuestra diversa Colombia.

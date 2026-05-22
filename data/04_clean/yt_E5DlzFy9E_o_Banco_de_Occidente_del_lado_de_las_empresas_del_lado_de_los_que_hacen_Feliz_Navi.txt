@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=E5DlzFy9E_o
+# Banco de Occidente, del lado de las empresas, del lado de los que hacen. ¡Feliz Navidad!
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=E5DlzFy9E_o  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Celebramos ser parte de tu historia y de acompañarte en tu camino hacia el éxito. Sigamos construyendo juntos el país que soñamos. 
+No te pierdas el saludo de nuestro Vicepresidente Banca Empresarial y PYME, Carlos Adolfo Valencia. 
+## Transcripción
+_Video sin subtítulos disponibles en español._

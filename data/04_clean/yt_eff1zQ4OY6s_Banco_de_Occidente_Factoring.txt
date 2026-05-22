@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=eff1zQ4OY6s
+# Banco de Occidente | Factoring
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=eff1zQ4OY6s  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+¡Conoce Factoring y haz que tu empresa crezca! 
+Factoring es un producto que brinda liquidez inmediata haciendo las facturas efectivas en menos tiempo. Así lograrás que tu empresa disponga siempre de capital de trabajo para incrementar la productividad y las ventas.
+## Transcripción
+_Video sin subtítulos disponibles en español._

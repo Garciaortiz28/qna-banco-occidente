@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=CpB8TpLg-Rw
+# Foro Económico || Sobrellevando la incertidumbre económica
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=CpB8TpLg-Rw  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Para nuestra organización es muy importante generar espacios de conversación, reflexión y análisis sobre los temas que influyen en las decisiones del presente y el futuro económico. 🤝
+El pasado 22 de mayo tuvimos nuestro foro en donde conversamos con Carolina Soto y Juan Carlos Echeverry. 📈
+## Transcripción
+_Video sin subtítulos disponibles en español._

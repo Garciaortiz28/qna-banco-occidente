@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=fEDX88W1xRY
+# Aprovecha nuestros Canales Digitales
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=fEDX88W1xRY  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+¡Más tiempo para ti! Estamos #ContigoDondeEstés para que administres tus finanzas de forma segura y desde donde quieras.
+## Transcripción
+_Video sin subtítulos disponibles en español._

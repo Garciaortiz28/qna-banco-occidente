@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Uh-OZg11blI
+# Liderazgo femenino
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Uh-OZg11blI  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conferencista: Diana Paola Dorado Strategic Business
+## Transcripción
+_Video sin subtítulos disponibles en español._

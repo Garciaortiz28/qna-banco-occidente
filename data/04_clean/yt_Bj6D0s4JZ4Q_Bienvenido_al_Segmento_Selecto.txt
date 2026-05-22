@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Bj6D0s4JZ4Q
+# ¡Bienvenido al Segmento Selecto!
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Bj6D0s4JZ4Q  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Eres muy importante para nosotros, por eso, hacer parte de este segmento te permite tener un mundo de privilegios financieros diseñados exclusivamente para ti.
+## Transcripción
+_Video sin subtítulos disponibles en español._

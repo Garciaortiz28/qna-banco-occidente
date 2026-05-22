@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=UQ1cDmUbTLo
+
+# Actualización en el cobro de comisiones PSE para empresas | Banco de Occidente
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=UQ1cDmUbTLo  
+**Publicado:** 24/02/2026  
+**Duración:** 0:58  
+**Vistas:** 292  |  **Likes:** 5  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Mantente informado sobre los cambios en el cobro de comisiones para los servicios PSE de Banco de Occidente. En este video te explicamos, de manera clara y transparente, cómo se realizará ahora el cobro para Aval Pay Center, Pasarela Aval Pay y otras pasarelas.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

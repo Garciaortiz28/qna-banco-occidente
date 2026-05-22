@@ -1,0 +1,5 @@
+<!-- fuente: https://www.youtube.com/watch?v=5hJjU4Z66As -->
+URL: https://www.youtube.com/watch?v=5hJjU4Z66As
+# Foro Económico Virtual: Perspectivas 2026
+**URL:** https://www.youtube.com/watch?v=5hJjU4Z66As
+Acompáñanos en un espacio exclusivo de análisis y diálogo sobre el rumbo económico del país en el 2026. El economista jefe del Banco de Occidente, David Cubides y Juan Carlos Echeverry Ex-Ministro de Hacienda y Ex-Gerente de Ecopetrol exploran el comportamiento de la tasa de cambio, las proyecciones macroeconómicas y las tendencias políticas que marcarán este año.

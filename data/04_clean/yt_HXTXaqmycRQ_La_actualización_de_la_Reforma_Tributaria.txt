@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=HXTXaqmycRQ
+# La actualización de la Reforma Tributaria.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=HXTXaqmycRQ  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a Germán Ramírez. Puntos clave que deben tener en cuenta las empresas bajo la actualización de la reforma tributaria.
+## Transcripción
+_Video sin subtítulos disponibles en español._

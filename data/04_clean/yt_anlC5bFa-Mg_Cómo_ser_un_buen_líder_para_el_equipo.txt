@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=anlC5bFa-Mg
+# ¿Cómo ser un buen líder para el equipo?
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=anlC5bFa-Mg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista sobre cómo se pueden generar mejores habilidades para liderar.
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=ziUKI4uXi8I
+# Inscríbete en el Premio Nacional de Ecología Planeta Azul
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=ziUKI4uXi8I  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Un reconocimiento para empresas y organizaciones que protegen el agua y el medio ambiente. Inscríbete aquí 👉 https://bit.ly/PlanetaAzulBDO
+## Transcripción
+_Video sin subtítulos disponibles en español._

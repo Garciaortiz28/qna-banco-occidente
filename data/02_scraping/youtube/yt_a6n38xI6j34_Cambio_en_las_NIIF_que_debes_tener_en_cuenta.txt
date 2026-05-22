@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=a6n38xI6j34
+
+# Cambio en las NIIF que debes tener en cuenta
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=a6n38xI6j34  
+**Publicado:** 07/06/2024  
+**Duración:** 4:05  
+**Vistas:** 127  |  **Likes:** 4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Diana vega- Consulta NIIF, NIA, NICSP.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=mt7xSzcy7Lk
+# Open Banking
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=mt7xSzcy7Lk  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Junto a nuestros invitados especiales del Banco de Occidente, Aura María Reyes, gerente gobierno de la información y analítica avanzada, y Bryan Montoya, director de analítica avanzada, hablamos sobre las oportunidades que nos brinda el open banking. 🙌
+## Transcripción
+_Video sin subtítulos disponibles en español._

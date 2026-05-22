@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/0/Formato+unificado+de+vinculacio%CC%81n+para+Persona+Natural+FTO-MIS-37.xlsm/88398873-be03-7d8e-f772-2e773b823b3e?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/0/Formato+unificado+de+vinculacio%CC%81n+para+Persona+Natural+FTO-MIS-37.xlsm/88398873-be03-7d8e-f772-2e773b823b3e?download=true

@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=0pEO1D_mxc4
+
+# Agroprex
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=0pEO1D_mxc4  
+**Publicado:** 24/12/2020  
+**Duración:** 0:25  
+**Vistas:** 497  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Ganador categoría pyme 2018-2019 / Innovación en la fumigación con drones que permite ahorro del agua, impacto ambiental y contaminación de fuentes de agua.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

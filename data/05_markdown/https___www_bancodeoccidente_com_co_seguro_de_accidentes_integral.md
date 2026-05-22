@@ -1,0 +1,22 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/seguro-de-accidentes-integral -->
+URL: https://www.bancodeoccidente.com.co/seguro-de-accidentes-integral
+# Seguro de Accidentes integral
+### Conoce nuestras asistencias
+#### Fallecimiento accidental
+Recibe bono de $10.000.000 por fallecimiento accidental.
+#### Auxilio funerario por accidente
+Bono de $1.000.000 por gastos funerarios tras un accidente.
+#### Invalidez, pérdida o inutilización por accidente
+Recibe $10.000.000 por invalidez o inutilización por accidente.
+#### Bono de canasta por fallecimiento
+Bono de $300.000 de canasta por fallecimiento
+Consulta coberturas, requisitos y descarga documentos para estar protegido.
+Desde 18 hasta 69 años.
+Desde $36.000 anual.
+Cuentas con el respaldo de SURA.
+Fallecimiento accidental, invalidez, pérdida, o inutilización por accidente, auxilio funerario por accidente y bono canasta por fallecimiento
+En caso de un hecho cubierto por este seguro, el tomador tú o sus beneficiarios deberán solicitarle a SURA el pago de las indemnizaciones a las que tengan derecho, acreditando la ocurrencia y cuantía del siniestro. Comunicándose a través de estas opciones:
+Marca desde tu celular al #888.
+También puedes comunicarte desde Bogotá 601 4378888.
+desde Medellín al 604 4378888
+o desde el resto del país al 01 8000 518 888

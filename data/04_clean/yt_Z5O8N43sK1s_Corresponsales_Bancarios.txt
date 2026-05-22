@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Z5O8N43sK1s
+# Corresponsales Bancarios
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Z5O8N43sK1s  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce nuestros Corresponsales Bancarios para que realices tus pagos
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,17 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/web/empresas/segmentos -->
+URL: https://www.bancodeoccidente.com.co/web/empresas/segmentos
+# Segmentos de Clientes Empresas | Banco de Occidente - Empresas
+# Segmentos Empresariales del Banco de Occidente
+Herramientas financieras diseñadas para entidades gubernamentales.
+### Corporativo e Institucional
+Accede a financiamiento, inversión que optimizan la administración
+Impulsa tu negocio con créditos, cuentas empresariales.
+Financiamiento, cuentas y herramientas digitales.
+Cada empresa es única. Por eso, ofrecemos productos financieros adaptados a las necesidades de tu negocio, sin importar su tamaño.
+Te brindamos herramientas digitales y asesoría especializada para que tu empresa opere con agilidad y seguridad.
+### Impulso para tu Negocio
+Desde financiamiento hasta soluciones de inversión y recaudo, tenemos todo lo que necesitas para fortalecer tu negocio.
+### Un socio estratégico
+Acompañamos a tu empresa en cada etapa de su crecimiento con soluciones innovadoras y asesoría experta.
+## Encuentra la solución financiera ideal para tu empresa
+Explora nuestra oferta de productos y elige la mejor opción para hacer crecer tu negocio.

@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/181648/Pagare-para-operaciones-Leasing.docx/b2eb9b8e-3267-295d-7701-7efa20b98a74?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/181648/Pagare-para-operaciones-Leasing.docx/b2eb9b8e-3267-295d-7701-7efa20b98a74?download=true

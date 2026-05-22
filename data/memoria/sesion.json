@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "window_k": 6,
+  "messages": [
+    {
+      "type": "human",
+      "content": "¿Qué es el crédito hipotecario del Banco de Occidente?"
+    },
+    {
+      "type": "ai",
+      "content": "El Crédito Hipotecario del Banco de Occidente te permite adquirir tu casa propia, ya sea nueva o usada. Este crédito está diseñado para la financiación de proyectos inmobiliarios destinados a ventas, y la aprobación se realiza sobre un patrimonio autónomo inmobiliario completo. El pago de intereses puede ser mensual, trimestral o semestral, y la tasa de interés está sujeta a un estudio del cliente. Para solicitar tu crédito de vivienda, contamos con la documentación necesaria, incluyendo el pagaré para crédito hipotecario en pesos y en UVR."
+    },
+    {
+      "type": "human",
+      "content": "¿Qué oficinas hay en cali?"
+    },
+    {
+      "type": "ai",
+      "content": "En Cali, contamos con las siguientes oficinas:\\n- Oficina Principal (Cali): Carrera 4 # 7-61 | Tel: (602) 485 8000\\n- Sucursal Norte (Cali): Avenida Sexta Norte # 23N-46 | Tel: (602) 485 8000\\n- Sucursal Chipichape (Cali): Centro Comercial Chipichape | Tel: (602) 485 8000"
+    },
+    {
+      "type": "human",
+      "content": "¿Qué documentos necesito para ese crédito?"
+    },
+    {
+      "type": "ai",
+      "content": "Para solicitar tu crédito hipotecario, te invitamos a contactar la línea de atención del banco o visitar una sucursal. Ellos te brindarán asesoría personalizada y te informarán sobre la documentación específica que necesitas."
+    }
+  ]
+}

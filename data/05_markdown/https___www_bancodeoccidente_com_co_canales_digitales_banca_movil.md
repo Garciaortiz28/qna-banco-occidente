@@ -1,0 +1,26 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/canales-digitales/banca-movil -->
+URL: https://www.bancodeoccidente.com.co/canales-digitales/banca-movil
+# App Móvil Banco de Occidente
+# App Banco de Occidente Móvil
+Envía dinero, paga facturas y recarga desde cualquier lugar.
+#### Control total de tus cuentas
+Consulta saldos, movimientos y administra tu dinero fácilmente.
+Accede a créditos, tarjetas y cuentas sin visitar una oficina.
+#### Accede con biometría
+Inicia sesión con huella o reconocimiento facial para mayor seguridad.
+### Aprende a usar Banca Móvil
+Descubre tutoriales paso a paso y consejos de seguridad para proteger tu información.
+#### Inicia sesión con huella o reconocimiento facial para mayor seguridad.
+Servicios públicos, privados, obligaciones bancarias, impuestos, transferencias, avances, entre otros
+Cuentas con un asistente de inteligencia artificial, que te ayudará a gestionar mejor tus finanzas.
+Dato seguro enviado al número de celular registrado o generación a través de nuestro Token Mobile
+Puedes generar certificados de productos, extractos a costo $0
+## Solicita productos desde la app
+Abre cuentas, solicita créditos y accede a más servicios sin salir de casa.
+### Descarga tu Banca Móvil
+## Tu banco siempre contigo donde estés
+## Te acompañamos siempre en cada momento
+### Productos relacionados
+#### Dinero para lo que quieras, sin explicaciones
+#### Ahorra con rentabilidad y sin complicaciones
+#### Tu tarjeta, tu mundo de posibilidades

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=gCtEgRHyhrg
+# Asignación de Tokens Virtuales a Usuarios Secundarios (Casos Especiales)
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=gCtEgRHyhrg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En este video encontrarás la guía completa para asignar tokens virtuales a usuarios secundarios, incluyendo la gestión de casos especiales.
+## Transcripción
+_Video sin subtítulos disponibles en español._

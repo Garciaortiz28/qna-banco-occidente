@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=1YK2V4b3N2g
+
+# Pasa tu código #TagAval de forma fácil, rápida y segura
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=1YK2V4b3N2g  
+**Publicado:** 27/01/2025  
+**Duración:** 1:04  
+**Vistas:** 5,925  |  **Likes:** 64  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Encuéntralo en nuestra app y en las de los bancos del @Grupo-Aval . Aprende cómo funciona.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

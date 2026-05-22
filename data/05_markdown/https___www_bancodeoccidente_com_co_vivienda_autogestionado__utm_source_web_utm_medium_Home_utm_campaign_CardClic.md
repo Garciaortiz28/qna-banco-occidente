@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/vivienda-autogestionado/?utm_source=web&utm_medium=Home&utm_campaign=CardClic -->
+URL: https://www.bancodeoccidente.com.co/vivienda-autogestionado/?utm_source=web&utm_medium=Home&utm_campaign=CardClic

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=So2n4DXfPBk
+# Banco de Occidente I Pago Mínimo Alterno
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=So2n4DXfPBk  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce más sobre las condiciones del Pago Mínimo Alterno en: www.bancodeoccidente.com.co módulo Tarjeta Credencial / Promociones.
+## Transcripción
+_Video sin subtítulos disponibles en español._

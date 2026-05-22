@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/43377/0/Puntos+corresponsales+Bancarios+MARZO+2026.xlsx/7e6e3769-2c83-7080-c065-52a8a5229426?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/43377/0/Puntos+corresponsales+Bancarios+MARZO+2026.xlsx/7e6e3769-2c83-7080-c065-52a8a5229426?download=true

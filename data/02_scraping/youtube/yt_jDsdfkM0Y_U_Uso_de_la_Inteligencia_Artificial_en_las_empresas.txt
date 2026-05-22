@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=jDsdfkM0Y_U
+
+# Uso de la Inteligencia Artificial en las empresas
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=jDsdfkM0Y_U  
+**Publicado:** 30/04/2024  
+**Duración:** 7:57  
+**Vistas:** 310  |  **Likes:** 6  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Una entrevista con Patricia Parra, experta en Inteligencia Artificial, sobre cómo las empresas pueden implementar de manera adecuada esta nueva herramienta que está revolucionando el mundo digital. 💻
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

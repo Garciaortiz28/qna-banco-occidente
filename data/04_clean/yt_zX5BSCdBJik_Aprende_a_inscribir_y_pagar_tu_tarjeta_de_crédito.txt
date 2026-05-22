@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=zX5BSCdBJik
+# Aprende a inscribir y pagar tu tarjeta de crédito
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=zX5BSCdBJik  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En estos simples pasos te explicamos cómo puedes inscribir y pagar tus tarjetas de crédito de cualquier banco en el Portal Transaccional. Estamos #ContigoDondeEstés.
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=XU07Ut3TVIg
+
+# ¿Ya conocías nuestro portal transaccional para empresas?
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=XU07Ut3TVIg  
+**Publicado:** 01/11/2023  
+**Duración:** 1:16  
+**Vistas:** 470  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+En Banco de Occidente diseñamos un portal transaccional a la medida de tu empresa. Aquí puedes consultar y realizar transacciones de manera fácil, segura y rápida. Ven y conoce más. 💻
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

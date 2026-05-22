@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=pdWyC680nmE
+
+# Competencias digitales
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=pdWyC680nmE  
+**Publicado:** 17/12/2025  
+**Duración:** 5:33  
+**Vistas:** 47  |  **Likes:** 1  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conferencista: Henry Martinez CEO Kipa
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

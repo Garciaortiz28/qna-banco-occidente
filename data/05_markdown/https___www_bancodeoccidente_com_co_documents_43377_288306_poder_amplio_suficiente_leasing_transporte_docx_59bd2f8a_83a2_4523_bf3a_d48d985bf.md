@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/43377/288306/poder-amplio-suficiente-leasing-transporte.docx/59bd2f8a-83a2-4523-bf3a-d48d985bfa39?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/43377/288306/poder-amplio-suficiente-leasing-transporte.docx/59bd2f8a-83a2-4523-bf3a-d48d985bfa39?download=true

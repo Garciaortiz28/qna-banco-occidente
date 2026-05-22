@@ -1,0 +1,19 @@
+URL: https://www.youtube.com/watch?v=0cvyv4RvNxo
+
+# Pide tu Tarjeta en pocos clics
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=0cvyv4RvNxo  
+**Publicado:** 10/02/2026  
+**Duración:** 0:15  
+**Vistas:** 6,593  |  **Likes:** 1  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Tu Tarjeta Digital al instante y sin papeleos. 
+Pídela desde tu celular.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

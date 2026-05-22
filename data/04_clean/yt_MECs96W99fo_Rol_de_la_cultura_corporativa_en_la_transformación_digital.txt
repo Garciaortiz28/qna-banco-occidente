@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=MECs96W99fo
+# Rol de la cultura corporativa en la transformación digital
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=MECs96W99fo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a Luis Acosta, profesor de educación ejecutiva de la Universidad de los Andes. Realizar un diagnóstico del ADN digital de la organización es fundamental para establecer las bases y enmarcar los vectores sobre los cuales se focalizará el desarrollo de la cultura y adopción de tecnología de forma sostenible.
+## Transcripción
+_Video sin subtítulos disponibles en español._

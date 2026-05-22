@@ -1,0 +1,29 @@
+[project]
+name = "Asistente Virtual — Banco de Occidente"
+enable_telemetry = false
+
+[features]
+prompt_playground = false
+multi_modal       = true
+
+    [features.speech_to_text]
+    enabled  = true
+    language = "es"
+
+[UI]
+name         = "Banco de Occidente · Asistente IA"
+show_readme_as_default = false
+default_theme = "light"
+
+    [UI.theme]
+        [UI.theme.light]
+        background  = "#F4F7FB"
+        paper       = "#FFFFFF"
+
+            [UI.theme.light.primary]
+            main       = "#0078C8"
+            dark       = "#003DA5"
+            light      = "#4D7BC4"
+
+[meta]
+generated_by = "1.3.0"

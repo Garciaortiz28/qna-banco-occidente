@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/105021/formato-solicitud-de-productos-persona-natural.xlsx/19d7ca94-9a4e-ac7a-7358-2657d7a027de?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/105021/formato-solicitud-de-productos-persona-natural.xlsx/19d7ca94-9a4e-ac7a-7358-2657d7a027de?download=true

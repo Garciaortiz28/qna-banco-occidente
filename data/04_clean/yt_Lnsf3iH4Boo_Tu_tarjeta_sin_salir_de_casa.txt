@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Lnsf3iH4Boo
+# Tu tarjeta sin salir de casa.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Lnsf3iH4Boo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Rápido, fácil y 100% digital con nuestro portafolio de Tarjetas Credencial, solicita la tuya aquí.
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=xYExdTQv0C0
+# Canción Mi Planeta Azul
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=xYExdTQv0C0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Canción oficial Mi Planeta Azul interpretada en la última ceremonia de Premiación Planeta Azul 2024
+## Transcripción
+_Video sin subtítulos disponibles en español._

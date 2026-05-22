@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/0/formato-inscripcion-canales-electronicos.xlsx/8a9af7d8-39f5-0408-ab40-b61418b74481?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/0/formato-inscripcion-canales-electronicos.xlsx/8a9af7d8-39f5-0408-ab40-b61418b74481?download=true

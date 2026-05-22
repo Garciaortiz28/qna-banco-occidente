@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=yI2Hqt3c64o
+# OcciRed - Cómo iniciar sesión en tu portal
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=yI2Hqt3c64o  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Te presentamos los pasos que debes realizar para acceder a tu Portal Transaccional OcciRed. 
+Ingreso al Portal:  https://cutt.ly/vmJpiN0
+## Transcripción
+_Video sin subtítulos disponibles en español._

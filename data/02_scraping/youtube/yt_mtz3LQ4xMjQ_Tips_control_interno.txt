@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=mtz3LQ4xMjQ
+
+# Tips control interno
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=mtz3LQ4xMjQ  
+**Publicado:** 26/03/2025  
+**Duración:** 6:08  
+**Vistas:** 84  |  **Likes:** 3  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Entrevista a: Andres Chaves.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

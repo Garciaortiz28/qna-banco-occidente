@@ -1,0 +1,7 @@
+URL: https://www.youtube.com/watch?v=m1M6Jbk99Mo
+# CAMBIO DE CLAVE
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=m1M6Jbk99Mo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Transcripción
+_Video sin subtítulos disponibles en español._

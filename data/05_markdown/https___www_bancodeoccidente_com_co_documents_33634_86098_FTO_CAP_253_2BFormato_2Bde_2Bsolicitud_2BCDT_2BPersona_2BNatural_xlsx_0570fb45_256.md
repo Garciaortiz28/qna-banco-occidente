@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/86098/FTO-CAP-253%2BFormato%2Bde%2Bsolicitud%2BCDT%2BPersona%2BNatural.xlsx/0570fb45-2560-12a5-45ae-a076a3f15c4a?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/86098/FTO-CAP-253%2BFormato%2Bde%2Bsolicitud%2BCDT%2BPersona%2BNatural.xlsx/0570fb45-2560-12a5-45ae-a076a3f15c4a?download=true

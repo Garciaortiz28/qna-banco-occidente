@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=O13w0g0uSeQ
+
+# Aspectos importantes en la ciberseguridad de las empresas
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=O13w0g0uSeQ  
+**Publicado:** 30/10/2024  
+**Duración:** 11:27  
+**Vistas:** 181  |  **Likes:** 4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+No te pierdas la entrevista con Lucas Giraldo, Consulting manager de RSM Colombia.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

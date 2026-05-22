@@ -1,0 +1,13 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/asistencias-assisprex -->
+URL: https://www.bancodeoccidente.com.co/asistencias-assisprex
+# Tarjeta de Crédito Mastercard Joven Banco de Occidente
+### Assisprex Asistencias
+Banco de Occidente en alianza con Assisprex SAS, ofrece diferentes asistencias para tí y tu grupo familiar,para tu salud, hogar, tu auto o moto, para disfrutar desde tu casa y para los más grandes del hogar.
+## Multiasistencia a tu medida
+Plan personalizado de asistencia con múltiples servicios para clientes de Banco de Occidente.
+Realiza tu pago mensual usando tu producto financiero de forma práctica y segura.
+Asistencia operada por Assisprex, disponible las 24 horas, todos los días del año.
+bancodeoccidente@assisprex.com
+## Clausulado multiasistencia Élite
+## Clausulado multiasistencia preferente
+## Clausulado multiasistencia Preferente Plus

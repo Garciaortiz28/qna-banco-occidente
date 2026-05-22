@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=-xPJ30FU51c
+# Usar tu tarjeta ha hecho que la vida de los niños en la Guajira sea Invaluable
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=-xPJ30FU51c  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce cómo los aportes que el Banco de Occidente realiza a tu nombre contribuyen al programa WASH de agua, higiene y saneamiento para los niños y ñiñas de la Guajira. 💧
+## Transcripción
+_Video sin subtítulos disponibles en español._

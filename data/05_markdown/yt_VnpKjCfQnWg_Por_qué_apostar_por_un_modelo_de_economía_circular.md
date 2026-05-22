@@ -1,0 +1,2 @@
+# Por qué apostar por un modelo de economía circular
+Entrevista a Daniel Rodríguez Paredes, CEO de Amazóniko. La economía circular es un modelo que se está imponiendo donde la producción se enfoca en reutilizar, reparar, renovar y reciclar materiales y productos existentes todas las veces que sea posible para crear valor agregado y ser más amigable con el medio ambiente.

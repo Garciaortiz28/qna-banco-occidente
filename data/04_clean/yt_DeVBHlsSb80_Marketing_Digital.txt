@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=DeVBHlsSb80
+# Marketing Digital
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=DeVBHlsSb80  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Cristian Ardila – Experto en marketing digital
+La estrategia en el marketing digital termina siendo la palabra clave para entender que significa y como generar un impacto positivo en todas nuestras campañas digitales
+## Transcripción
+_Video sin subtítulos disponibles en español._

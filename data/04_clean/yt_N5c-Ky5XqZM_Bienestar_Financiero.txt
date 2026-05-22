@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=N5c-Ky5XqZM
+# Bienestar Financiero
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=N5c-Ky5XqZM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Hablamos sobreLa salud de tu negocio no solo se mide en ventas, sino en su bienestar financiero. Conversamos con Nicolás Villa, el CEO de Platam, quien nos revela sus tres pilares para un negocio próspero: cómo construir un modelo que garantice el crecimiento, identificar las necesidades de liquidez y diversificar el capital para afrontar cualquier reto. 
+Estamos Del Lado De Los Que Hacen
+## Transcripción
+_Video sin subtítulos disponibles en español._

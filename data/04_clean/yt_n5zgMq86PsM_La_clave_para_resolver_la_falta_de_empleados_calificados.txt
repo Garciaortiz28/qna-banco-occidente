@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=n5zgMq86PsM
+# La clave para resolver la falta de empleados calificados
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=n5zgMq86PsM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Descubre junto a Victoria Suárez, CEO & Co-Founder de Codiversity, diferentes estrategias que pueden implementar las empresas para capacitar a sus empleados.
+## Transcripción
+_Video sin subtítulos disponibles en español._

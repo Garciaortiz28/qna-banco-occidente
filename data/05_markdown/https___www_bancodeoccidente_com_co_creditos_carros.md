@@ -1,0 +1,53 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/creditos/carros -->
+URL: https://www.bancodeoccidente.com.co/creditos/carros
+# Crédito para Carro Nuevo o Usado Banco de Occidente
+# Crédito de Vehículo para financiar tu Carro Nuevo o Usado
+## Hasta el 100% de financiación
+Adquiere tu vehículo sin cuota inicial y financia hasta el 100% del valor.
+Elige un plazo de financiación hasta 84 meses y paga cómodamente.
+Obtén una tasa especial y ahorra en el pago de intereses.
+Financiamos tanto vehículos nuevos como usados con excelentes condiciones.
+## Mejor tasa si traes tu nómina
+## Características y requisitos
+Revisa las condiciones y descarga la documentación necesaria para solicitar tu crédito.
+Mínimo 6 meses para empleados.
+Desde 18 años hasta 74 años.
+Declaración de renta o certificación de ingresos.
+Accede a beneficios en asistencias de vida o desempleo.
+Aplica para independientes y asalariados.
+### Documentación para solicitar tu crédito de Vehículo
+## Solicitud de producto
+## Prenda persona natural
+## Causales de negación o modificación de créditos preabrobados
+Términos y condiciones "Mujeres que hacen que las cosas pasen"
+## Solicíta tu Crédito de Vehículo
+### Simula y solicita en línea
+Calcula tu crédito y solicita en línea, sin filas ni papeleo y en solo 5 minutos.
+### Adquiérelo con un asesor
+Recibe ayuda en línea y cotiza tu crédito sin salir de casa.
+## Preguntas Frecuentes
+## ¿Qué conceptos componen la cuota de un crédito?
+## ¿A qué se debió el cambio en el valor del seguro a comienzos de año?
+## ¿Cómo funciona el proceso de endoso de póliza “Todo Riesgo Vehículo” en el Banco de Occidente?
+## ¿Cómo gestionar el endoso de tu póliza?
+## ¿Qué es un crédito de vehículo en línea y cómo funciona?
+## ¿Cuáles son los requisitos para solicitar un crédito de carro?
+## ¿Puedo financiar un carro nuevo o usado con el crédito de vehículo?
+## ¿Cuál es la tasa de interés del crédito de vehículo?
+## ¿En cuánto tiempo recibo la aprobación del crédito de vehículo?
+## ¿Cómo usar el simulador de crédito de vehículo para calcular mi cuota?
+## ¿Qué beneficios tiene solicitar mi crédito de vehículo en línea con el Banco de Occidente?
+## ¿Qué documentos necesito para solicitar un crédito de vehículo?
+## ¿Dónde puedo consultar el estado de mi crédito de vehículo aprobado?
+## ¿Cuánto me presta el banco para comprar un carro?
+## ¿Qué porcentaje financia el Banco de Occidente para un vehículo?
+## ¿Puedo solicitar un crédito de vehículo si soy independiente?
+## ¿Qué carros puedo comprar con un crédito de vehículo?
+### Paga menos por tu crédito de vehículo
+Unifica tus deudas y mejora tu flujo de caja.
+### Trae tu nómina y obtén mejores tasas
+Disfruta tasas preferenciales y otros beneficios.
+### Protege tu auto con un seguro todo riesgo
+Conduce con tranquilidad y cubre imprevistos con nuestro seguro.
+### Más que un auto, financia tus sueños
+Accede a un crédito de libre inversión y cubre lo que necesites.

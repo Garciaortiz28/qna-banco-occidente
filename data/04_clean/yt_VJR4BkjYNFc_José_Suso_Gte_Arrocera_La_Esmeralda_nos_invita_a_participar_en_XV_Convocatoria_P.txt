@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=VJR4BkjYNFc
+# José Suso, Gte. Arrocera La Esmeralda nos invita a participar en XV Convocatoria Premio Planeta Azul
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=VJR4BkjYNFc  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+José Manuel Suso, gerente de la Arrocera La Esmeralda, ganador del Gran Premio Planeta Azul en la categoría Empresarial (2012-2013), nos cuenta como con la implementación del proyecto “Uso y manejo sustentable del agua en el cultivo del arroz, una opción para la vida”, han mejorado la utilización del agua en el ciclo del cultivo del arroz. 
+Cuéntanos tu historia acerca del cuidado del planeta y podrás participar por $224.000.000 en premios en la categoría empresas. Inscríbete aquí: https://cutt.ly/DEYasw1
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=AYSZ0QguXp8
+# Gózate la Feria del lado de los que hacen: Banco de Occidente en la Feria de las Flores
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=AYSZ0QguXp8  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Acompáñanos en la Feria de las Flores y celebra con quienes hacen realidad sus metas.
+## Transcripción
+_Video sin subtítulos disponibles en español._

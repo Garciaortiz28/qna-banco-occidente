@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/181648/Acta-de-entrega-constancia-recibo-bienes-cliente-vivienda.docx/fb5eff89-990d-4fd5-f72c-232c28f7eae3?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/181648/Acta-de-entrega-constancia-recibo-bienes-cliente-vivienda.docx/fb5eff89-990d-4fd5-f72c-232c28f7eae3?download=true

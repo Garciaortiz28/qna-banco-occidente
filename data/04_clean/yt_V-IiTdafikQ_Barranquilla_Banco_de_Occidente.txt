@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=V-IiTdafikQ
+# Barranquilla Banco de Occidente
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=V-IiTdafikQ  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Abre tu Cuenta de Ahorros con el Banco de Occidente que tiene una rentabilidad del 7% E.A.* y además participas por una cena en Manuel Restaurante para dos personas. *Aplican términos y condiciones.
+## Transcripción
+_Video sin subtítulos disponibles en español._

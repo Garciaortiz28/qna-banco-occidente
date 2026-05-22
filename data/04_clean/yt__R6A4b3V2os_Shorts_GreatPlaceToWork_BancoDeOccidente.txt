@@ -1,0 +1,7 @@
+URL: https://www.youtube.com/watch?v=_R6A4b3V2os
+# #Shorts #GreatPlaceToWork #BancoDeOccidente
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=_R6A4b3V2os  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Transcripción
+_Video sin subtítulos disponibles en español._

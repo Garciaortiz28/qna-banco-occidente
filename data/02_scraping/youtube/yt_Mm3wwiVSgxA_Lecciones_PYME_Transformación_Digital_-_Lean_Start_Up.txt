@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=Mm3wwiVSgxA
+
+# Lecciones PYME | Transformación Digital - Lean Start Up
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Mm3wwiVSgxA  
+**Publicado:** 18/09/2020  
+**Duración:** 1:11:40  
+**Vistas:** 820  |  **Likes:** 30  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+En nuestra charla No. 5 de Lecciones Pyme, conoce qué se debe crear en la empresa para que tus clientes quieran y estén dispuestos a pagar por ello, en el menor costo y tiempo posible.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

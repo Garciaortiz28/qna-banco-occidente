@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=KhaaRmbIrf4
+
+# Aprende a generar tus extractos en el Portal Transaccional
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=KhaaRmbIrf4  
+**Publicado:** 18/07/2024  
+**Duración:** 1:19  
+**Vistas:** 665  |  **Likes:** 3  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Tenemos una amplia oferta en nuestros canales digitales para ti. Entérate cómo generar el extracto de tus productos bancarios. Estamos #ContigoDondeEstés.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

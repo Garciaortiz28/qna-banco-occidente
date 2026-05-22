@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=wL5nVCXiyHw
+# Liderazgo femenino
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=wL5nVCXiyHw  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a: Sandra Carvajal Gerente Regional de Analdex Caribe.
+## Transcripción
+_Video sin subtítulos disponibles en español._

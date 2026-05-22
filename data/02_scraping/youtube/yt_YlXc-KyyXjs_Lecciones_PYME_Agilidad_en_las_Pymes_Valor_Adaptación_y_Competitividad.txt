@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=YlXc-KyyXjs
+
+# Lecciones PYME | Agilidad en las Pymes: Valor, Adaptación y Competitividad
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=YlXc-KyyXjs  
+**Publicado:** 29/10/2020  
+**Duración:** 1:40:00  
+**Vistas:** 148  |  **Likes:** 4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Los marcos ágiles han demostrado ser exitosos en diferentes tipos y tamaños de industrias, a través de entregas de valor en contextos de incertidumbre, cambiantes, volátiles y ambiguos. Discutiremos sobre la manera en que, utilizando este Mindset Ágil, podremos ayudar a repensar las Pymes y ser más competitivos desde la adaptabilidad y la entrega de valor centrada en las necesidades del cliente.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,5 @@
+<!-- fuente: https://www.youtube.com/watch?v=pV7xK2e9OZY -->
+URL: https://www.youtube.com/watch?v=pV7xK2e9OZY
+# Regalos personalizados | Creer es vivir juntos la navidad | Banco de Occidente
+**URL:** https://www.youtube.com/watch?v=pV7xK2e9OZY
+¿Qué mejor idea que hacer tus propios empaques de regalo? Obsequia detalles de forma distinta a tus familiares, amigos y compañeros. ¡Aquí te enseñamos cómo hacerlo!

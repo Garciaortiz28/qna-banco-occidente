@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=sGVy0mUVLMI
+
+# La implementación del trabajo híbrido
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=sGVy0mUVLMI  
+**Publicado:** 20/09/2023  
+**Duración:** 9:27  
+**Vistas:** 114  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Junto a Andrés Mendoza, Jefe Técnico para Latam en ManageEngine, conversamos sobre las condiciones para un buen sistema de trabajo híbrido. 💻 Comparte nuestro contenido de Tu Comunidad Empresarial con tu equipo de trabajo para seguir creciendo juntos. 🙌
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

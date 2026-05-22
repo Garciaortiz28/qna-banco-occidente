@@ -1,0 +1,246 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/0/2026+-+TyC+campan%CC%83a+Compra+de+Cartera+Vehiculos+VF.pdf/df4d8ec8-6a45-2c2a-9da7-656170971e9e?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/0/2026+-+TyC+campan%CC%83a+Compra+de+Cartera+Vehiculos+VF.pdf/df4d8ec8-6a45-2c2a-9da7-656170971e9e?download=true
+# df4d8ec8 6a45 2c2a 9da7 656170971e9e?download=true
+**PDF · 7 páginas**
+## Página 1
+## TÉRMINOS Y CONDICIONES CAMPAÑA “Compra de Cartera” – BANCO DE
+• Cliente: Es aquella persona natural que se encuentra vinculada con el Banco
+de Occidente con antelación al inicio de la campaña, a través de alguno de
+nuestros productos o servicios.
+• Cliente Potencial: es una persona natural que tiene el perfil adecuado y la
+posibilidad de convertirse en un Cliente, pero que aún no ha realizado una
+compra de cartera. Este tipo de cliente muestra interés por los servicios que
+ofrece la entidad.
+• Segmento Aval: funcionarios de las entidades de Grupo Aval y la Organización
+Luis Carlos Sarmiento Angulo.
+• Segmento preferente: Clientes o Cliente Potencial que se encuentren en estos
+rangos de ingresos: Mayores a 4 Millones de Pesos y menor o iguales a 7 Millones
+• Segmento preferente plus: Clientes o Cliente Potencial, que se encuentren en
+estos rangos de ingresos: Mayores a 7 Millones de Pesos y menores a 16.5
+• Segmento Elite:  Clientes o Cliente Potencial (según se aclare) que se
+encuentren en estos rangos
+• s de ingresos: Mayores a 16.5 Millones de pesos.
+• “Tramitador” o “Automas”: persona o entidad designada por el Banco que se
+encarga de gestionar y realizar los trámites necesarios para obtención de
+documentos, permisos, licencias o cualquier otro proceso administrativo. Su
+función principal es facilitar el proceso, asegurando que se cumplan todos los
+requisitos y presenten los documentos pertinentes antes las entidades
+A continuación, se presentan los Términos y Condiciones mediante las cuales se
+desarrollará la campaña “Compra de Cartera”, (en adelante la “Campaña”).
+La Campaña tiene por objeto  incentivar a todas aquellas personas naturales
+clientes (en adelante “Cliente” o “Clientes”) y no clientes del Banco de Occidente
+(en adelante “Cliente Potencial” o “Clientes Potenciales”), a que, entre el primero
+(01) Enero y el treinta (30) de diciembre del 2026:
+1. Soliciten y les sea aprobada la operación de compra de cartera de crédito
+de vehículos, de acuerdo a lo mencionado en el acápite de Condiciones
+2. Adquieran el seguro Todo Riesgo ( Auto Protegido y/o desempleo ( Cuota
+3. Se realice el efecto el desembolso del crédito por parte del Banco de
+## Página 2
+TÉRMINOS Y CONDICIONES CAMPAÑA “Compra de Cartera” – BANCO DE OCCIDENTE
+Occidente a favor del cliente.
+Los Clientes que cumplan con las condiciones Generales y Particulares
+mencionadas en los presentes términos y condiciones, podrán ser  uno de los
+Trescientos setenta y cuatro  (374) ganadores del pago de los siguientes gastos del
+trámite requerido para legalizar la garantía asociada a la compra de cartera de
+crédito de vehículo a favor del Banco de Occidente ante el organismo de tránsito
+(en adelante, el “Beneficio”):
+• Inscripción de la prenda de vehículo a favor del Banco de Occidente.
+• Levantamiento de prenda de vehículo constituida con anterioridad a favor
+de la otra entidad.
+• Certificado de tradición del vehículo financiado.
+• Honorarios del tramitador para realizar el trámite respectivo.
+• Histórico del RUNT del respectivo vehículo.
+• Paz y salvo  del vehículo (este valor se aplica en situaciones en las que los
+impuestos de tránsito no pueden ser verificados a través de plataformas
+• Certimas (Este documento proporciona un historial detallado del vehículo
+registrado en el Registro Único Nacional de Tránsito (RUNT). Incluye
+información esencial como características del vehículo, accidentes
+registrados, embargos, propietarios anteriores, y la vige ncia de la revisión
+técnico-mecánica y del SOAT)
+## CONDICIONES PARTICULARES
+1. Solicitar y obtener aprobación y el desembolso del producto Compra de
+cartera: el Cliente o Cliente Potencial deberá solicitar y obtener la aprobación
+de un crédito bajo la modalidad de Compra de cartera  de vehículos (en
+adelante “ C. Cartera”) y en efecto desembolsar el crédito , teniendo en
+consideración los siguientes rangos según la clasificación del cliente:
+1.1. Por valor igual o superior a $60.000.000 de pesos para Clientes Segmento
+1.2. Por valor igual o superior a $40.000.000 de pesos para Clientes o Clientes
+Potenciales Segmento preferente plus, Segmento selecto y Segmento Aval
+1.3. Por cualquier monto que sea desembolsado para Clientes y Clientes
+## Potenciales Segmento élite
+El desembolso de las anteriores operaciones podrá ser máximo hasta el 30 de
+diciembre del 2026.
+## Adicionalmente el Cliente/ Cliente Potencial deberá:
+• Ser mayor de 18 años.
+• No estar en mora en cualquiera de sus obligaciones con el Banco.
+• Adquirir el seguro voluntario “Cuota protegida” y/o “Tranquilidad global”.
+## Página 3
+• Aplica para compra de cartera en cualquier segmento.
+• Aplica para las ciudades detalladas en la cobertura citada en el numeral 3
+del presente acápite.
+• Aplica siempre y cuando se realice el desembolso del respectivo crédito.
+El Cliente ganador recibirá el beneficio del pago los siguientes costos del trámite:
+Inscripción de prenda  de vehículo  a favor del Banco de Occidente ,
+levantamiento de prenda de vehículo constituida con anterioridad a favor de la
+otra entidad , certificado de tradición  del vehículo financiado , honorarios del
+tramitador, histórico del RUNT del respectivo vehículo, certimas y paz y salvo del
+vehículo, en caso de que aplique. El Banco solo reconocerá el pago de la tarifa
+del respectivo trámite  ante respectiva autoridad de tránsito /movilidad . Los
+gastos no contemplados en el anterior listado de  trámite serán asumidos por el
+Cliente (por ejemplo Impuestos pendientes de pago y/o multas vigentes ,
+inscripciones de cancelación y registro de garantía  en el Registro de Garantías
+Mobiliarias, entre otros).
+Es de advertir que, s i la compra de cartera es por un monto de hasta Sesenta
+millones de pesos moneda legal corriente (COP $60.000.000), el tope máximo del
+beneficio será de $600,000. Para compras de cartera cuyo monto sea superior a
+Sesenta millones de pesos moneda legal corriente (COP $60.000.000) , el tope
+máximo del beneficio será de $700,000.
+Este beneficio aplica para personas naturales cuya compra de cartera sea
+destinada a la financiación de vehículos particulares.
+3. COBERTURA: A nivel nacional en donde Automas tenga presencia como
+proveedor autorizado.
+## Página 4
+4. DINÁMICA Y APLICACIÓN DEL BENEFICIO:
+Los Clientes ganadores serán máximo 374 y se seleccionarán de acuerdo al orden
+cronológico de la fecha en que sea aprobado el crédito para compra de cartera
+de crédito de vehículo, es decir, los primeros 374 clientes que, durante el periodo
+de la vigencia de la Campaña, cumplan con las condiciones para acceder a l
+beneficio aquí indicadas y cuenten con la aprobación de su crédito para compra
+de cartera  de crédito de vehículo  y sea este desembolsado , serán los
+seleccionados de acuerdo con en el orden cronológico de la fecha de la
+respectiva aprobación.
+• El Cliente ganador será notificado por llamada telefónica a su número de
+teléfono registrado en el Banco por la fuerza comercial.
+• Una vez aprobada la operación de C. de cartera y el Cliente cumpla con
+los requisitos para ser acreedor del beneficio, se le solicitar á al Cliente la
+tarjeta de propiedad  del vehículo  para que el ejecutivo de vehículos
+procese la cotización de los gastos de trámite que es emitida por  el
+tramitador autorizado por el Banco.
+• El Banco cancelará este monto a la cuenta bancaria del tramitador , quien
+se encargará de realizar las gestiones para efectuar el trámite de
+cancelación de la garantía del vehículo anterior y el registro o inscripción de
+la garantía del vehículo a financiar a favor del Banco de Occidente y objeto
+de la compra de cartera,  para lo cual gestionará la obtención del
+certificado de tradición e histórico del RUNT del vehículo respectivo y el paz
+y salvo del mismo de ser el caso.
+•  Posteriormente durante el proceso de las firma s de la documentación del
+desembolso, el ejecutivo comercial de vehículos le solicitará al Cliente la
+firma del acuse del recibido del beneficio del pago del trámite mencionado.
+El Cliente no recibirá dinero en efectivo, el pa go se hará directa mente al
+Tramitador autorizado para los fines pertinentes.
+• En caso de empate: Se elegirá al Cliente que le hubiere sido aprobado en
+primer lugar en fecha y hora, su solicitud de Crédito de Compra de cartera
+de vehículo y cumpla las condiciones antes mencionadas.
+## Página 5
+• En caso de desistimiento del crédito o de su desembolso por cualquier razón,
+el costo de los tramites relacionados en el beneficio, deberá ser asumido
+directamente por el respectivo Cliente y en este caso no tendrá derecho al
+## CONDICIONES GENERALES
+A. Si por cualquier motivo o causa la Campaña no se puede llevar a cabo
+como se ha planeado, o porque, según la opinión exclusiva de l Banco
+podría afectar o perjudicar a la administración, el funcionamiento, la
+seguridad, la transparencia, la integridad o imagen de la Compañía, el
+Banco se reserva el derecho, a su entera discreción, de cancelar, finalizar,
+modificar o suspender la actividad.
+B. El Banco se reserva el derecho, a su entera discreción, de no considerar a
+cualquier Cliente que considere que esté manipulando el proceso o el
+funcionamiento de la actividad, o que no cumpla con estos Términos y
+C. Cualquier intento de alguna persona por perjudicar el funcionamiento
+legítimo de esta actividad o de la Aplicación podrá constituir una violación
+de las leyes civiles y penales, y en caso de producirse el intento, el Banco se
+reserva el derecho de solicitar indemnizaciones a dicha persona dentro de
+los límites de la ley.
+D. El Beneficio es personal e intransferible. No se podrá realizar ninguna
+transferencia, cesión, redención en efectivo ni sustitución del beneficio o de
+una parte de este.
+E. Ninguno de los beneficios que hacen parte de La Campaña exonerará en
+ningún caso la obligación de pago su respectivo producto
+F. El Banco se reserva el derecho de realizar las modificaciones o anexos sobre
+la mecánica, vigencia y beneficios de la Campaña.
+G. La responsabilidad del Banco culmina con la entrega del beneficio en las
+condiciones antes indicadas . El Banco de Occidente no será responsable
+de la garantía de ninguno de los beneficios, ni por costos no mencionados
+de manera expresa en los presentes términos y condiciones.
+H. El Beneficio no es acumulable con otras promociones y/o beneficios no
+mencionados en esta campaña.
+I. El Cliente debe residir legalmente en Colombia.
+J. El Cliente entiende que la participación en La Campaña implica el expreso
+e íntegro conocimiento y aceptación de los Términos y Condiciones de este,
+en ese sentido, adicional también entiende y acepta que en caso de no
+estar de acuerdo con los Términos y Condiciones en los que se desarrollará
+la Campaña, tiene el pleno derecho de no participar en éste.
+K. Los Clientes podrán de forma escrita o verbal y en cualquier momento
+durante la vigencia de la campaña renunciar a participar en la misma a
+través de cualquier oficina del Banco de Occidente a nivel nacional o a
+través de su Línea de Servicio al Cliente.
+L. El Cliente ganador releva de toda responsabilidad al Banco de Occidente de
+cualquier daño, sobre las personas o las cosas, que se pudiesen ocasionar con
+## Página 6
+el uso del beneficio, ya sea por su uso o el de terceras personas.
+M. El cliente podrá consultar los ganadores de La Campaña a través en la página
+web del Banco  www.bancodeoccidente.com.co sección “Te puede
+interesar” en el home. Esta información estará disponible por el término de un
+(1) mes, a partir de finalizada y liquidada La Campaña.
+N. El Banco se exonera de cualquier responsabilidad en caso de que por
+circunstancias atribuibles al Cliente ganador o a las autoridades de tránsito
+respectivas o a terceros , no se pueda llevar a cabo el tr ámite objeto del
+beneficio otorgado, previéndose que éste solo corresponde al cubrimiento
+del pago del costo del trámite citado en el numeral 2 de las “Condiciones
+Particulares” contenidas en los presentes términos y condiciones.
+## Política De Protección De Datos De Carácter Personal:
+Al aceptar participar en la Campaña, el Cliente autoriza al Banco (responsable
+del Tratamiento) a contactarlo vía Mensaje para pedir datos de  carácter
+personal, incluido el nombre, apellido, cédula, celular y dirección de correo
+electrónico, y a que su nombre sea publicado en el fichero de ganadores que
+se encuentra en la página web del Banco (de acuerdo con el numeral “M” de
+la sección “Condiciones generales”.
+Al brindar los datos, el Participante autoriza al Banco de Occidente para utilizar
+la información suministrada voluntariamente para el desarrollo de esta actividad.
+En cumplimiento de lo dispuesto en el artículo 12 de la Ley 1581 de 2012 y demás
+normas que lo modifiquen, se informa al Participante que, respecto a la
+información y demás datos personales suministrados en desarrollo de la
+Campaña, que sus  datos no podrán ser utilizados para fines distintos de los
+establecidos en la Campaña. No se podrán usar los datos entregados para otras
+Campañas ni para  vender u ofrecer productos del Banco de Occidente.  Así
+mismo, el Participante tiene derecho a:
+1) Conocer, actualizar y rectificar dicha información y datos personales frente a
+los responsables o encargados de su tratamiento.
+2) Solicitar prueba de la autorización otorgada al responsable del tratamiento.
+Para tales efectos se entiende que, por el hecho de participar en la
+Campaña, el Participante está otorgando dicha autorización, razón por la
+cual la prueba aludida  podrá consistir en la acreditación de dicha
+circunstancia, a través del medio que mejor corresponda.
+3) Ser informado por el responsable o el encargado del tratamiento, previa
+solicitud, del uso que les ha dado a sus datos.
+4) Presentar ante la Superintendencia Financiera de Colombia quejas por
+infracciones a las disposiciones contenidas en la Ley 1581 de 2012 (Ley
+de Protección de Datos), y demás normas que la adicionen, reglamenten o
+## Página 7
+5) Revocar la autorización y/o solicitar la supresión del dato cuando en el
+tratamiento no se respeten los principios, derechos y garantías de orden legal
+## Propiedad intelectual
+Banco de Occidente es titular de todos los derechos de propiedad intelectual
+entre los que se comprenden los diseños, códigos fuentes, contenidos,
+información, sonidos, gráficos y dibujos, así como también es titular de los
+derechos de Propiedad Industrial referidos a sus productos, específicamente de
+los relativos a las marcas registradas. Por lo anterior, si el Cliente accede a estos
+Términos y Condiciones, acepta y se obliga a no reproducir, retransmitir, distribuir,
+vender, publicar, divulgar, circular o comercializar, y en general a no disponer
+por cualquier medio de la información aquí contenida, total o parcialmente,
+salvo que exista autorización previa, expresa y escrita de Banco de Occidente.
+El participante responderá ante Banco de Occidente por cualquier violación a
+propiedad intelectual y derechos de terceros que con ocasión de su
+publicación en la Campaña se pudieran generar.
+Los presentes Términos y Condiciones podrán modificarse, adicionarse o
+renovarse cuando Banco de Occidente lo considere pertinente, y sin necesidad
+de autorización por parte del participante, o por disposición de la ley vigente
+aplicable, caso en el cual s e procederá a la publicación de las reformas o
+adiciones a través de las redes sociales del Banco de Occidente. El participante
+está llamado a consultar los cambios y se entiende su aceptación como
+requisito indispensable para continuar accediendo y usando  los servicios de la
+actividad que se desarrollará.
+Al participar en la actividad, se da por hecho que el Participante ha leído y
+aceptado los Términos y Condiciones aquí planteados.
+Si usted tiene alguna inquietud, comentario, solicitud o pregunta relacionada
+con estos Términos y Condiciones, o las prácticas de información de este sitio por
+favor comuníquese con nosotros a la Línea de Servicio al Cliente en Bogotá al

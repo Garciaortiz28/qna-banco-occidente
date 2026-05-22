@@ -1,0 +1,6 @@
+<!-- fuente: https://www.youtube.com/watch?v=7XBogXOrO74 -->
+URL: https://www.youtube.com/watch?v=7XBogXOrO74
+# Mujeres que Inspiran - Nuestro liderazgo debe transformarnos a nosotros primero.
+**URL:** https://www.youtube.com/watch?v=7XBogXOrO74
+Un espacio donde las historias no solo se cuentan, sino que inspiran a otros.
+En Mujeres que Inspiran, Gina, María Eugenia, Zoraida y Alexandra comparten sus experiencias de liderazgo, propósito e impacto, demostrando que cuando una mujer avanza, abre camino para muchas más.

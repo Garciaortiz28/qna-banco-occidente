@@ -1,0 +1,7 @@
+# Informe Sectorial transporte y almacenamiento
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce este resumen de principales indicadores e informe sectorial del transporte y almacenamiento. 🚌
+## Transcripción
+_Video sin subtítulos disponibles en español._

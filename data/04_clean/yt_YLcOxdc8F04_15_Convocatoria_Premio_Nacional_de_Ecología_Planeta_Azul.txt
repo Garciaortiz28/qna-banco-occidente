@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=YLcOxdc8F04
+# 15 Convocatoria Premio Nacional de Ecología Planeta Azul
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=YLcOxdc8F04  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Desde el 17 de agosto hasta el 30 de septiembre inscribe tus iniciativas para el cuidado del medio ambiente en el Premio Planeta Azul y podrás participar por $287.00.000
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Djq1LakVCL0
+# Banco de Occidente, del lado de las empresas y entidades públicas, del lado de los que hacen.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Djq1LakVCL0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En esta Navidad celebramos ser parte de tu historia y de acompañarte en tu camino hacia el éxito. Sigamos construyendo juntos el país que soñamos.
+## Transcripción
+_Video sin subtítulos disponibles en español._

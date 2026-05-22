@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=hEZGOWET6gM
+# Las tendencias del eCommerce en Colombia
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=hEZGOWET6gM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Las tendencias de eCommerce en Colombia están experimentando un rápido crecimiento y evolución. Conoce más en esta entrevista con Gerzayn Gutiérrez, jefe de marca y comunicación de Tienda Nube para México y Colombia. 💻
+## Transcripción
+_Video sin subtítulos disponibles en español._

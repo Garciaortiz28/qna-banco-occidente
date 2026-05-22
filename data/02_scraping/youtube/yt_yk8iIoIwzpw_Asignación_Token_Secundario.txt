@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=yk8iIoIwzpw
+
+# Asignación Token Secundario
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=yk8iIoIwzpw  
+**Publicado:** 21/01/2026  
+**Duración:** 1:52  
+**Vistas:** 124  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Aprende cómo realizar la asignación de un token secundario dentro de la plataforma de manera rápida y sencilla. En este tutorial te mostramos el paso a paso para habilitar correctamente este recurso de seguridad, ideal para usuarios que gestionan accesos.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

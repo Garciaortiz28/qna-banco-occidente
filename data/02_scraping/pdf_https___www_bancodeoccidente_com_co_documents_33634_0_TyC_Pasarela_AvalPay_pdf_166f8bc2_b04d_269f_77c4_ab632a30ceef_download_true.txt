@@ -1,0 +1,392 @@
+URL: https://www.bancodeoccidente.com.co/documents/33634/0/TyC+Pasarela+AvalPay.pdf/166f8bc2-b04d-269f-77c4-ab632a30ceef?download=true
+
+# 166f8bc2 b04d 269f 77c4 ab632a30ceef?download=true
+
+**PDF · 8 páginas**
+
+
+## Página 1
+
+Página 1 
+ 
+Versión 5.0 
+Fecha: 18/02/2025 
+ 
+ 
+Términos y Condiciones pasarela AvalPay 
+ 
+Por medio de los presentes Términos y Condiciones  se regula el uso de los distintos Servicios 
+(según se definen  más adelante) ofrecidos a través de l portal de pagos AvalPay (en adelante 
+“Pasarela AvalPay” o “El Portal”) que ofrece el Banco de Occidente (en adelante “El Banco”) para 
+sus clientes: persona jurídica o persona natural y/o cualquier otra figura societaria que ofrezca la 
+venta de bienes y/o servicios para los que desee ofrecer la opción de pago no presencial a través 
+de tarjetas débito, tarjetas de crédito y/o botón de pagos PSE y cualquier otro que de tiempo en 
+tiempo incluya el Banco (en adelante “Comercio(s)” o “Cliente(s)”). 
+Con la solicitud y contratación de Pasarela AvalPay, el Cliente reconoce y acepta expresamente 
+las condiciones, obligaciones y requisitos establecidos en el presente documento, formatos de 
+solicitud de vinculación de recaudo  por cada medio de pago que el Cliente vincule, el Contrato 
+de cuenta de ahorros y/o corriente, Checklist Implementación Pasarela AvalPay  y demás 
+documentos y soportes de la vinculación a los servicios del Banco.  
+I. Definiciones 
+Pasarela AvalPay: Es un portal de pagos que permite procesar   pagos en línea, donde se puede 
+recaudar a través de diferentes medios de pagos electrónicos con el respaldo del Banco de 
+Occidente, y con la posibilidad de elegir las mejores soluciones que se ajusten al negocio.  
+PSE: Pagos seguros en línea. 
+Usuario: Persona natural o jurídica comprador de los bienes/servicios ofrecidos por el Cliente. 
+ 
+Botón de Pagos Tarjeta de Crédito: Es un servicio que permite a los usuarios que cuenten con 
+tarjeta de crédito emitida por las franquicias Visa , MasterCard y American Express , realizar el 
+pago de los productos y servicios adquiridos con el Comercio mediante la integración con la 
+pasarela AvalPay. 
+Botón de Pagos PSE : Es un servicio que permite a los usuarios de todos los bancos 
+registrados en ACH COLOMBIA S.A., realizar el pago de los productos y servicios adquiridos 
+con EL COMERCIO mediante el uso de sus cuentas de ahorros y corriente autorizadas en el 
+portal de su entidad bancaria. 
+Implementación: Proceso a través del cual se realiza la conexión de las funcionalidades y 
+medios de pago de Pasarela AvalPay elegidos por el Cliente, en este proceso se gestionan 
+todas las actividades administrativas y técnicas para que  el Cliente empiece a utilizar el 
+servicio de Pasarela AvalPay. 
+Modelo Pasarela Gateway: Servicio de recaudo a través de una pasarela de pagos ofrecida por 
+Pasarela AvalPay, en que el modelo de recaudo, compensación y liquidación de los valores 
+producto de las ventas y recaudos se realiza directamente en las cuentas del Cliente de 
+acuerdo con los cortes de las Entidades Administradoras de Sistemas de Pago de Bajo Valor 
+(Redeban, Credibanco, ACH y ATH). 
+MCC: Código de categoría de comerciante (Merchant Category Code), número de cuatro 
+dígitos que los emisores de tarjetas de crédito  utilizan, principalmente para  clasificar las 
+transacciones.
+
+## Página 2
+
+Página 2 
+ 
+Versión 5.0 
+Fecha: 18/02/2025 
+ 
+ 
+Conexión WebCheckout: Conexión que permite delegar la responsabilidad del 
+procesamiento, almacenamiento y custodia de la información sensible del pago y/o 
+recaudo a la pasarela mediante un redireccionamiento  a un a URL segura  de Pasarela 
+AvalPay.  
+Conexión Api: Es una conexión mediante la cual, el Cliente es el responsable de capturar, 
+almacenar y custodiar la información  sensible del pago y/o recaudo , mediante esta 
+conexión   el usuario no sale del sitio web del Cliente para la realización del pago,  
+Link de Pagos:  Solución de pago que permite generar enlaces a través del panel 
+Administrativo de Pasarela AvalPay, con la descripción y  el valor de la venta y/o recaudo. 
+Estos enlaces pueden ser enviados a los usuarios por correo electrónico , mensajería 
+instantánea o redes sociales. 
+Micrositio Abierto:  Solución de pago mediante la cual se define un formulario de captura 
+de información de acuerdo con la necesidad del cliente  para realizar la venta y/o recaudo , 
+puede ser   personalizado con la marca del Cliente,  
+Micrositio Cerrado: Solución de pago mediante la cual se puede realizar recaudo de 
+facturas a través de cargue de archivos planos o mediante una conexión directa al sistema 
+de facturación que puede ser personalizado con la marca del Cliente. 
+Panel Administrativo AvalPay: Plataforma de la pasarela de pagos en donde se podrá 
+consultar el listado de transacciones realizadas, hacer búsquedas rápidas y avanzadas, 
+ver el detalle de una transacción, imprimir el comprobante de una transacción, generar  
+estadísticas y reportes de las operaciones realizadas, entre otros. 
+PCI DSS : Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago  (Payment 
+Card Industry Data Security Standard). Esta certificación es requerida para los clientes que 
+deseen realizar implementación a través de conexión API y debe estar activa y vigente . 
+3DS: Protocolo de mensajería antifraude que posibilita la realización de ventas y/o recaudos 
+seguros en Internet, y autentica al pagador como legítimo titular de la tarjeta que está 
+utilizando, sin necesidad de estar presente. 
+Este protocolo minimiza el riesgo al fraude y en caso de que se materialice un fraude o un 
+contracargo, si se evidencia que la transacción fue a utenticada, quien asume la 
+responsabilidad es el emisor. (Aplica para las franquicias Visa y Mastercard) 
+Cuenta Recaudadora: Hace referencia a la cuenta ahorros o corriente seleccionada por el 
+Cliente para recibir todos los recaudos que  ingresen a través de los servicios de Pasarela 
+AvalPay. 
+Funcionalidades: Son servicios complementarios a la  conexión y/o solución de pago 
+implementada por el Cliente , estas son: Tokenización, Pagos Mixtos, Promociones, 
+Dispersión de Fondos, Recurrencia y Multicrédito. 
+Recurrencia:  Funcionalidad que permite programar cobros periódicos que un Cliente 
+necesita hacerle a sus usuarios. Esta funcionalidad está habilitada solo para las conexiones 
+por Webcheckout, API y Micrositio Abierto. 
+Tokenización: Funcionalidad que habilita el pago a un clic y permite al usuario la posibilidad 
+de cifrar o encriptar y guardar sus tarjetas de crédito para que paguen con mayor agilidad 
+mejorando la experiencia de usuario . Esta funcionalidad está habilitada solo para las 
+conexiones por Webcheckout y API.
+
+## Página 3
+
+Página 3 
+ 
+Versión 5.0 
+Fecha: 18/02/2025 
+ 
+ 
+Pagos Mixtos: Funcionalidad a través de la cual el Cliente permite los usuarios puedan pagar el 
+total de su cuenta con diferentes medios de pago. Cada medio pago utilizado por el usuario bajo 
+esta modalidad cuenta como una transacción independiente. Esta funcionalidad está habilitada 
+para todos los tipos de conexión, excepto API. 
+Promociones: Funcionalidad a través de la que se habilita la parametrización de 
+descuentos de acuerdo con los primeros seis dígitos de las tarjetas (Bines). Esta 
+funcionalidad está habilitada para todos los tipos de conexión. 
+Dispersión de fondos: Esta funcionalidad permite dividir un recaudo para que sea recibido 
+en cuentas diferentes (ej.: cuenta de la agencia de viaje y cuenta de la aerolínea). Solo aplica 
+para el medio de pago tarjetas de crédito, es muy recomendado para las agencias d e 
+viaje afiliadas al IATA. Esta funcionalidad está habilitada solo para las conexiones por 
+Webcheckout, API y Micrositio     cerrado. 
+Multicrédito: Esta funcionalidad permite dividir los pagos con PSE para que lleguen a   cuentas 
+diferentes. Esta funcionalidad está habilitada solo para la conexión por API. 
+Acta de Exoneración:  Documento que genera el Banco en el momento de vinculación a los 
+servicios de la Pasarela AvalPay, en el caso que, a absoluta discrecionalidad del Banco, decida 
+condicionar el no cobro de los servicios. 
+ 
+II. Requisitos 
+ 
+Estar vinculado al Banco cumpliendo todos los requisitos expuestos en los contratos de 
+cuenta de ahorro y corriente y cualquier otro requisito que incluya el banco informará a 
+través de los diferentes canales de comunicación dispuestos por el Banco de tiempo en 
+tiempo. 
+ 
+Para el uso de los servicios de pasarela:  
+El Cliente deberá previamente contar con el formato “Checklist Implementación Pasarela 
+AvalPay” (DEX-COL-265) diligenciado y en poder del Banco. 
+Para el uso de los servicios de Recaudo con Tarjetas de Crédito:  
+El Cliente deberá previamente contar con el formato “solicitud de vinculación” (FTO -COL-1226) 
+diligenciado y en poder del Banco. 
+Para el uso de los servicios de Recaudo con PSE 
+El Cliente deberá previamente contar con el formato de “solicitud de vinculación” (FTO -SER-
+076). 
+Para el uso de los servicios de Recaudo con Botón Aval y Corresponsales 
+El Cliente deberá previamente contar con el formato de “Hoja de vida ” (DEX-SER-035) 
+diligenciado por el Especialista Cash
+
+## Página 4
+
+Página 4 
+ 
+Versión 5.0 
+Fecha: 18/02/2025 
+ 
+ 
+Para la inclusión de módulos de seguridad complementarios 
+El Cliente deberá previamente contar con el formato de “Checklist adición módulos de 
+seguridad Pasarela AvalPay ” ( FTO-MIS-32) diligenciado y en poder del Banco , se debe tener 
+presente que este servicio complementario tendrá una tarifa única de activación del servicio que 
+se debe pagar por una única vez, la cual se encuentra en el tarifario de productos.  
+Scudo es un sistema y servicio de validación para minimizar el riesgo al fraude. Este servicio se 
+verá complementado por la funcionalidad que ofrecen las validaciones 3DS a las transacciones 
+que sean autenticadas mayores y menores a $30.000 ( Cuando aplique ) para mitigar la 
+exposición a contracargos por fraude. Esta funcionalidad estará sujeta a las excepciones que 
+establezcan las franquicias de tarjetas de crédito. 
+La pasarela AvalPay y el Banco de Occidente, no asumirán el riesgo derivado de disputas de 
+contracargos de las transacciones autorizadas por fuera de 3DS, sin embargo, la pasarela 
+AvalPay podrá suministrar al comercio la información que tenga en su poder para apoyar la 
+solución ante cualquier controversia derivada de contracargo. 
+III. En caso de que cualquiera de los Servicios de Pasarela AvalPay sean personalizados por 
+solicitud del Cliente , deberá previamente acordarse por el Banco y el Cliente las 
+condiciones económicas y jurídicas aplicables, para lo cual, cualquier contrato adicional 
+que se acuerde entre el Banco y el Cliente se referirá al presente Términos y Condiciones 
+como complemento de lo allí dispuesto. 
+Tarifas 
+El Cliente autoriza al Banco para debitar de su(s) Cuenta Recaudadora cualquier suma de dinero 
+que a cualquier título tenga en el Banco, por cualquier valor que adeude o llegase a adeudar por 
+concepto de los servicios de Pasarela AvalPay, sin limitarse a valores de débitos, remuneraciones 
+y/o comisiones. 
+La tarifa asociada al costo de Pasarela AvalPay será la estipulada en el tarifario de la página web 
+del Banco https://www.bancodeoccidente.com.co/  >> al final “Tarifas (año actual)” >> Tarifas para 
+Empresas >> Ver tarifas.  
+Las tarifas por el uso de la Pasarela se cobrarán mes vencido como débito a la Cuenta número 
+      ahorro       /corriente       (marcar con x el tipo de cuenta ). Por otra parte, el Cliente acepta 
+expresamente que deberá cancelar el costo de implementación de Pasarela AvalPay al Banco 
+por cada conexión puesta en funcionamiento, este valor es único por cada implementación y 
+será acorde al precio definido en el tarifario antes indicado. 
+Las tarifas anteriormente mencionadas a nivel de uso de la pasarela y/o de implementación, 
+estarán sujetas a las condiciones expuestas en el Acta de Exoneración que informe el Banco en 
+el momento de vinculación y/o mediante acuerdo de reciprocidad pactado entre el Banco y el 
+Cliente. Para lo anterior, el Cliente deberá observar las condiciones dispuestas en el Acta de 
+Exoneración, en el caso que el Cliente no cumpla con las condiciones expuestas en dicha acta, 
+el Banco podrá modificar el costo del Servicio, informando previamente según se indica en este 
+documento de Términos y Condiciones.
+
+## Página 5
+
+Página 5 
+ 
+Versión 5.0 
+Fecha: 18/02/2025 
+ 
+ 
+ 
+IV. Obligaciones del Cliente 
+El Cliente con el uso de los Servicios de Pasarela AvalPay deberá:  
+Cumplir con los requisitos de seguridad que se informen de tiempo en tiempo para el uso de 
+Pasarela AvalPay. 
+Abstenerse de vincular o recibir pagos de cualquier usuario asociado a sectores productivos 
+restringidos por el Banco por motivos de riesgo de lavado de activos  y finan ciación del 
+terrorismo, corrupción, soborno y/o cualquier otra actividad que sea restringida e informada por 
+el Banco a través de cualquier medio verificable.  
+Consultar y aplicar lo dispuesto en el reglamento de Evertec PlacetoPay S.A.S., en lo pertinente 
+para los Servicios de Pasarela AvalPay, disponible en el siguiente link: 
+https://stwpevtcstorage01.blob.core.windows.net/imagenes-portal/2021/08/Reglamento-Web.-
+202010-EVERTEC-PLACETOPAY.pdf   
+Guardar absoluta reserva y confidencialidad sobre la información a la que tenga acceso con 
+ocasión de los Servicios de Pasarela AvalPay.  
+Atender inmediatamente cualquier solicitud del Banco y/o de sus aliados  relacionada con 
+presuntos casos de fraude, lavado de activos y financiación del terrorismo, corrupción y soborno, 
+para lo que deberá entregar toda la información soporte que sea requerida a criterio del Banco, 
+el Agregador y/o sus aliados.  
+Indemnizar al Banco por cualquier daño, multa o similar que se ocasione con la inobservancia 
+de los presentes Términos y Condiciones , especialmente, la desatención de las medidas de 
+seguridad y riesgo de lavado de activos y financiación del terrorismo, corrupción y soborno.  
+ 
+V. Uso de información:  
+Al ingresar y enviar información en los formularios, el usuario acepta y autoriza el envío de 
+datos personales, de manera expresa y voluntaria al Banco o a quien represente sus 
+derechos para que directamente o a través de terceros, el Banco, su casa matriz , las filiales, 
+subordinadas y/o asociadas del Banco, así como todo tipo de entidades con las que el Banco 
+tenga convenios o acuerdos, puedan en cualquier tiempo acceder, almacenar, suministrar, 
+reportar, procesar, divulgar, consultar, utilizar, compilar, tratar y compartir, sea de forma 
+verbal, escrita o a través de cualquier medio, información personal, de carácter comercial, 
+financiero, crediticio y de servicios aquí consignada, la cual se recauda con fines 
+comerciales, financieros, crediticios, operativos y de seguridad y con el fin de que se pueda 
+brindar en la debida forma y con la adecuada diligencia información sobre los productos 
+crediticios, financieros y comerciales del Banco,  
+El acceso, almacenamiento, suministro, reporte, procesamiento, divulgación, consulta, 
+utilización, cumplimiento y tratamiento de los datos personales del usuario se hace 
+conforme a la Ley de 1581 de 2012 y la Ley 1266 de 2008 y todas las demás disposiciones del 
+ordenamiento jurídico colombiano que la complementen, modifiquen o remplacen.  
+El Cliente autoriza el envío de información comercial, financiera y de productos y servicios 
+del Banco a su terminal móvil, correo electrónico, aplicaciones de mensajería para teléfono
+
+## Página 6
+
+Página 6 
+ 
+Versión 5.0 
+Fecha: 18/02/2025 
+ 
+ 
+inteligente (Smartphone en inglés) y/o cualquier otro mecanismo de contacto.  
+VI. Derechos de Autor y Propiedad Industrial 
+Los derechos de autor del Panel de Pasarela AvalPay y asociados pertenecen al Banco y/o 
+sus aliados salvo que se indique lo contrario y quede expreso por escrito.  
+El logo, las marcas y lemas comerciales del Banco y Pasarela AvalPay , y de sus aliados 
+comerciales que previamente autorizaron su uso en Pasarela AvalPay  se encuentran 
+registrados ante las autoridades competentes y se encuentran protegidos bajo las leyes de 
+propiedad industrial de la  
+República de Colombia. Así mismo, los textos, gráficas, software y en general el diseño y 
+configuración de Pasarela AvalPay son de propiedad del Banco y se encuentran legalmente 
+protegidos por el derecho de autor. En consecuencia , se encuentra prohibida la 
+reproducción o uso total y/o parcial de todos y cada uno de los elementos aquí 
+mencionados, por lo que cualquier uso que se les dé a los mismos por parte de los usuarios, 
+distinto a los fines de Pasarela AvalPay  está prohibido, y en consecuencia cualquier  
+conducta contraria a ello, podrá ser judicializada directamente por el Banco, debiendo si es 
+del caso los usuarios responder por los daños y perjuicios que con su actuar contrario a la 
+ley pueda ocasionar al Banco y/o algún tercero al respecto. 
+ 
+VII. Reglas de Seguridad del Servicio 
+Con la aceptación de los presentes Términos y Condiciones  el Cliente declara haber sido 
+informado de todas las medidas de seguridad requeridas para el uso de Pasarela AvalPay 
+(Numeral IV. Obligaciones del Cliente) . Asimismo, deberá acatar cualquier medida de 
+seguridad que le fuere informada por el Banco, el Agrega dor y/o cualquier otro aliado del 
+Banco.  
+El desconocimiento de las medidas de seguridad establecidas por el Banco para el uso de 
+Pasarela AvalPay, dará lugar a la terminación de(los) servicio(s) contratados por el Cliente, 
+sin lugar a indemnización alguna, bastando para ello la notificación que realice el Banco.  
+ 
+Acuerdo de Servicio y Responsabilidad del Banco 
+El Banco y sus aliados harán todo lo posible por mantener los Servicios de Pasarela AvalPay 
+disponibles 7 días a la semana las 24 horas (7x24). Sin embargo, el Cliente conoce y acepta 
+que el Servicio de Pasarela AvalPay puede estar sujeto a intermitencias o fallas tecnológicas 
+fuera del alcance del Banco y/o sus aliados.  
+Por lo anterior, el Banco no será responsable por daños , lucro cesante y pérdidas de 
+oportunidad asociados a la imposibilidad del uso de Pasarela AvalPay.  
+De igual manera, el Banco no será responsable por las ofertas comerciales que realice el 
+Cliente a sus usuarios, por lo que será completamente ajeno al Banco cualquier reclamación 
+realizada por usuarios y/o cualquier otro tercero a los Clientes por los servicios que ofrezcan 
+a través de Pasarela AvalPay.  
+En caso de que se evidencie y declare un daño por autoridad competente, el Cliente declara 
+conocer y aceptar que cualquier indemnización estará limitada al  10% del valor que por 
+comisiones de uso de Pasarela AvalPay haya pagado el Cliente al Banco en el año calendario 
+objeto de la reclamación.
+
+## Página 7
+
+Página 7 
+ 
+Versión 5.0 
+Fecha: 18/02/2025 
+ 
+ 
+En complemento de lo anterior, se pondrá a disposición del Cliente el documento que 
+contiene los A cuerdos de Nivel de Servicio Pasarela AvalPay  (ANS), documento que se 
+considera parte integral de los presentes TyC. Los ANS podrán ser modificados por el Banco, 
+en los términos del numeral XI Modificaciones, cada que se considere necesario. 
+ 
+VIII. Política de protección de datos de carácter personal 
+En complemento de las autorizaciones previamente entregadas por e l Cliente, este autoriza a 
+Banco de Occidente S.A ( responsable del tratamiento) a contactarlo por cualquier medio 
+disponible y en general el tratamiento de sus datos personales, incluido el nombre, apellido, 
+cédula, celular y dirección de correo electrónico. Los datos serán incorporados en l as bases de 
+datos del Banco para la prestación de los Servicio de Pasarela AvalPay y cualquier otro producto, 
+bien o servicio ofrecido por el Banco.  
+En cumplimiento de lo dispuesto en el artículo 12 de la Ley 1581 de 2012 y demás normas que lo 
+modifiquen, se informa al Cliente que, respecto a la información y demás datos personales  
+suministrados en desarrollo de l os Servicios de Pasarela AvalPay, que sus datos no podrán ser 
+utilizados para fines distintos de los establecidos en la política de tratamiento de datos 
+disponible en https://www.bancodeoccidente.com.co/wps/portal/banco-de-
+occidente/bancodeoccidente/footer/politicas/politica-de-tratamiento-de-datos-personales.  
+ 
+IX. Duración 
+Los servicios de Pasarela AvalPay  estarán vigente por un término indefinido, pero podrá  
+darse por terminado por el Banco en cualquier momento, cuando así lo considere, 
+otorgando previo aviso al Cliente de 8 días calendario. El Cliente en cualquier momento 
+podrá desistir del uso del Servicio, informando al Banco  de su decisión por medio de la 
+fuerza comercial o canales autorizados , para así desde el Banco realizar el respectivo 
+proceso de desvinculación al servicio de Pasarela AvalPay.  
+ 
+X. Modificaciones 
+El Cliente manifiesta que conoce y acepta íntegramente los presentes Términos y 
+Condiciones. Igualmente, acepta cualquier modificación o cancelación que el Banco haga 
+sobre los mismos , sin necesidad de aviso previo  y con la publicación de estos en 
+https://www.bancodeoccidente.com.co/banco-de-occidente/documentos/PDF/08-
+documentos-varios/2023/04-abril/tyc-portal-de-pagos-PasarelaAvalPay.pdf 
+ 
+XI. Terminación 
+El incumplimiento por parte del Cliente de cualquiera de las obligaciones aquí 
+mencionadas y/o en los contratos de producto y servicios, dará lugar a la terminación del 
+servicio de Pasarela AvalPay, quedando el Banco facultado para modificar el sistema y de 
+esta manera interrumpir la prestación del Servicio de manera unilateral.
+
+## Página 8
+
+Página 8 
+ 
+Versión 5.0 
+Fecha: 18/02/2025 
+ 
+ 
+Si el Cliente en algún momento decide modificar total o parcialmente medios de pago 
+indicando en Checklist de implementación Pasarela AvalPay para el procesamiento de los pagos 
+que reciba de sus usuarios y tomarlos con cualquier otra entidad financiera o no financiera, se 
+entenderá como causal automática para que el Banco de por terminado los servicios de Pasarela 
+AvalPay sin lugar a indemnización alguna en favor del Cliente. 
+ 
+XII. Cesión 
+El Cliente no podrá ceder el presente contrato que surge de estos  Términos y Condiciones 
+sin la previa autorización por escrito del Banco.  
+El Banco en cualquier momento podrá ceder el contrato que surge de estos Términos y 
+Condiciones con la notificación previa que realice al Cliente.  
+ 
+XIII. Ley Aplicable 
+Para todos los efectos derivados de los presentes términos y condiciones, se someten a las 
+leyes de la República de Colombia y cualquier controversia o reclamación, alcance o 
+cumplimiento estará sometido a la justicia colombiana. 
+ 
+XIV. Contacto 
+Línea telefónica: 6017432626 – 01 8000 51 5825 
+Correo electrónico: soportepagos@nexabpo.com 
+ 
+Horario de atención será lunes a viernes de 7:00 am a 10:00 pm, sábados, domingos y 
+festivos de 8.00 am a 12:00 pm y 1:00 pm a 5:00 pm 
+ 
+En señal de conocimiento y aceptación expresa de lo indicado previamente, se firma en       a 
+los      /      /      por el Cliente        con NIT       a través de su representante legal, 
+apoderado o persona facultada: 
+ 
+ 
+______________________________________ 
+Firma representante legal del Cliente

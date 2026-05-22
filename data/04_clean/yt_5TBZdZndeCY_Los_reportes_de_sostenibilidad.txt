@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=5TBZdZndeCY
+# Los reportes de sostenibilidad
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=5TBZdZndeCY  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+No te pierdas la entrevista a Yaneth Romero- socia de auditoria Crowe Co
+## Transcripción
+_Video sin subtítulos disponibles en español._

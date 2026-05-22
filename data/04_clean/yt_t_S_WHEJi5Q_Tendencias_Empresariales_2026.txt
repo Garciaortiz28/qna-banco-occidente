@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=t_S_WHEJi5Q
+# Tendencias Empresariales 2026
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=t_S_WHEJi5Q  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Jorge Rincon - Diana Paola Dorado Strategic Business
+## Transcripción
+_Video sin subtítulos disponibles en español._

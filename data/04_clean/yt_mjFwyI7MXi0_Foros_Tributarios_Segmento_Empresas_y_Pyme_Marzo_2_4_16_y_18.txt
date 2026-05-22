@@ -1,0 +1,7 @@
+URL: https://www.youtube.com/watch?v=mjFwyI7MXi0
+# Foros Tributarios Segmento Empresas y Pyme Marzo 2, 4, 16 y 18
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=mjFwyI7MXi0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Transcripción
+_Video sin subtítulos disponibles en español._

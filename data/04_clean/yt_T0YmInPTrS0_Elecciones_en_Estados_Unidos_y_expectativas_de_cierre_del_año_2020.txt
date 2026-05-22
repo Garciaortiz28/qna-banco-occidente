@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=T0YmInPTrS0
+# Elecciones en Estados Unidos y expectativas de cierre del año 2020
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=T0YmInPTrS0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce las expectativas de cierre del año 2020 y los siguientes temas relevantes: Impacto de las elecciones en Estados Unidos, Recuperación o re confinamiento, Panorama mundial, Impacto segunda ola de contagios, y Expectativas cierre en Colombia (Evolución del dólar, PIB, Inflación y Tasa Banco República).
+## Transcripción
+_Video sin subtítulos disponibles en español._

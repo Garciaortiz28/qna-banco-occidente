@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=P5HLwl_DoFw
+# El Neuromarketing y la conducta inconsciente.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=P5HLwl_DoFw  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a Oscar Valbuena sobre el Neuromarketing y recomendaciones para que las empresas lo implementen para incrementar las ventas.
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,7 @@
+URL: https://www.youtube.com/watch?v=FVIjtVyZA0c
+# Mensaje del presidente - Informe de gestión y sostenibilidad 2024
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=FVIjtVyZA0c  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Transcripción
+_Video sin subtítulos disponibles en español._

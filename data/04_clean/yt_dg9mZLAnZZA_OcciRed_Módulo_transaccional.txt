@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=dg9mZLAnZZA
+# OcciRed – Módulo transaccional
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=dg9mZLAnZZA  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En este foro conocerás cómo realizar transacciones ágiles, fáciles y seguras para tu empresa desde cualquier lugar: pagos a terceros, transacciones uno a uno, transferencias internas y AVAL, pago de obligaciones y un nuevo producto del banco llamado Host to host.
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=Ezj2aZPBevo
+
+# AvalPay Center para Recaudadores
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Ezj2aZPBevo  
+**Publicado:** 24/02/2021  
+**Duración:** 2:12  
+**Vistas:** 8,936  |  **Likes:** 4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+En el Banco de Occidente estamos con nuestros clientes donde estén, por eso hemos creado AvalPay Center, un servicio de recaudo a través de internet que permite a las empresas recibir pagos desde cualquier entidad financiera.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

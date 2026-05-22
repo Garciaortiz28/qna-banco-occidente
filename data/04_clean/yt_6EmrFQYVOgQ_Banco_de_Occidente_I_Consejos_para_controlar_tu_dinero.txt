@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=6EmrFQYVOgQ
+# Banco de Occidente I Consejos para controlar tu dinero
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=6EmrFQYVOgQ  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Porque Creemos en la educación financiera, queremos compartirte algunos consejos para controlar tu dinero. Te invitamos a conocer más acerca de temas de educación financiera, ingresando a: https://goo.gl/eKwM3X
+## Transcripción
+_Video sin subtítulos disponibles en español._

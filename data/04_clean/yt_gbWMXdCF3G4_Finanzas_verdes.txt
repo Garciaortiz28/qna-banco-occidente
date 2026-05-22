@@ -1,0 +1,7 @@
+# Finanzas verdes
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a: Diana Vega – Experta y Magister en finanzas
+## Transcripción
+_Video sin subtítulos disponibles en español._

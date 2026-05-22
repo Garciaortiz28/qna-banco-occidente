@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=-4Q-FgsDlvM
+
+# OcciRed | Configuración de Autorizaciones
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=-4Q-FgsDlvM  
+**Publicado:** 16/09/2021  
+**Duración:** 4:04  
+**Vistas:** 1,685  |  **Likes:** 7  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Te presentamos el servicio Configuración de Autorizaciones, el cual te permitirá Administrar los servicios que requieren doble autorización y los usuarios que deben tener el perfil de usuario autorizador.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=nNfuNTcbrME
+# Cumplimiento normativo de emprendimientos colombianos
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=nNfuNTcbrME  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+No te pierdas la entrevista a Daniel Bernal, socio director de Moore Colombia
+## Transcripción
+_Video sin subtítulos disponibles en español._

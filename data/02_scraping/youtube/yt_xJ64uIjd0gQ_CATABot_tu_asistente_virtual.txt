@@ -1,0 +1,19 @@
+URL: https://www.youtube.com/watch?v=xJ64uIjd0gQ
+
+# CATABot, tu asistente virtual
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=xJ64uIjd0gQ  
+**Publicado:** 17/02/2021  
+**Duración:** 0:10  
+**Vistas:** 52,814  |  **Likes:** 3  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Que nada te trasnoche, con CATABot tienes soluciones en tus manos las 24 horas, los 7 días de la semana. Conócela: https://cutt.ly/Tk4TAQ1.
+Estamos del lado de la tecnología.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

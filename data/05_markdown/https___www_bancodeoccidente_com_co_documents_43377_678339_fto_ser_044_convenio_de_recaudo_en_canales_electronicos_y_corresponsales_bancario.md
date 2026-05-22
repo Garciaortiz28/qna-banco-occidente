@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/43377/678339/fto-ser-044-convenio-de-recaudo-en-canales-electronicos-y-corresponsales-bancarios-v8-24spt+%283%29.docx/39a31d3b-dda5-ca47-8551-0db1b0f1af02?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/43377/678339/fto-ser-044-convenio-de-recaudo-en-canales-electronicos-y-corresponsales-bancarios-v8-24spt+%283%29.docx/39a31d3b-dda5-ca47-8551-0db1b0f1af02?download=true

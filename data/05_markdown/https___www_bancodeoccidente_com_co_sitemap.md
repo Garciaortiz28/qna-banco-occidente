@@ -1,0 +1,18 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/sitemap -->
+URL: https://www.bancodeoccidente.com.co/sitemap
+- Educación Financiera
+- Nuestras Tarjetas Más solicitadas
+- Productos de Inversión
+- Licitación Banca Seguros
+- Bienes para la venta
+- Colombianos en el Exterior
+- Seguro de Accidentes integral
+- Portafolios Integrales
+- Cuenta Activa Básica
+- Protección Fuerzas Armadas
+- Pensionados Protegidos
+- Consulta de beneficios TC comerciales
+- Home Trabaja con Nosotros
+- Formulario Autorización
+- Proyectos de Vivienda
+- Portafolios de Inversión

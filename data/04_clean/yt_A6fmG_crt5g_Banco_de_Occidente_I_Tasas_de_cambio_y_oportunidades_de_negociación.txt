@@ -1,0 +1,7 @@
+URL: https://www.youtube.com/watch?v=A6fmG_crt5g
+# Banco de Occidente I Tasas de cambio y oportunidades de negociación
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=A6fmG_crt5g  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Transcripción
+_Video sin subtítulos disponibles en español._

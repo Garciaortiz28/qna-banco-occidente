@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=tXJ5rCP-baA
+# Tarjetas | Creer es vivir juntos la navidad | Banco de Occidente
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=tXJ5rCP-baA  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Anímate hacer  tus propias tarjetas para marcar los regalos.
+## Transcripción
+_Video sin subtítulos disponibles en español._

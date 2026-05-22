@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=y8vijJrfTEo
+# Foro Retos Tributarios 2026
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=y8vijJrfTEo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Te invitamos a participar de nuestro foro, un espacio en el que aprenderás con el experto Tulio Restrepo sobre las estrategias ante las nuevas realidades fiscales en Colombia.
+## Transcripción
+_Video sin subtítulos disponibles en español._

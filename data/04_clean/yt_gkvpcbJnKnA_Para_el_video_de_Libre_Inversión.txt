@@ -1,0 +1,7 @@
+# Para el video de Libre Inversión
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Con el Crédito de Libre Inversión de Banco de Occidente estás más cerca de tus sueños. ¡No esperes más! 🙌
+## Transcripción
+_Video sin subtítulos disponibles en español._

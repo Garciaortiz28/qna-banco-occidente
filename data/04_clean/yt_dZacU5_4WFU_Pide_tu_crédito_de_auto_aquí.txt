@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=dZacU5_4WFU
+# Pide tu crédito de auto aquí
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=dZacU5_4WFU  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+El auto de tus sueños está más cerca de lo que crees, fináncialo con nuestro Crédito de Vehículo Occiauto®
+## Transcripción
+_Video sin subtítulos disponibles en español._

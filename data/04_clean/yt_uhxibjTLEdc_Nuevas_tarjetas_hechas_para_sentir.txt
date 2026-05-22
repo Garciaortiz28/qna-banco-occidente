@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=uhxibjTLEdc
+# Nuevas tarjetas hechas para sentir
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=uhxibjTLEdc  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce las nuevas tarjetas del Banco de Occidente que pueden ser identificadas al tacto. 👐 Solicítala ingresando aquí  ➡ https://bit.ly/TouchCardBDO_
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=blohXhdfn3I
+# Informe de Sostenibilidad 2022, compromiso corporativo
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=blohXhdfn3I  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Estos son algunos logros alcanzados en nuestra organización durante el año pasado, seguimos trabajando del lado de los que hacen para transformar el país.
+## Transcripción
+_Video sin subtítulos disponibles en español._

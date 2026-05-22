@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=27ECFwyJJNE
+# Inscripción y Mantenimiento de Beneficiarios de Transferencias - Banco Occidente Panamá
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=27ECFwyJJNE  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce cómo inscribir y manejar beneficiarios para tus transferencias desde Banco Occidente Panamá. ⬆️
+## Transcripción
+_Video sin subtítulos disponibles en español._

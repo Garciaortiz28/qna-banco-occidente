@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=j_tPeDpaN2M
+# La alternativa del Dropshipping
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=j_tPeDpaN2M  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En esta entrevista con Samuel Valderrama, CEO de Flipcat podemos comprender más sobre la modalidad de venta del Dropshipping y las oportunidades de ingresos que puede generar en nuestras empresas.
+## Transcripción
+_Video sin subtítulos disponibles en español._

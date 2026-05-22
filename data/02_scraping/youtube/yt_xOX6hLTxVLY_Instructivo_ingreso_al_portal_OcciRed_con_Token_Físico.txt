@@ -1,0 +1,24 @@
+URL: https://www.youtube.com/watch?v=xOX6hLTxVLY
+
+# Instructivo ingreso al portal OcciRed con Token Físico
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=xOX6hLTxVLY  
+**Publicado:** 24/09/2025  
+**Duración:** 0:45  
+**Vistas:** 195  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+🔒 Importante: Nuevo flujo de ingreso para usuarios con token físico
+Con el objetivo de optimizar la experiencia y reforzar la seguridad en el acceso al portal, a partir de la fecha el orden de autenticación será:
+1️⃣ Usuario
+2️⃣ Clave
+3️⃣ Token físico
+Este ajuste aplica únicamente para usuarios que utilizan token físico.
+En el siguiente video encontrará el instructivo paso a paso para realizar su ingreso de manera correcta.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

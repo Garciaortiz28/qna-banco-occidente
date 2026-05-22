@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=4Yjz5vTqVJo
+
+# OcciRed / Transacciones Masivas
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=4Yjz5vTqVJo  
+**Publicado:** 12/07/2021  
+**Duración:** 2:40  
+**Vistas:** 3,100  |  **Likes:** 11  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Te presentamos el nuevo servicio de Transacciones Masivas que será el reemplazo del servicio de Carga de Archivos, el cual te permitirá gestionar tus archivos de forma más ágil y sencilla, en un módulo totalmente renovado.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

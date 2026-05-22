@@ -1,0 +1,7 @@
+# ¡Una noche para los que hacen, 60 años del Banco de Occidente!
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Acompañanos a celebrar a quienes iluminan el futuro del Valle, de Cali y del País. Te invitamos a disfrutar de una noche para los que hacen y celebrar nuestros 60 años del Banco de Occidente
+## Transcripción
+_Video sin subtítulos disponibles en español._

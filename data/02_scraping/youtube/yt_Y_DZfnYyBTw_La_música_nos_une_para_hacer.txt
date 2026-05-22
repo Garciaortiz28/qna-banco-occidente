@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=Y_DZfnYyBTw
+
+# La música nos une para hacer
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Y_DZfnYyBTw  
+**Publicado:** 20/06/2023  
+**Duración:** 0:43  
+**Vistas:** 924  |  **Likes:** 12  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+La música tiene el poder de conectarnos en niveles profundos, llevándonos a través de una montaña rusa de emociones que nos inspiran a seguir adelante. 🎶 Descubre cómo la música nos une y nos transporta a un mundo lleno de sensaciones y sentimientos únicos. 🎵
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,135 @@
+{
+  "informacion_corporativa": {
+    "razon_social": "Banco de Occidente S.A.",
+    "nit": "890.300.279-4",
+    "fundacion": "1965",
+    "tipo_entidad": "Establecimiento bancario",
+    "vigilada_por": "Superintendencia Financiera de Colombia",
+    "asegurada_por": "Fogafín",
+    "grupo_economico": "Grupo Aval Acciones y Valores S.A.",
+    "sede_principal": "Cali, Valle del Cauca, Colombia",
+    "direccion_sede_principal": "Carrera 4 # 7-61, Cali",
+    "sitio_web": "https://www.bancodeoccidente.com.co"
+  },
+
+  "lineas_atencion": {
+    "linea_nacional_gratuita": "01 8000 514 652",
+    "cali": "(602) 485 8000",
+    "bogota": "(601) 405 9090",
+    "medellin": "(604) 604 8888",
+    "barranquilla": "(605) 386 7000",
+    "linea_perdida_robo": "01 8000 514 652",
+    "linea_fraude": "01 8000 514 652",
+    "linea_empresarial": "01 8000 514 652",
+    "defensor_consumidor_financiero": "(602) 485 8000 ext. 80502"
+  },
+
+  "horarios_atencion": {
+    "sucursales_lunes_viernes": "08:00 a 16:00",
+    "sucursales_sabado": "09:00 a 13:00",
+    "sucursales_domingo": "Cerrado",
+    "sucursales_centros_comerciales_lun_sab": "10:00 a 19:00",
+    "sucursales_centros_comerciales_dom_fest": "11:00 a 17:00",
+    "atencion_telefonica": "24 horas, todos los días",
+    "chat_app_movil": "24 horas, todos los días",
+    "horario_extendido_disponible": true,
+    "festivos": "Cerrado en festivos nacionales"
+  },
+
+  "canales_digitales": {
+    "portal_web_personas": "https://www.bancodeoccidente.com.co",
+    "portal_transaccional_personas": "https://www.avaldigitallabs.com",
+    "portal_transaccional_empresas": "https://empresas.bancodeoccidente.com.co",
+    "app_movil_android": "Banco de Occidente · Google Play",
+    "app_movil_ios": "Banco de Occidente · App Store",
+    "ayuda_canales_digitales": "https://www.bancodeoccidente.com.co/canales-digitales"
+  },
+
+  "redes_sociales": {
+    "facebook": "https://www.facebook.com/BancodeOccidente",
+    "instagram": "https://www.instagram.com/bancodeoccidente",
+    "twitter_x": "https://x.com/BcoOccidente",
+    "youtube": "https://www.youtube.com/@BancodeOccidenteCol",
+    "linkedin": "https://www.linkedin.com/company/banco-de-occidente",
+    "tiktok": "https://www.tiktok.com/@bancodeoccidente"
+  },
+
+  "sucursales_principales": [
+    {
+      "ciudad": "Cali",
+      "tipo": "Oficina Principal",
+      "direccion": "Carrera 4 # 7-61",
+      "telefono": "(602) 485 8000"
+    },
+    {
+      "ciudad": "Cali",
+      "tipo": "Sucursal Norte",
+      "direccion": "Avenida Sexta Norte # 23N-46",
+      "telefono": "(602) 485 8000"
+    },
+    {
+      "ciudad": "Cali",
+      "tipo": "Sucursal Chipichape",
+      "direccion": "Centro Comercial Chipichape",
+      "telefono": "(602) 485 8000"
+    },
+    {
+      "ciudad": "Bogotá",
+      "tipo": "Sucursal Centro Internacional",
+      "direccion": "Carrera 13 # 26-45",
+      "telefono": "(601) 405 9090"
+    },
+    {
+      "ciudad": "Bogotá",
+      "tipo": "Sucursal Chicó",
+      "direccion": "Calle 93 # 11-27",
+      "telefono": "(601) 405 9090"
+    },
+    {
+      "ciudad": "Medellín",
+      "tipo": "Sucursal El Poblado",
+      "direccion": "Carrera 43A # 11-50",
+      "telefono": "(604) 604 8888"
+    },
+    {
+      "ciudad": "Medellín",
+      "tipo": "Sucursal Centro",
+      "direccion": "Avenida La Playa # 49-45",
+      "telefono": "(604) 604 8888"
+    },
+    {
+      "ciudad": "Barranquilla",
+      "tipo": "Sucursal Principal",
+      "direccion": "Carrera 53 # 76-167",
+      "telefono": "(605) 386 7000"
+    },
+    {
+      "ciudad": "Cartagena",
+      "tipo": "Sucursal Bocagrande",
+      "direccion": "Avenida San Martín # 8-145",
+      "telefono": "(605) 386 7000"
+    },
+    {
+      "ciudad": "Bucaramanga",
+      "tipo": "Sucursal Cabecera",
+      "direccion": "Calle 48 # 28-85",
+      "telefono": "(607) 691 5000"
+    }
+  ],
+
+  "preguntas_frecuentes_directas": {
+    "como_bloquear_tarjeta": "Llama a la línea nacional 01 8000 514 652 disponible 24 horas, o desde la app móvil en la sección 'Mis tarjetas'.",
+    "como_recuperar_clave": "Desde la app móvil: opción 'Olvidé mi clave'. Desde el portal web: enlace 'Restablecer clave'. También puedes acercarte a una sucursal con tu cédula.",
+    "donde_consultar_saldo": "Puedes consultar tu saldo desde la app móvil, el portal transaccional, los cajeros automáticos del banco, o llamando a la línea nacional 01 8000 514 652.",
+    "que_es_token_movil": "Es un dispositivo de seguridad virtual incorporado en la app móvil que genera códigos únicos para autorizar tus transacciones digitales.",
+    "como_activar_tarjeta_nueva": "Llama a la línea nacional 01 8000 514 652 desde el teléfono registrado, o realiza una transacción en cualquier cajero del banco con tu PIN."
+  },
+
+  "datos_normativos": {
+    "vigilancia": "Superintendencia Financiera de Colombia",
+    "depositos_asegurados_por": "Fondo de Garantías de Instituciones Financieras (Fogafín)",
+    "monto_asegurado_fogafin": "Hasta 50 millones de pesos por persona y por entidad",
+    "habeas_data": "Tratamiento de datos personales según Ley 1581 de 2012",
+    "defensor_consumidor_financiero": "Atiende reclamaciones que no fueron resueltas por el banco"
+  }
+}

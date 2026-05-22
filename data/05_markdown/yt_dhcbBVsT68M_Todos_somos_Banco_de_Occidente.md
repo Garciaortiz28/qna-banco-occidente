@@ -1,0 +1,2 @@
+# Todos somos Banco de Occidente
+Cada año el hacer nos mantiene unidos, porque todos hacemos parte de estos 59 años de transformación, crecimiento y desarrollo. 🙌¡Gracias por celebrar con nosotros esta fecha tan importante! 💙

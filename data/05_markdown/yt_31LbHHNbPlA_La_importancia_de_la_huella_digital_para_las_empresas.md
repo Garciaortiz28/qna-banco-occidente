@@ -1,0 +1,2 @@
+# La importancia de la huella digital para las empresas
+Karen Lorena Piñeros, directora de Operaciones y Fundadora de Black Comunicaciones Estratégicas, nos cuenta en esta entrevista sobre la importancia que tiene la huella digital en el mundo empresarial. 💻

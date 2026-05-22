@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=gDnLeCf7N64
+# Que le dirías.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=gDnLeCf7N64  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Que le dirian los colaboradores el banco a todos aquellos que quieren hacer parte del banco, concejos sobre ideas y retos.
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,16 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/occiauto/autogestionado -->
+URL: https://www.bancodeoccidente.com.co/occiauto/autogestionado
+# Pide tu crédito de vehículo Occiauto | Banco de Occidente
+# Comprar tu carro nunca fue tan fácil
+## En nuestro simulador de crédito, puedes calcular las opciones para comprar tu vehículo según el plan que más te convenga
+Gestiona tu crédito de forma completamente virtual.
+Obten hasta el 100% de la financiación.
+En la financiación de tu crédito de vehículo.
+### Servicio de postventa
+Te ofrecemos un acompañamiento completo en todo el ciclo del crédito.
+### ¿Te interesa comprar la
+cartera de tu vehículo?
+- Te compramos desde $50,000,000
+- Con tasa de interes competitivas
+## Solicita ya tu crédito de vehículo
+© Todos los Derechos Reservados. www.bancodeoccidente.com.co 21.0.1

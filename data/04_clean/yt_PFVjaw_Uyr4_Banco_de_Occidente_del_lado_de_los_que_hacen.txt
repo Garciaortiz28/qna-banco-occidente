@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=PFVjaw_Uyr4
+# Banco de Occidente, del lado de los que hacen
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=PFVjaw_Uyr4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Creer ha sido parte de nuestra historia, en este camino hemos creído en ti y en tus sueños, hoy juntos los transformamos en realidad. ✨ #DelLadoDeLosQueHacen
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,7 @@
+# Gracias papá por ser nuestro mayor ejemplo del hacer.
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Hoy honramos a todos los padres que nos acompañan en cada paso día a día. #FelizDíaPapá
+## Transcripción
+_Video sin subtítulos disponibles en español._

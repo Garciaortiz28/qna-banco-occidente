@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=-xipU8cHnLI
+# Extractos y Certificados en Banco Occidente Panamá
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=-xipU8cHnLI  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce cómo descargar los extractos de tus cuentas y generar certificados sin costo. 🙌
+## Transcripción
+_Video sin subtítulos disponibles en español._

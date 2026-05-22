@@ -1,0 +1,5 @@
+<!-- fuente: https://www.youtube.com/watch?v=R22ialmxeGk -->
+URL: https://www.youtube.com/watch?v=R22ialmxeGk
+# Foro expectativas 2022 - Alberto Bernal y Occieconómicas
+**URL:** https://www.youtube.com/watch?v=R22ialmxeGk
+Evalúa con los Maestros del Hacer los principales retos de la economía local e internacional. ¿Qué esperar en términos de crecimiento, inflación y política monetaria a la luz del 2022? Expertos invitados: Alberto Beltrán León y Luis Fernando Insignares.

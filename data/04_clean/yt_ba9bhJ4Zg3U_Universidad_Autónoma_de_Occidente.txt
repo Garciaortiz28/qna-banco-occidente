@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=ba9bhJ4Zg3U
+# Universidad Autónoma de Occidente
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=ba9bhJ4Zg3U  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Primer puesto categoría general 2018-2019 / Proyecto de campus sostenible para hacer uso racional de la energía y el agua.
+## Transcripción
+_Video sin subtítulos disponibles en español._

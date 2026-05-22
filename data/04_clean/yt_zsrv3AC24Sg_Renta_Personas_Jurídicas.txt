@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=zsrv3AC24Sg
+# Renta Personas Jurídicas
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=zsrv3AC24Sg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a: Katherin Diaz – Socia Plannig Tax
+## Transcripción
+_Video sin subtítulos disponibles en español._

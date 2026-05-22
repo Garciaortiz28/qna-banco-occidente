@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=oxhzfZI28fI
+# El poder de los datos para tomar decisiones inteligentes de negocios.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=oxhzfZI28fI  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a Nasser de la Pava Roys. Estas son algunas ventajas de la gestión y analítica de datos para que las empresas tomen decisiones financieras inteligentes. 📈
+## Transcripción
+_Video sin subtítulos disponibles en español._

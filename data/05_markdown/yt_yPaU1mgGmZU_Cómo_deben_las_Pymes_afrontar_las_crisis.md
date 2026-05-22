@@ -1,0 +1,5 @@
+<!-- fuente: https://www.youtube.com/watch?v=yPaU1mgGmZU -->
+URL: https://www.youtube.com/watch?v=yPaU1mgGmZU
+# ¿Cómo deben las Pymes afrontar las crisis?
+**URL:** https://www.youtube.com/watch?v=yPaU1mgGmZU
+Entrevista a Ana Duarte, experta en reputación, crisis y coyunturas mediáticas. Todo líder empresarial debe ser consciente de que una crisis puede generarse en cualquier instante, por lo que debe estar altamente preparado para enfrentarla de manera exitosa y que la reputación de la marca o empresa no se vea afectada.

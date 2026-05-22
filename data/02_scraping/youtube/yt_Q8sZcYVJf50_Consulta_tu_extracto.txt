@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=Q8sZcYVJf50
+
+# Consulta tu extracto
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Q8sZcYVJf50  
+**Publicado:** 18/07/2025  
+**Duración:** 0:49  
+**Vistas:** 435  |  **Likes:** 4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

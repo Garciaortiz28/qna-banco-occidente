@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=jFGVJlSAEqQ
+# Precauciones para Pymes ante ataques cibernéticos
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=jFGVJlSAEqQ  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a Daniela Álvarez de Lugo, gerente general de Kaspersky para Latam. Conoce la importancia que tienen los antivirus en la protección de tu empresa. Las pymes reciben mucho rasonmware, es decir, secuestran los datos. Conoce estos consejos que traemos para ti.
+## Transcripción
+_Video sin subtítulos disponibles en español._

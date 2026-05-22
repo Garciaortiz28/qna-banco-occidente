@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=2BBm6lPXBQM
+# Actualiza tus datos personales en nuestro Portal Transaccional
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=2BBm6lPXBQM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Aprende paso a paso cómo hacerlo de forma rápida y segura, garantizando que tu información esté siempre actualizada. 
+Estamos #ContigoDondeEstés.
+## Transcripción
+_Video sin subtítulos disponibles en español._

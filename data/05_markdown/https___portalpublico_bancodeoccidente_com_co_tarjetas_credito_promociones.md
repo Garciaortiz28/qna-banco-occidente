@@ -1,0 +1,25 @@
+<!-- fuente: https://portalpublico.bancodeoccidente.com.co/tarjetas-credito/promociones -->
+URL: https://portalpublico.bancodeoccidente.com.co/tarjetas-credito/promociones
+# Promociones con Tarjetas de Crédito Banco de Occidente
+# Encuentra las mejores alianzas y promociones con Tarjeta Crédito o Débito
+## Para disfrutar en viajes y paquetes turísticos
+## Busca la sección marcada “Sin intereses”
+### 20% de descuento todos los jueves*
+### 0% en tasa de interés
+### Envío gratis en alimentos
+### Viernes de mercado: desde 20% OFF
+## ¿Qué es Tuplús y cómo se usa?
+Vive Tuplús es un programa de lealtad en el cual puedes acumular puntos por tus compras
+## Solicita tu Tarjeta de Crédito hoy y disfruta beneficios exclusivos.
+#### Solicita tu Tarjeta de Crédito
+y disfruta de todos los beneficios exclusivos.
+#### Solicita tu Cuenta de Ahorros
+y haz crecer tu dinero.
+### Dinero para lo que quieras, sin explicaciones
+Obtén tu crédito y haz realidad tus planes con plazos flexibles.
+### Ahorra con rentabilidad y sin complicaciones
+Protege tu dinero, hazlo crecer y úsalo cuando lo necesites.
+### Tu tarjeta, tu mundo de posibilidades
+Compra lo que necesitas y accede a promociones exclusivas.
+### Tu carro nuevo te espera, ¡maneja tu futuro!
+Financia tu próximo vehículo con cuotas cómodas y excelentes tasas.

@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/43377/0/Cesion+Irrevocable+de+Transferencia+de+Activos_Leasing.docx/1e6f55b2-28c1-602a-10b2-adb155a7d266?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/43377/0/Cesion+Irrevocable+de+Transferencia+de+Activos_Leasing.docx/1e6f55b2-28c1-602a-10b2-adb155a7d266?download=true

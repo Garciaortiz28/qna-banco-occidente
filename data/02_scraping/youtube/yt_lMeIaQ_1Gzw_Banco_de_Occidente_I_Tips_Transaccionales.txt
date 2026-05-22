@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=lMeIaQ_1Gzw
+
+# Banco de Occidente I Tips Transaccionales
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=lMeIaQ_1Gzw  
+**Publicado:** 08/11/2017  
+**Duración:** 1:01  
+**Vistas:** 388  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

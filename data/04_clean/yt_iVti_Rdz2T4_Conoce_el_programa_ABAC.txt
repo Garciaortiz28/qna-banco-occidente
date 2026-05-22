@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=iVti_Rdz2T4
+# Conoce el programa ABAC
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=iVti_Rdz2T4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+El programa Antisoborno y Anticorrupción diseñado por el Banco de Occidente, en donde queremos brindarte todas las herramientas y conocimientos necesarios para evitar estos actos delictivos. #CeroToleranciaALaCorrupción
+## Transcripción
+_Video sin subtítulos disponibles en español._

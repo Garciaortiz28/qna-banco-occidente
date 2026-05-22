@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/43377/288306/vinculacion-empresa-transportadora-leasing-transporte.docx/0e02dbae-fff4-e2d3-0835-fbeaf686ed0a?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/43377/288306/vinculacion-empresa-transportadora-leasing-transporte.docx/0e02dbae-fff4-e2d3-0835-fbeaf686ed0a?download=true

@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=qeYxgvLAAlE
+
+# Segmento Élite
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=qeYxgvLAAlE  
+**Publicado:** 12/06/2024  
+**Duración:** 0:42  
+**Vistas:** 1,320  |  **Likes:** 7  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conoce nuestro segmento Élite, donde encontrarás los mejores beneficios como: atención personalizada, exclusividad en los requerimientos, las mejores tasas para tus productos, entre otros. Conoce y empieza a disfrutar de una experiencia única con nosotros.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

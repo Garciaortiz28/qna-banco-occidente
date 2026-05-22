@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Ghv13EOihDQ
+# ¿Cuáles son las bases para una gestión de proyectos exitosa?
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Ghv13EOihDQ  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En esta entrevista con Mauricio Benavides, Director General de Tutormente hablamos sobre cómo las empresas deben plantearse la gestión de proyectos y sus indicadores. 📈 Comparte este contenido con tu equipo de trabajo para seguir haciendo más. 📩
+## Transcripción
+_Video sin subtítulos disponibles en español._

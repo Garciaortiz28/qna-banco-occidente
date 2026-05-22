@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=UrgsymdXz-4
+
+# La importancia de tener buenos computadores en las empresas
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=UrgsymdXz-4  
+**Publicado:** 21/06/2023  
+**Duración:** 7:36  
+**Vistas:** 130  |  **Likes:** 3  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+¿Es importante la tecnología para alcanzar mejores resultados? 💻Descúbrelo en esta entrevista junto a Matías Berardi, Sales Account Manager de AMD. 👨‍💻👩‍💻
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=283kAQuUXZo
+# Pago Facturas
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=283kAQuUXZo  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce cómo pagar tus facturas en los Corresponsales Bancarios del Banco de Occidente
+## Transcripción
+_Video sin subtítulos disponibles en español._

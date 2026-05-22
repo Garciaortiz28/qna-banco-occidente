@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=Kc2aLIwrAl4
+# Crédito Occiauto
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Kc2aLIwrAl4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Con un “me gustaría” no se escucha rugir un motor. Solicita tu Crédito 
+de Occiauto en 5 minutos y sin papeles.
+## Transcripción
+_Video sin subtítulos disponibles en español._

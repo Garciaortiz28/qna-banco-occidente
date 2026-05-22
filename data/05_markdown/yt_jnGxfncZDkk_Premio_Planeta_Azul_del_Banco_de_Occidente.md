@@ -1,0 +1,2 @@
+# Premio Planeta Azul del Banco de Occidente
+Desde el año 1993 en el Banco hemos estado trabajando por cuidar el agua como principio de vida y es así como nace el Premio Nacional de Ecología Planeta Azul Banco de Occidente, premio en el que hemos incentivado mas de 3000 proyectos participantes.

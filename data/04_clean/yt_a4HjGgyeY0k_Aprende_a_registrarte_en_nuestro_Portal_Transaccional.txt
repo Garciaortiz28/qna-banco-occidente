@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=a4HjGgyeY0k
+# Aprende a registrarte en nuestro Portal Transaccional
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=a4HjGgyeY0k  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce el paso a paso para registrarte en nuestro portal transaccional.
+## Transcripción
+_Video sin subtítulos disponibles en español._

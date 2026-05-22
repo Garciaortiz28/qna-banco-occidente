@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=cesEkAFm4dc
+
+# Programación masiva de pagos de servicios públicos y privados.
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=cesEkAFm4dc  
+**Publicado:** 15/04/2021  
+**Duración:** 1:42  
+**Vistas:** 400  |  **Likes:** 1  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Tutorial para la cargar archivo con la información de los servicios públicos y domiciliarlos para el pago automático mensual.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

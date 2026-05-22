@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=JUnSX71R0yg
+
+# Aprende cómo ingresar a nuestro Portal Transaccional
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=JUnSX71R0yg  
+**Publicado:** 05/09/2024  
+**Duración:** 0:50  
+**Vistas:** 738  |  **Likes:** 1  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

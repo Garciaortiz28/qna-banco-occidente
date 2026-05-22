@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=MHe6Pr_gCkM
+# Aprende a descargar tus certificados y constancias de productos.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=MHe6Pr_gCkM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce el paso a paso para descargar certificados y constancias de tus productos.
+## Transcripción
+_Video sin subtítulos disponibles en español._

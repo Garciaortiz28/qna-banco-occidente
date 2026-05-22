@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=vcCEM0vdEEw
+# Un Crédito que se adapta a ti
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=vcCEM0vdEEw  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Solicita tu Crédito de Libre Inversión de forma digital y úsalo en lo que necesites.
+## Transcripción
+_Video sin subtítulos disponibles en español._

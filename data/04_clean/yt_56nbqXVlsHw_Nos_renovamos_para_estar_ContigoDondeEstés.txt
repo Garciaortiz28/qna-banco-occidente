@@ -1,0 +1,7 @@
+# Nos renovamos para estar #ContigoDondeEstés
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Prueba estas y todas sus funcionalidades. Conéctate: https://cutt.ly/UnCV3IN.
+## Transcripción
+_Video sin subtítulos disponibles en español._

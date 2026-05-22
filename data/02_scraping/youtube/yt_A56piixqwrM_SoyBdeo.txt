@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=A56piixqwrM
+
+# SoyBdeo
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=A56piixqwrM  
+**Publicado:** 31/07/2025  
+**Duración:** 1:28  
+**Vistas:** 418  |  **Likes:** 5  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Marca Empleadora que estará en los distintos portales de empleo.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

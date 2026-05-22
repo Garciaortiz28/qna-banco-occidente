@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=cUToZoz3bbM
+# La Conectividad y el Cloud para la continuidad de negocio
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=cUToZoz3bbM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Jairo Guzmán, Director de Mercadeo de InterNexa, nos cuenta sobre las ventajas de la conectividad y el cloud para las empresas.
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=20cW8wI6aNQ
+
+# 5 Lecciones PYME | OMNICON
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=20cW8wI6aNQ  
+**Publicado:** 29/10/2020  
+**Duración:** 1:37:01  
+**Vistas:** 229  |  **Likes:** 4  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=BKTeb6BCgCU
+# La incursión de las empresas en el Metaverso
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=BKTeb6BCgCU  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevistamos a José Luis Gordillo, director creativo de 3DVinci Studios, en donde hablamos sobre los avances del metaverso y los beneficios que tiene en las empresas. 💻
+## Transcripción
+_Video sin subtítulos disponibles en español._

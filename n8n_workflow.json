@@ -1,0 +1,228 @@
+{
+  "name": "BdO WhatsApp Asistente Virtual",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "whatsapp-bdo",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-node",
+      "name": "📱 Webhook WhatsApp",
+      "type": "n8n-nodes-base.webhook",
+      "position": [240, 340],
+      "webhookId": "bdo-whatsapp-webhook",
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "msg",
+              "name": "message",
+              "value": "={{ $json.Body || $json.message || $json.text?.body || '' }}",
+              "type": "string"
+            },
+            {
+              "id": "sid",
+              "name": "session_id",
+              "value": "={{ $json.From || $json.from || $json.wa_id || 'unknown' }}",
+              "type": "string"
+            },
+            {
+              "id": "ch",
+              "name": "channel",
+              "value": "whatsapp",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "extract-node",
+      "name": "🔍 Extraer Mensaje y Sesión",
+      "type": "n8n-nodes-base.set",
+      "position": [460, 340],
+      "typeVersion": 3.4
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": false, "leftValue": "", "typeValidation": "strict"},
+          "conditions": [
+            {
+              "leftValue": "={{ $json.message }}",
+              "rightValue": "",
+              "operator": {"type": "string", "operation": "notEmpty"}
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "filter-node",
+      "name": "✅ Mensaje Válido?",
+      "type": "n8n-nodes-base.if",
+      "position": [680, 340],
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.AGENTE_API_URL }}/chat",
+        "authentication": "none",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "Content-Type", "value": "application/json"},
+            {"name": "Accept", "value": "application/json"}
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {"name": "session_id", "value": "={{ $json.session_id }}"},
+            {"name": "message",    "value": "={{ $json.message }}"},
+            {"name": "channel",    "value": "={{ $json.channel }}"}
+          ]
+        },
+        "options": {
+          "timeout": 30000,
+          "response": {"response": {"responseFormat": "json"}}
+        }
+      },
+      "id": "agent-node",
+      "name": "🤖 Llamar Agente BdO",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [900, 260],
+      "typeVersion": 4.2
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": false},
+          "conditions": [
+            {
+              "leftValue": "={{ $json.response }}",
+              "rightValue": "",
+              "operator": {"type": "string", "operation": "notEmpty"}
+            }
+          ],
+          "combinator": "and"
+        }
+      },
+      "id": "check-response",
+      "name": "✅ Respuesta Válida?",
+      "type": "n8n-nodes-base.if",
+      "position": [1120, 260],
+      "typeVersion": 2
+    },
+    {
+      "parameters": {
+        "fromNumber": "whatsapp:+14155238886",
+        "toNumber":   "={{ $('🔍 Extraer Mensaje y Sesión').item.json.session_id }}",
+        "message":    "={{ $json.response.substring(0, 1600) }}"
+      },
+      "id": "twilio-send",
+      "name": "📤 Enviar vía Twilio",
+      "type": "n8n-nodes-base.twilio",
+      "position": [1340, 180],
+      "typeVersion": 1,
+      "credentials": {"twilioApi": {"id": "twilio-creds", "name": "Twilio Account"}}
+    },
+    {
+      "parameters": {
+        "fromNumber": "whatsapp:+14155238886",
+        "toNumber":   "={{ $('🔍 Extraer Mensaje y Sesión').item.json.session_id }}",
+        "message":    "Lo siento, en este momento no pude procesar tu mensaje. Por favor intenta de nuevo o llama al 01 8000 514 652."
+      },
+      "id": "error-send",
+      "name": "⚠️ Enviar Error",
+      "type": "n8n-nodes-base.twilio",
+      "position": [1340, 380],
+      "typeVersion": 1,
+      "credentials": {"twilioApi": {"id": "twilio-creds", "name": "Twilio Account"}}
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "OK",
+        "options": {"responseCode": 200}
+      },
+      "id": "respond-node",
+      "name": "🔄 Responder Webhook",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "position": [1560, 280],
+      "typeVersion": 1
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "name": "message",
+              "value": "ignorado - mensaje vacío",
+              "type": "string"
+            }
+          ]
+        }
+      },
+      "id": "ignore-node",
+      "name": "🚫 Ignorar",
+      "type": "n8n-nodes-base.set",
+      "position": [900, 460],
+      "typeVersion": 3.4
+    }
+  ],
+  "connections": {
+    "📱 Webhook WhatsApp": {
+      "main": [[{"node": "🔍 Extraer Mensaje y Sesión", "type": "main", "index": 0}]]
+    },
+    "🔍 Extraer Mensaje y Sesión": {
+      "main": [[{"node": "✅ Mensaje Válido?", "type": "main", "index": 0}]]
+    },
+    "✅ Mensaje Válido?": {
+      "main": [
+        [{"node": "🤖 Llamar Agente BdO", "type": "main", "index": 0}],
+        [{"node": "🚫 Ignorar",           "type": "main", "index": 0}]
+      ]
+    },
+    "🤖 Llamar Agente BdO": {
+      "main": [[{"node": "✅ Respuesta Válida?", "type": "main", "index": 0}]]
+    },
+    "✅ Respuesta Válida?": {
+      "main": [
+        [{"node": "📤 Enviar vía Twilio", "type": "main", "index": 0}],
+        [{"node": "⚠️ Enviar Error",      "type": "main", "index": 0}]
+      ]
+    },
+    "📤 Enviar vía Twilio": {
+      "main": [[{"node": "🔄 Responder Webhook", "type": "main", "index": 0}]]
+    },
+    "⚠️ Enviar Error": {
+      "main": [[{"node": "🔄 Responder Webhook", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner",
+    "errorWorkflow": ""
+  },
+  "staticData": null,
+  "tags": ["whatsapp", "banco-occidente", "ia"],
+  "meta": {
+    "templateCredsSetupCompleted": false,
+    "n8n_version": "1.0.0"
+  },
+  "__INSTRUCCIONES__": {
+    "paso_1": "Importar este JSON en N8N: Workflows → Import from File",
+    "paso_2": "Crear credencial Twilio en N8N → Credentials → Twilio API",
+    "paso_3": "Crear variable de entorno en N8N: AGENTE_API_URL = https://TU_URL_API",
+    "paso_4": "Activar el workflow (toggle superior derecho)",
+    "paso_5": "Copiar la URL del webhook: Settings → Webhook URL",
+    "paso_6": "Pegar esa URL en Twilio → Messaging → WhatsApp Sandbox → When a message comes in"
+  }
+}

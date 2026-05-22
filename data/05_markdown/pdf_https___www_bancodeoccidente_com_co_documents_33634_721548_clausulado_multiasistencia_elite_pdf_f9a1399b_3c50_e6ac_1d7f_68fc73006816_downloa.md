@@ -1,0 +1,919 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/721548/clausulado-multiasistencia-elite.pdf/f9a1399b-3c50-e6ac-1d7f-68fc73006816?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/721548/clausulado-multiasistencia-elite.pdf/f9a1399b-3c50-e6ac-1d7f-68fc73006816?download=true
+# f9a1399b 3c50 e6ac 1d7f 68fc73006816?download=true
+## Multiasistencia Élite
+Accidente: Acontecimiento que provoque daños materiales y/o corporales a un usuario, causado
+única y directamente por una causa externa, violenta, fortuita y evidente (excluyendo la enfermedad).
+Ámbito territorial: Las prestaciones de los servicios de asistencia para los usuarios, descritos en este
+clausulado operan en el territorio nacional de Colombia.
+Coordinación: Acción de dirigir o poner a trabajar varios elementos con el objetivo de cumplir con la
+solicitud del usuario para prestar los servicios de asistencias.
+Costo preferencial: Servicio a cargo del usuario con las tarifas negociadas por volumen por parte de
+Assisprex con la red de proveedores.
+Emergencia: Situación no habitual, accidental y fortuita, que ponga en riesgo la seguridad del
+Enfermedad (Veterinaria): Deterioro de la salud de la mascota o alteración en el normal
+funcionamiento del organismo, conﬁrmado por un veterinario certiﬁcado.
+Enfermedad: Alteración leve o grave del funcionamiento normal de un organismo o de una de las
+partes de este, sea bien por una causa interna o externa.
+Evento: Suceso que implique una emergencia, urgencia o prestación de un servicio de asistencia y por
+el cual un técnico, empleado, proveedor, profesional, operador de Assisprex se presente ante un
+usuario para proceder a la prestación de los servicios de asistencia solicitados.
+Fecha de inicio de vigencia: Fecha a partir de la cual los servicios de asistencia que ofrece Assisprex
+estarán disponibles para el usuario. La activación de los servicios inicia 24 horas después de comprar
+Gestión: Conjunto de procedimientos y acciones que se llevan a cabo para prestar los servicios de
+Grupo familiar: Personas en primer grado (padres, suegros, hijos y yerno/nuera) y segundo grado de
+consanguinidad (abuelos, hermanos, cuñados, nietos).
+IPC. Índice de Precios al Consumidor decretado por el Gobierno Nacional de Colombia.
+Mascota registrada: Mascota que tendrá acceso a las coberturas de la presente asistencia.
+País de residencia: Territorio de Colombia.
+Proveedor: Empresa o persona física que abastece a la Assisprex en la prestación de servicios que
+requiere para gestionar las asistencias contratadas por el usuario.
+Referencia: Assisprex brinda información actualizada al usuario sobre los servicios contratados.
+Residencia permanente: Domicilio habitual del usuario que para los efectos del presente clausulado.
+Debe estar ubicado en Colombia.
+Servicios: Los descritos en el programa deﬁnidos en este clausulado.
+Situación no habitual: Hecho insólito e inusual que ponga en riesgo la integridad del usuario.
+Usuario: Persona que contrata el servicio a su titularidad.
+Valor cubierto según evento: Valor máximo de cobertura en cada asistencia.
+Vigencia anual con renovación automática: En caso de que el usuario no notiﬁque a Assisprex la
+solicitud de cancelación de esta asistencia, ésta se renovará de manera automática por un periodo
+de un año adicional.
+Vigencia: Periodo durante el cual el usuario tiene derecho a obtener los servicios de asistencia. Inicia
+desde la fecha de inicio de vigencia hasta la cancelación por cualquier motivo del plan contratado.
+## Asistencias Salud Monto cobertura
+## ASISTENCIAS SALUD:
+## Telemedicina Adulto y
+• No se prescriben medicamentos
+• No se realizan diagnósticos
+deﬁnitivos por tratarse de una
+asistencia virtual.
+• No se cambian protocolos de
+tratamiento vía virtual.
+## Assisprex ofrece orientación médica virtual las 24
+horas, los 365 días del año.  Contactándose con
+## Assisprex, recibirá las instrucciones para agendar un
+servicio de médico general o pediatra virtual a
+través de una aplicación.  Un médico realizará la
+orientación médica sobre alguna patología
+especíﬁca, aclaraciones sobre inquietudes
+asociadas a temas de salud y le orientará en
+procedimientos y conductas provisionales, según la
+sintomatología, mientras el paciente hace contacto
+con médico de manera presencial, si se requiere.
+## Sin límite Sin límite
+## DescripciónMódulo Exclusiones Coberturas
+## Orientación Médica
+• Consulta con especialista
+• Exámenes de laboratorio, rayos x,
+aplicación de vacunas.
+• Certiﬁcaciones médicas
+• Orientación con profesional en medicina general
+para atención primaria.
+• Recomendación de remisión a centro médico en
+caso de ser necesario.
+• Receta de medicamentos si el diagnóstico lo
+Especialistas (Interna,
+Psiquiatría, Neurología,
+Gastroenterología,
+## Assisprex ofrece orientación médica virtual con
+especialistas como médico internista, psiquiatra,
+neurólogo, gastroenterólogo o dermatólogo.  Esta
+orientación se agenda posterior al concepto emitido
+por un médico general. Contactándose con
+## Assisprex, recibirá las instrucciones para agendar
+una cita virtual a través de una aplicación.  Un
+médico realizará la orientación médica sobre
+alguna patología especíﬁca, aclaraciones sobre
+inquietudes asociadas a temas de salud y le
+orientará en procedimientos y conductas
+provisionales, según la sintomatología, mientras el
+paciente hace contacto con médico de manera
+presencial, si se requiere.
+## Aﬁliado titular y grupo
+## Terapias Físicas Básicas
+## El tiempo máximo de cada terapia será de 45
+minutos y debe ser solicitado con mínimo
+veinticuatro (24) horas de anticipación.
+## Assisprex prestará el servicio de terapias básicas
+físicas a domicilio o en la red de proveedores a nivel
+nacional, dentro del perímetro urbano.  El objetivo es
+habilitar y rehabilitar el movimiento corporal
+humano, brindándole programas de prevención y
+rehabilitación. Atención en áreas como: lesiones
+deportivas y ortopedia. Las terapias de
+rehabilitación física las realiza un  ﬁsioterapeuta con
+conocimientos de las funciones del cuerpo humano,
+para prestar ayuda en los casos antes mencionados.
+## En estas terapias se utilizarán bandas calientes y
+frías, bandas elásticas y balones, con el objetivo que
+el paciente recobre su movilidad lo antes posible.
+$150.000 3 Eventos
+• No incluye certiﬁcado médico.
+• El personal dispuesto por
+## Assisprex no está obligado a
+suministrar suplementos y/o
+## Terapias Respiratorias
+## Básicas a Domicilio
+respiratorias a domicilio o en la red de proveedores
+a nivel nacional, dentro del perímetro urbano.  Este
+servicio brinda tratamiento a personas que
+presentan enfermedades agudas, crónicas o
+degenerativas que comprometan el sistema
+cardiovascular y pulmonar, o personas que, con
+motivo de los climas variantes, sufran problemas
+## Las terapias respiratorias las realiza un profesional
+de la salud, con experiencia en problemas
+pulmonares.  El profesional cuenta (dependiendo del
+caso) con un nebulizador y bromuro para la mejora
+de la condición respiratoria del usuario.  En otros
+casos la terapia se hace con masajes, los cuales
+ayudan a la persona a expulsar ﬂemas para mejorar
+## Excluye la careta que se utiliza en
+las nebulizaciones, ésta debe ser
+suministrada por el usuario.
+## Terapias de Lenguaje y
+## Escritura para Niños
+## Excluye los elementos adicionales
+especializados para realizar las
+## AssisPrex, prestará el servicio de terapias básicas de
+lenguaje y escritura a domicilio, cuando el usuario o
+beneﬁciario lo requiera.  Se pretende promover,
+mejorar, acondicionar, prevenir, rehabilitar y brindar
+tratamiento a niños menores de 15 años que
+presentan diﬁcultades en su aprendizaje de lenguaje
+y escritura.  Las terapias de lenguaje y escritura las
+realiza un profesional de la salud fonoaudiólogo,
+con experiencia en problemas de trastornos de
+habla y escritura.  El profesional se encargará de
+realizar un diagnóstico para el niño y dependiendo
+del resultado desarrollará las terapias que el menor
+necesite. De igual manera, asignará las actividades
+que los padres deberán realizar para la mejora del
+lenguaje y escritura del niño.  Para las terapias de
+lenguaje y escritura, el profesional cuenta,
+dependiendo del caso con una guía de lengua,
+cajas de soplo y estimuladores de músculos faciales
+para cumplir con el objetivo de mejorar la condición
+de lenguaje del niño.  En caso de que el profesional
+considere que el niño necesite apoyo de psicólogo,
+este servicio deberá ser asumido por el usuario.
+Aplica para ciudades principales del país.
+## Examen de Optometría
+## Assisprex coordinará el examen de optometría
+básico en la red más cercana al lugar de residencia
+del aﬁliado, donde se realizará un examen de
+optometría básico, que tiene por objetivo prevenir,
+detectar y resolver problemas visuales.
+## Excluye los tratamientos sugeridos
+por el profesional de la salud que
+atiende al usuario.
+## Coordinación de servicio de lectura de resultados de
+exámenes médicos de laboratorio básicos. La
+asistencia será prestada telefónicamente por un
+profesional de la salud, en horario hábil de lunes a
+viernes de 8:00 am a 5:00 pm y sábados de 9:00
+am a 12:00 pm. El usuario o miembro del grupo
+familiar debe remitir vía email los resultados para
+que el profesional pueda realizar la lectura de los
+$120.000 1 Evento
+• Excluye los tratamientos y/o
+medicamentos sugeridos en el
+• Excluye ajuste y/o mantenimiento
+a gafas, lentes o cualquier
+elemento de apoyo visual que
+utilice el usuario.
+• No incluye lentes, gafas, lentes de
+contacto o cualquier otra ayuda
+oftalmológica sugerida por el
+profesional de la salud.
+• No incluye otros examenes
+adicionales no estipulados en este
+• No se emiten certiﬁcaciones
+• No se realizan consultas con
+curaciones básicas a
+## Examen preventivo de
+## Mamografía o Antígeno
+Assisprex  enviará hasta el domicilio del usuario,
+dentro del perímetro urbano, una enfermera para
+realizar curaciones básicas.
+## Para la coordinación del servicio, es necesario que
+el usuario presente la documentación médica
+certiﬁcada del paciente, la cual debe ser de máximo
+3 meses de expedición y contener la siguiente
+información:  membrete de la institución médica,
+nombre, edad y diagnóstico(s) deﬁnitivos del
+paciente, cuidados necesarios para el paciente,
+nombre, ﬁrma y cédula del médico.  Los insumos que
+se requieran para las curaciones deben ser
+suministrados por el usuario.
+## Assisprex indicará al usuario la red médica más
+cercana al lugar de residencia para la toma de los
+mismos, el usuario debera remitir la orden médica al
+momento de solicitar la asistencia.
+• Este servicio se prestará a nivel
+nacional para el usuario
+únicamente en el domicilio
+registrado previamente.
+• No incluye el valor de los
+medicamentos a suministrar.
+• Los servicios están sujetos a
+previa evaluación y autorización
+del médico del call center de
+• No incluye movilización del
+• No incluye toma de muestras de
+• No incluye el costo o el envío de
+ningún tipo de medicamento.
+• Esta cobertura no aplica para
+pacientes postquirúrgicos de alta
+complejidad como neurológicos,
+cardiológicos o estéticos.
+$120.000 2 Eventos
+## Orientación Psicológica
+## Assisprex gestionará la prestación de servicio de
+orientación psicológica telefónica. Este servicio
+ofrece un apoyo puntual, no de urgencia, para
+recuperar la autonomía del paciente en el menor
+tiempo posible, después de un “shock” emocional,
+estrés post-traumático, etc.
+## Orientación Nutricional
+## Asesoría telefónica sobre las dudas e inquietudes
+que tenga acerca de la correcta nutrición y
+## La asesoría la realiza un nutricionista, el cual podrá
+enviar con previo consentimiento del asegurado
+información al correo electrónico sobre
+recomendaciones para una alimentación sana,
+incluyendo sugerencias para diabéticos,
+vegetarianos, intolerantes a la lactosa, etc.
+## Suero Multivitamínico
+(Ciudades Principales)
+## Cuando el usuario o miembro del grupo familiar lo
+requiera, se enviará al domicilio un profesional quien
+realizará la aplicación intravenosa de un suero
+multivitamínico. Este suero está compuesto por
+vitaminas que ayudarán a una mejora en el
+funcionamiento del organismo. El servicio se
+prestará únicamente en ciudades principales y
+deberá ser solicitado con 24 horas de anterioridad.
+Incluye suero de 500 ml, domicilio y aplicación. Para
+la prestación del servicio el usuario deberá
+suministrar información personal como edad, peso,
+estatura y condiciones médicas importantes.
+## Assisprex no se responsabiliza de
+cualquier reacción adversa
+presentada en el usuario.
+## Consiste en la recepción de documentación
+necesaria para emitir un concepto médico, el
+análisis médico de la información, la veriﬁcación de
+la historia clínica y la emisión de un concepto
+médico que, a criterio del médico que la efectúe,
+podrá incluir la existencia de tratamientos
+alternativos para la patología consultada.
+## Assisprex dará cobertura de segunda opinión
+médica telefónica en las siguientes especialidades:
+cardiología, dermatología, endocrinología,
+endoscopia, gastroenterología, genito-urinaria,
+ﬁsiología, ginecología, hematología, obstetricia,
+neurología, oncología, oftalmología, ortopedia,
+cirugía de mano, patología, cirugía reconstructiva,
+radiología, urología y cirugía vascular.
+$100.000 1 Evento
+## Los tratamientos sugeridos en el
+concepto médico emitido no están
+incluidos en la asistencia.
+## Auxilio económico para
+alquiler de equipos
+Reembolso de un auxilio hasta por $100.000 para
+apoyar el alquiler de equipos ortopédicos recetado
+por un profesional de la salud.  El usuario debe
+remitir la factura del alquiler del equipo, para
+gestionar el reembolso.
+## Las facturas se deberán presentar
+a Assisprex máximo 30 días
+después del alquiler del equipo.
+$200.000
+## Sin límite 2 Eventos
+• No incluye desplazamiento del
+profesional de manera presencial.
+suministrar medicamentos.
+## Asistencia Hogar Monto cobertura
+## Armado o Desarmado
+de Árbol de Navidad
+• Quedan excluidas las
+instalaciones en sitios no
+apropiados identiﬁcados por el
+técnico al momento de la visita de
+• El servicio se realiza en la
+ubicación o caja dispuesta por el
+• Todos los elementos deben ser
+## El servicio es únicamente para el
+árbol de Navidad, se excluyen
+adornos o decoraciones que no
+hagan parte de éste. Este servicio
+deberá ser solicitado con 48 horas
+## En caso de que el usuario requiera el arme o
+desarme del árbol de Navidad, Assisprex pondrá a
+su disposición la mano de obra para realizar
+cualquiera de estos procesos.
+$150.000
+## Ensamble de Juegos
+para Mascotas o Niños
+• Quedan excluidas reparaciones
+de plomería, vidriería o cerrajería.
+• Herramientas como escalera,
+materiales o accesorios que no se
+incluyan en el kit básico de
+• Modiﬁcaciones en el diseño
+original de la vivienda.
+• No incluye acabados o
+reparaciones en infraestructura.
+• Quedan excluidos juegos
+antiguos o viejos, es decir, que
+tengan más de 1 año de
+antigüedad o que se vean
+gastados o con daños visibles.
+• Traslados de juegos  armados
+dentro o fuera de la casa.
+• No incluye instalación, anclaje o
+montaje del juego armado en
+algún punto de la vivienda.
+## Destape de Cañería
+## Mano de obra para ensamblar algún juego para
+niño o mascota nuevo que haya adquirido el usuario.
+## Assisprex  enviará un técnico para armar los juegos
+dentro de la residencia permanente. Los juegos son
+aquellos que en su compra adjuntaron un instructivo
+o catálogo original de armado.  El servicio se limita
+a la mano de obra de un solo técnico por evento; si
+el servicio del cliente requiere técnicos adicionales
+por las condiciones de armado del juego, el costo
+de la mano de obra adicional se otorgará a costo
+preferencial para el cliente. Este servicio tendrá un
+tiempo de ejecución de máximo tres (3) horas.
+## Incluye herramientas como: taladro atornillador y kit
+de herramientas básico (alicates, destornillador de
+estrella y de pala, ﬂexómetro, martillo).
+$150.00
+## Instalación de Grifos
+## Sellado de silicona por
+ﬁltración para baño o
+## Assisprex coordinará un técnico para instalar la
+grifería o llaves en el domicilio del usuario.   Las
+griferías o llaves deberán ser provistas por el
+## Cuando el usuario requiera sellar con silicona los
+bordes del baño o la cocina de su residencia
+permanente, dado una ﬁltración imprevista
+generada por un sello inadecuado o cuando éste ha
+sido removido, se coordinará el envío de un técnico
+para llevar a cabo dicho requerimiento. Este servicio
+deberá ser solicitado con 24 horas de anticipación;
+para cancelar la asistencia programada, el usuario
+debe comunicarse con Assisprex y cancelar el
+servicio con 6 horas de anticipación. Este servicio
+se prestará en horario hábil de lunes a viernes de 8
+am a 5 pm y sábados de 8 am a 12 m.  Siempre
+debe haber en la vivienda una persona mayor de
+edad que se haga responsable del servicio.
+## En caso que el usuario requiera personal de apoyo
+en su mudanza, Assisprex dispondrá de una persona
+que apoyará el proceso de acomodación y
+organización de cajas de mudanza hasta por 3
+• Se excluyen los procedimientos
+en cajas de inspección. Aﬁliado titular
+## Ayudante en Mudanza
+## Organización de cajas
+## Assisprex enviará un técnico especializado que
+realizará el destape de cañerías y el valor previsto
+para la prestación de este servicio.  Incluye el costo
+de las herramientas, traslado del operario,
+inspección y la mano de obra.
+• No estarán incluidos los
+repuestos o adicionales para
+realizar el trabajo como ﬂexibles,
+manillas, gomas de corte, etc.
+• Queda excluido el sellado en
+sitios no apropiados identiﬁcados
+por el técnico al momento de la
+visita de inspección.
+• El cliente suministrará las cajas
+• El servicio aplica en origen o
+destino únicamente.
+## Limpieza profunda de
+• No se limpian elementos
+deteriorados por oxido.
+• No se limpian baldosas, muebles
+o vidrios vencidos.
+## Assisprex coordinará profesionales para realizar el
+servicio de limpieza profunda de la cocina de la
+vivienda del usuario dentro del perímetro urbano.
+## Esta limpieza se realizará con un mecanismo
+especializado a vapor que ayuda a remover
+residuos de grasa, hongos y bacterias (este
+procedimiento no garantiza que no se vuelvan a
+presentar contaminantes). El servicio debe ser
+solicitado con 24 horas de anticipación. Para
+cancelar la asistencia programada, el usuario debe
+comunicarse con Assisprex con seis (6) horas de
+anticipación. Se prestará en horario hábil de lunes a
+viernes de 8:00 am a 5:00 pm y sábados de 8:00
+am. a 12:00 m. Siempre debe haber en la vivienda
+una persona mayor de edad que se haga
+responsable del servicio. En caso de requerir
+despejar alguna zona especíﬁca o guardar
+alimentos o productos, el usuario será el
+responsable de garantizar que la zona se encuentre
+en las condiciones que el técnico requiera para
+realizar su labor.   La asistencia sólo incluye mano
+de obra y todos los materiales e insumos que se
+requieran deberán ser suministrados por el usuario.
+habitación para bebé
+## Limpieza interna de
+vidrios en el hogar
+## Se pondrá a disposición un profesional para realizar
+el servicio de limpieza de vidrios internos de la
+vivienda del aﬁliado dentro del perímetro urbano,
+hasta por tres horas. Los materiales que se
+requieran para la labor deben ser suministrados por
+el aﬁliado. El técnico proveerá materiales y
+herramientas menores. Es responsabilidad del
+aﬁliado contar con el área de trabajo despejada.
+## Este servicio deberá ser solicitado con 24 horas de
+anticipación; para cancelar la asistencia
+programada, el aﬁliado debe comunicarse con
+## Assisprex y cancelar el servicio con 4 horas de
+viernes de 8:00 am a 5:00 pm y sábados de 8am a
+12m. Siempre debe haber en la vivienda una
+persona mayor de edad que se haga responsable
+## En caso que se requiera, Assisprex pondrá a
+disposición un motorizado que recogerá un paquete
+de dimensiones reducidas en el origen informado
+por el usuario y lo entregará en la dirección
+suministrada. Este servicio aplica dentro del
+perímetro urbano de la ciudad de residencia del
+usuario, cubriendo el transporte de sobres y
+paquetes hasta por cinco (5) kilos y de fácil
+transporte dentro del baúl del mensajero.
+## Mensajería pequeños
+servicio de limpieza profunda de una habitación
+para bebé en la vivienda del usuario dentro del
+perímetro urbano. Esta limpieza se realizará con un
+mecanismo especializado a vapor que ayuda a
+remover residuos de grasa, hongos y bacterias (este
+presentar contaminantes).  El servicio debe ser
+solicitado con 24 horas de anticipación.  Para
+a.m. a 12:00 m. Siempre debe haber en la vivienda
+alimentos o productos, el usuario, será el
+realizar su labor.  La asistencia sólo incluye mano de
+obra y todos los materiales e insumos que se
+Incluye un único origen y destino;
+no se permiten paradas o
+trayectos adicionales.
+$80.000
+## Asistencia Movilidad
+## Monto cobertura
+## ASISTENCIA MOVILIDAD (AUTO O MOTO):
+## Auxilio de pequeños
+accesorios (Emblemas,
+## Luna o Parabrisas)
+• No cubre el daño de los
+accesorios causado por desgaste
+apoyar el cambio de pequeños accesorios como
+lunas de espejos, emblemas externos o parabrisas
+del vehículo a raiz de un hurto o daño.  El usuario
+debe remitir la factura de compra de la pieza, para
+$100.000
+estalladas por impacto
+contra el pavimento
+que generen una grieta
+estructura de la llanta.
+## Conductor Elegido 1 Evento
+## En caso que el usuario decida ingerir bebidas
+alcohólicas estando en ciudades principales del
+país, se pondrá a disposición un conductor que
+manejará el vehículo amparado desde el sitio de la
+reunión donde se encuentre hasta el domicilio del
+usuario. La cobertura será de 30 km contados desde
+el centro administrativo de la ciudad. El servicio
+deberá ser solicitado con 4 horas de antelación por
+parte del usuario.
+## En caso que se requiera, se pondrá a su disposición
+un apoyo técnico en sitio para realizar
+acompañamiento al usuario en el lugar donde se
+presentó la avería o accidente, mientras la
+asistencia de grúa arriba al sitio. Este
+acompañamiento también le permitirá al usuario
+dejar custodiado el vehículo en sitio con el técnico
+autorizado, si el mismo debe continuar con sus
+actividades o no disponga de tiempo para esperar
+1) Se cubren medidas originales
+reportadas por el fabricante hasta
+un margen de cambio -/+ 3% en
+alto o ancho. No cubre cambio de
+2) No se cubre alineación o
+3) No aplica para servicios publico
+4) Para los casos en donde no sea
+posible realizar la reposición de
+las llantas por elementos nuevos
+con la misma o similar
+especiﬁcación, se brindaran
+alternativas en marca y referencia.
+5) No cubrimos llantas reparadas.
+6) No se cubren huevos o
+7) No se cubre rodada a baja
+8) No se cubre labrado inferior a
+1,6 mm en el área de mayor
+## Motorizado para el
+apoyar el cambio de llantas que hayan sufrido un
+daño irreparable y presenten perdida de aire como
+consecuencia de un impacto.
+## No incluye paradas o trayectos
+## El técnico en sitio estará
+encargado de realizar el
+acompañamiento o custodia del
+vehículo, este no realizará algún
+diagnóstico al estado del vehículo.
+1 Evento$150.000
+• Reinicio de batería para 1 solo vehículo.
+• Revisión de voltaje y análisis de la batería para
+validar su estado.
+• Prueba de funcionamiento del vehículo.
+• Kit básico para el reinicio de la batería.
+• Reposición de la batería.
+• Limpieza de la batería.
+• Repuestos del vehículo.
+• Diagnósticos mecánicos del
+vehículo no contemplados en las
+• Reinicio de batería para
+vehículos pesados.
+• Traslados extraurbanos tienen un
+costo adicional por kilometraje.
+Aﬁliado titular1 Evento$115.000
+• Desplazamiento del técnico.
+• 1 galón de combustible (corriente).
+• Solo aplica para vehículos a gasolina o diésel.
+## Suministro Combustible
+• No se prestará el servicio si tu
+carro presenta alguna fuga de
+• No aplica para vehículos a gas o
+1 Evento$115.000
+• Desmonte y montaje de la llanta afectada.
+• Kit básico para realizar el cambio de llanta.
+• No están incluidas herramientas
+especiales para retirar pernos de
+seguridad, switches u otros.
+• No se realizan reparación y/o
+reposición del neumático averiado.
+• No se realiza reparación de rines.
+• No se ejecutarán cambios de
+llanta para vehículos de carga
+## El usuario contará con el servicio de un conductor
+profesional por dos horas que recogerá su vehículo o
+moto en el lugar acordado, para llevarlo al taller
+acordado para realizar una revisión técnica o
+revisión técnico-mecánica, y devolverlo al sitio de
+origen.  Aplica para las principales ciudades del país.
+## Traslado del Vehículo
+para Revisión Técnica
+• Todos los servicios a los cuales se
+lleve el vehículo o moto, corren por
+cuenta del usuario.
+• No se cubren servicios de
+transporte de pasajeros o cargas
+no relacionados con las tareas
+• Los costos asociados a
+reparaciones, repuestos y
+materiales no están cubiertos por
+• No se cubren los gastos derivados
+de accidentes, vandalismo o daños
+• El servicio no se responsabiliza
+por el pago de multas de tránsito o
+sanciones impuestas al usuario.
+1 Evento$80.000
+## En caso de viaje y a solicitud del aﬁliado, se
+coordinará el envío de un transporte tipo taxi o
+vehículo de similiar característica para el traslado
+desde el lugar de residencia hacia o desde el
+aeropuerto, con ocupación máxima de tantas
+personas como la capacidad del vehículo lo permita.
+## La solicitud se debe realizar con un mínimo de 24
+horas de anticipación.
+El servicio se presta en Bogotá, Cali, Medellín,
+Bucaramanga, Barranquilla, Cartagena,
+Villavicencio, Pasto, Santa Marta, Montería, Tunja,
+Sogamoso, Armenia, Pereira y Manizales.
+## Traslado al Aeropuerto
+• Excluye paradas en el trayecto
+## En caso de inmovilización del auto a consecuencia
+de pérdida o extravío de las llaves, inutilización de la
+cerradura por intento de robo o si las llaves se
+quedan dentro del vehículo, se realizará el envío de
+un cerrajero para que este realice “asistencia de
+emergencia” necesaria para restablecer el acceso al
+vehículo.  Este servicio aplica dentro del perímetro
+urbano en la ciudad de residencia. Aplica para el
+vehículo registrado en el momento de solicitar la
+## Cerrajería del vehículo
+por pérdida o daño de la
+## Queda excluido el suministro de
+cerraduras o llaves del vehículo.
+## Asistencias para estar
+## ASISTENCIAS PARA ESTAR EN CASA:
+Reembolso de un auxilio hasta por $100.000 para la
+compra de una torta hasta para 10 personas.  El
+usuario debe remitir la factura de compra de la torta,
+pudín o pastel, para gestionar el reembolso.
+## Auxilio para torta en tu
+## Las facturas se deberán presentar a
+## Assisprex maximo 30 días después
+del alquiler del equipo.
+Aﬁliado titular1 Evento$100.000
+## Assisprex dispondrá de una persona que apoyará a
+organizar la alacena del hogar hasta por 3 horas.
+organización de la
+alacena de tu hogar
+## Apoyo para limpieza de
+## Todos los elementos necesarios
+para la organización, aseo, y
+reempaque de alimentos, estarán a
+cargo del usuario.
+1 Evento$100.000
+## Asesoría de reciclaje y
+## Nuestro servicio de asesoría de reciclaje y compost
+en casa está diseñado para ayudar a los hogares a
+implementar prácticas sostenibles y ecológicas de
+gestión de residuos. A través de un enfoque
+personalizado y adaptado a las necesidades de
+cada hogar, proporcionamos orientación y apoyo
+para establecer un sistema eﬁciente de reciclaje y
+compostaje, con el objetivo de reducir la cantidad de
+desechos que terminan en los vertederos y fomentar
+un entorno más saludable.
+## Evaluación inicial:  evaluar el espacio y las
+necesidades especíﬁcas del hogar.
+## Plan personalizado: Diseño de un plan de reciclaje y
+compostaje adaptado a las características y
+limitaciones del hogar.
+## Formación y educación: Sobre técnicas de reciclaje y
+compostaje, incluyendo qué materiales se pueden
+reciclar o compostar y cómo hacerlo correctamente.
+## Suministro de materiales: Provisión
+de contenedores de reciclaje y
+compost, así como otros materiales
+necesarios, los debe conseguir el
+## Eliminación de residuos tóxicos: No
+gestionamos ni eliminamos residuos
+tóxicos o peligrosos, como
+productos químicos, pinturas,
+baterías o electrónicos.
+## Construcción de estructuras: No
+realizamos construcciones
+complejas como la instalación de
+sistemas de compostaje
+subterráneo o estructuras
+permanentes de reciclaje.
+## Transporte de residuos: No
+ofrecemos servicios de recogida o
+transporte de residuos a centros de
+reciclaje o compostaje.
+## Tratamiento de Residuos Médicos:
+## No asesoramos sobre el manejo de
+residuos médicos o biológicos.
+## Reciclaje industrial: Nuestro servicio
+está enfocado exclusivamente en
+hogares y no incluye asesoría para
+reciclaje o compostaje a nivel
+industrial o comercial.
+## Mantenimiento de jardines: No
+ofrecemos servicios de jardinería
+que no estén directamente
+relacionados con el compostaje.
+## Curso virtual repostería
+## Todos los servicios deben ser solicitados con 24
+horas de antelación y se prestarán en horarios
+hábiles de Lunes a viernes de 8:00 am a 5:00 pm o
+sábados de 8:00 am a 12:00 m.
+Assisprex pondrá a disposición un profesional quien,
+a través de una videollamada, ofrecerá clases de
+repostería saludable, asados o manejo de dieta
+vegetariana y vegana, acorde con la elección del
+usuario. El objetivo es aprender a realizar recetas
+para toda la familia de manera fácil y con productos
+de la canasta familiar.  De otra parte, ofrecerá
+información sobre ingredientes a utilizar y beneﬁcios
+• No incluye certiﬁcado de la clase.
+• Todos los ingredientes, utensilios y
+elementos para el desarrollo de la
+clase son a cargo del usuario.
+## Curso virtual de asados
+## Curso virtual de dieta
+vegetariana y vegana
+## Nuestro servicio de asesoría virtual para la transición
+a energía solar está diseñado para ayudar a los
+propietarios de viviendas a implementar sistemas de
+energía solar de manera eﬁciente y rentable. A través
+de consulta virtual, proporcionamos un plan
+personalizado y apoyo continuo para asegurar una
+transición suave hacia el uso de energía solar.
+## Evaluación inicial: Análisis virtual de las necesidades
+energéticas del hogar y las condiciones del techo.
+## Plan Personalizado: Diseño de un plan de instalación
+de paneles solares adaptado a las características de
+la vivienda y al consumo energético del hogar.
+## Estudio de viabilidad: Evaluación de la viabilidad
+técnica y económica de la instalación de energía
+solar, incluyendo un análisis de costes y beneﬁcios.
+## Recomendación de equipos: Asesoramiento sobre la
+selección de paneles solares, inversores y otros
+componentes necesarios.
+## Orientación sobre subvenciones: Información y
+asistencia para la solicitud de subvenciones,
+incentivos ﬁscales y ﬁnanciamiento disponibles.
+## Instrucción y Formación: Sesiones virtuales
+educativas sobre el funcionamiento y mantenimiento
+del sistema de energía solar.
+## Conexión con instaladores: Referencia a instaladores
+certiﬁcados y apoyo en la coordinación del proyecto
+## Asesoría transición a
+energía solar del hogar
+## Visitas presenciales: No realizamos
+visitas físicas a la propiedad; todo
+el servicio se proporciona de
+## Instalación de paneles: No
+realizamos la instalación física de
+los paneles solares; este servicio
+debe ser contratado a un instalador
+## Mantenimiento físico: No ofrecemos
+servicios de mantenimiento o
+reparación física de los equipos
+## Gestión de permisos: No
+gestionamos la obtención de
+permisos locales o licencias de
+construcción; proporcionamos
+orientación pero el propietario debe
+## Transporte de equipos: No
+incluimos el transporte de paneles
+solares y otros equipos al domicilio
+## Intervenciones eléctricas: No
+realizamos modiﬁcaciones o
+intervenciones en el sistema
+eléctrico de la vivienda.
+## Reciclaje de equipos antiguos: No
+ofrecemos servicios de eliminación
+o reciclaje de equipos solares
+antiguos o en desuso.
+1 EventoSin límite
+## Se dispondrá de un profesional para que a través de
+una videollamada asesore al usuario para iniciar o
+mantener una huerta en casa.  La asesoría tiene una
+duración de 45 minutos y contempla aspectos tales
+como la selección del lugar en casa, consejos sobre
+uso del sustrato, ilumunicación, ventilación del huerto
+y en general, tips de las mejores prácticas acorde
+con las condiciones  climáticas,  forma de siembra,
+## Asesoría para diseño de
+• Todos los elementos requeridos y
+sugeridos en la clase son a cargo
+• La asesoría no entrega certiﬁcado
+## Aﬁliado titular1 EventoSin límite
+## En caso que se requiera, se pondrá a disposición un
+asistente para apoyar la gestión del evento que se
+requiera por un periodo máximo de 4 horas en
+ciudades principales. Este servicio debe ser
+solicitado con 12 horas de anticipación.
+## Asistente en ﬁla para
+eventos musicales,
+culturales y deportivos
+• No incluye otros costos asociados
+a la logística del evento, solo
+incluye el servicio.
+Aﬁliado titular1 Evento$80.000
+## Asistencia Senior Monto cobertura
+## ASISTENCIA SENIOR:
+## Coordinación de un servicio de transporte con
+acompañante para una persona desde su lugar de
+residencia hasta el centro médico y posteriormente
+hasta su lugar de residencia, Acompañamiento
+máximo de 2  horas, el cual se debe solicitar con  4
+horas de antelación.
+acompañamiento a citas
+• Aplica únicamente dentro de las
+ciudades principales dentro del
+• No se permiten paradas
+adicionales a las informadas en la
+solicitud del servicio.
+2 Eventos máximo 3
+$120.000
+## Una persona especializada realizará un
+acompañamiento al adulto mayor hasta por 4 horas
+en su lugar de residencia.  El servicio sólo es
+acompañar al usuario; sin embargo, no contempla
+realizar ninguna otra actividad distinta al
+• No se incluyen costos de
+movilización o suministros de
+vehículos de transporte.
+hábiles de lunes a viernes de 8 am a 5 pm o sábados
+a través de una videollamada, ofrecerá las siguientes
+## Clase virtual de lectura
+## Apoyado por un profesional, aprenderás a utilizar la
+inspección, la visualización y la comprensión lectora,
+para comprender cierta realidad o tema de interés.
+## Clase virtual arreglos ﬂorales
+## Se apoyará al usuario a elaborar composiciones
+innovadoras y especiales aplicando las técnicas de
+arte ﬂoral relacionados con la utilización de materias
+primas y materiales.
+## Clase virtual arreglos navidad
+## Bajo la dirección del profesional, se guiará al usuario
+para elaborar un adorno de Navidad, utilizando
+materiales sencillos, ojalá elementos que permitan
+ser reciclados, para adornar su hogar.
+## Clase virtual arreglos
+• Todos los materiales, utensilios y
+clase, son a cargo del usuario.
+2 Eventos$150.000
+## Recordación de citas
+médicas e ingesta de
+## Servicio de expertos en servicios de orientación
+telefónica, las 24 horas del día, los 365 días del año,
+cuando el cliente requiera que se le recuerde
+telefónicamente ingesta de medicamentos o citas
+médicas programadas. Assisprex organizará el
+calendario de llamadas y se comunicará con el
+cliente para hacer el recordatorio.
+## Referenciación de red
+de farmacias Aﬁliado titular y grupo
+lugares para la compra
+o alquiler de equipos
+## Referenciación de red de farmacias
+## Assisprex brindará información sobre la red de
+farmacias, droguerías o dispensarios en el territorio
+colombiano, a solicitud del usuario.
+## Referenciación de lugares para la compra o alquiler
+de equipos ortopédicos
+## Assisprex compartirá direcciones y números
+telefónicos de lugares en los cuales el usuario pueda
+comprar o alquilar equipos ortopédicos a nivel
+## Help Desk Telefónico Monto cobertura
+## HELP DESK TELEFÓNICO:
+## Se ofrece al usuario una asesoría telefónica sobre:
+instalación de whastapp, web whatsapp, chat GPT y
+creación de cuentas de redes sociales.
+## Adicionalmente, apoyo para la instalación de
+programas de Office. (Word, Excel, Power Point,
+Outlook), conﬁguración y tips para su utilización;
+conﬁguración de correo en Outlook, instalación y
+capacitación para utilizar herramientas
+especializadas como Skype, SkyDrive, Teams,
+comprobación de actualizaciones de sistema
+operativo, conﬁguración y tips en Windows y sistema
+operativo. La asesoría la realiza un ingeniero o
+## Asesoría Instalación
+## Whatsapp / Whatsapp
+## Excluye costos de licencias o costos
+asociados a la asesoría.
+## Asesoría creación de
+cuentas de redes
+## Asesoría remota para
+instalación de software
+1 Evento máximo 1
+## ACCESO A LOS SERVICIOS:
+Cuando, el usuario o grupo familiar requiera acceder a los servicios contemplados en este clausulado,
+surtir los siguientes pasos:
+1. El usuario o grupo familiar se comunicará al número 6017432355 en la ciudad de Bogotá o a la línea
+nacional 018000415888. El horario de atención es 365 días al año 7X24.
+2. El usuario o grupo familiar entregará al funcionario de Assisprex, los datos para identiﬁcarse como
+beneﬁciario y programar la asistencia requerida. La información que debe suministrar puede ser
+ubicación exacta del usuario, descripción de la situación, ayuda que requiera, etc.
+3. El personal que atiende la llamada conﬁrma al usuario si cuenta con la cobertura, previa validación del
+programa adquirido por el cliente.
+4. Si se cumplen los parámetros, Assisprex programará los servicios a través de su red de proveedores,
+acorde con las coberturas descritas en este clausulado.
+5. Si el usuario no cumple con los requisitos descritos, Assisprex no asume responsabilidad ni los gastos
+relacionados con la no prestación del servicio.
+## OBLIGACIONES DEL USUARIO:
+El usuario estará obligado en todos los casos y para todos los servicios que le serán brindados a:
+1. Obtener la autorización expresa de Assisprex del servicio, a través de la central telefónica en Colombia,
+antes de contratar cualquier tipo de servicio por cuenta propia.
+2. Acatar las recomendaciones suministradas por el proveedor frente a los servicios solicitados.
+3. Assisprex no realiza sumas de eventos o montos de cobertura para una sola cobertura por una sola
+emergencia o solicitud del usuario.
+4. Identiﬁcarse como usuario ante los proveedores antes de iniciar el servicio.
+5. Autorizar a la institución médica a Assisprex toda la documentación requerida (puede incluir la historia
+clínica) para la atención de un servicio.
+La prestación de cualquiera de los servicios, o el pago de cualquier suma de dinero derivada de la
+cobertura descrita en el presente clausulado, no implica ninguna clase de aceptación de responsabilidad
+por parte de Assisprex.
+Esta asistencia no cuenta con cláusula de permanencia.
+La tarifa de la asistencia será actualizada automáticamente, vencido el año de vigencia de la asistencia
+contratada, de acuerdo con el incremento del IPC, calculado al 31 de diciembre del año inmediatamente
+Assisprex reembolsará al usuario el valor que éste hubiese pagado por la ocurrencia de cualquiera de los
+eventos amparados en este clausulado y hasta por los límites allí indicados, siempre y cuando el aﬁliado
+cumpla con las obligaciones y procedimientos indicados a continuación:
+• Antes de contratar un servicio cubierto por el presente anexo, se debe obtener una autorización expresa
+por parte de Assisprex para autorizar al usuario a contratar el servicio con un proveedor fuera de la red. La
+autorización se debe solicitar telefónicamente, a cualquiera de los números indicados para prestar la
+• Cuando el usuario cuente con la autorización, deberá enviar las facturas originales que cumplan con los
+requisitos de ley, soportando los desembolsos realizados, acorde con los procedimientos indicados por
+• El usuario cuenta con 30 días calendario desde el momento de la aprobación por parte de Assisprex para
+radicar los documentos.
+Las cancelaciones deberán ser tramitadas por el usuario ante Assisprex o Banco de Occidente, quien es
+el ente recaudador y por lo mismo hace el control a través de su sistema.

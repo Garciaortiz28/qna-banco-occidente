@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=RzUTK6VnspY
+# Banco de Occidente I Vivienda Edufin
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=RzUTK6VnspY  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Porque Creemos en la educación financiera, queremos que conozcas como podrías conseguir tu vivienda propia. Te invitamos a conocer más acerca de temas de educación financiera en nuestro portal exclusivo, ingresando a: www.bancodeoccidente.com.co
+## Transcripción
+_Video sin subtítulos disponibles en español._

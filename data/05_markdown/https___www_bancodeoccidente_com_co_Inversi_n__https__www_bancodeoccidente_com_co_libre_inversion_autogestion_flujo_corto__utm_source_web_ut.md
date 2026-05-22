@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/Inversión: https:/www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=TercerNivel&utm_campaign=Interesar -->
+URL: https://www.bancodeoccidente.com.co/Inversión: https:/www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=TercerNivel&utm_campaign=Interesar

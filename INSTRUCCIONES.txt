@@ -1,0 +1,92 @@
+════════════════════════════════════════════════════════════════
+  INSTRUCCIONES DE INSTALACIÓN — Banco de Occidente v3.0
+════════════════════════════════════════════════════════════════
+
+PASO 1 — COPIAR LOS ARCHIVOS AL PROYECTO
+══════════════════════════════════════════
+Extraer el ZIP y copiar los archivos a C:\LLM_RAG\qna_banco_occidente\
+siguiendo esta guía:
+
+  RAÍZ DEL PROYECTO (qna_banco_occidente\):
+  ├── pyproject.toml          → REEMPLAZAR
+  ├── api.py                  → NUEVO
+  ├── chainlit_app.py         → NUEVO
+  ├── chainlit.md             → NUEVO
+  ├── n8n_workflow.json       → NUEVO
+  ├── supabase_setup.sql      → NUEVO
+  ├── Procfile                → NUEVO
+  ├── .gitignore              → NUEVO
+  ├── .env.example            → NUEVO (referencia, no reemplaza tu .env)
+  ├── diagnostico.py          → NUEVO
+
+  CARPETAS (crear si no existen):
+  ├── .chainlit\config.toml   → NUEVO
+  ├── .streamlit\config.toml  → REEMPLAZAR
+  ├── public\custom.css       → NUEVO
+  ├── public\voice.js         → NUEVO
+
+  01_codigos\ (REEMPLAZAR estos 7 archivos):
+  ├── config.py
+  ├── llm_chains.py
+  ├── 07_chunking.py
+  ├── tools.py
+  ├── agent_router.py
+  ├── database.py
+  ├── email_service.py
+  ├── tsne_analysis.py
+
+PASO 2 — COMPLETAR EL .env
+════════════════════════════
+Abrir tu .env y agregar al final (tienes GEMINI y YOUTUBE):
+
+  CHAINLIT_AUTH_SECRET=<ejecutar: python -c "import secrets; print(secrets.token_hex(32))">
+  SUPABASE_URL=https://xxx.supabase.co
+  SUPABASE_KEY=eyJhbGci...
+  RESEND_API_KEY=re_xxx
+  EMAIL_FROM=onboarding@resend.dev
+  LANGCHAIN_TRACING_V2=true
+  LANGCHAIN_API_KEY=ls__xxx
+  LANGCHAIN_PROJECT=banco_occidente_v3
+  TWILIO_ACCOUNT_SID=ACxxx
+  TWILIO_AUTH_TOKEN=xxx
+  TWILIO_WHATSAPP_FROM=whatsapp:+14155238886
+  PORT=8000
+
+PASO 3 — INSTALAR DEPENDENCIAS
+════════════════════════════════
+  uv sync --python 3.12
+
+PASO 4 — CONFIGURAR SUPABASE
+══════════════════════════════
+  1. Ir a supabase.com → tu proyecto → SQL Editor
+  2. Pegar el contenido de supabase_setup.sql
+  3. Clic en Run
+
+PASO 5 — REINDEXAR ChromaDB
+═════════════════════════════
+  python main.py --step chunks
+  (tarda 20-40 minutos — obligatorio al cambiar embeddings)
+
+PASO 6 — PROBAR LA API
+════════════════════════
+  uvicorn api:app --host 0.0.0.0 --port 8000 --reload
+  Abrir: http://localhost:8000/docs
+
+PASO 7 — PROBAR CHAINLIT
+══════════════════════════
+  chainlit run chainlit_app.py
+  Abrir: http://localhost:8000
+
+PASO 8 — VERIFICAR TODO
+═════════════════════════
+  python diagnostico.py
+
+════════════════════════════════════════════════════════════════
+  CUENTAS NECESARIAS (todas gratuitas para empezar):
+  • Supabase:   supabase.com
+  • Resend:     resend.com
+  • LangSmith:  smith.langchain.com
+  • Twilio:     twilio.com
+  • Railway:    railway.app (para deploy público)
+  • ngrok:      ngrok.com (para desarrollo local)
+════════════════════════════════════════════════════════════════

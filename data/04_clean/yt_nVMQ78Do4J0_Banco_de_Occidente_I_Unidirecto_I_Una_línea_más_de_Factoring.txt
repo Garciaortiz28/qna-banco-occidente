@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=nVMQ78Do4J0
+# Banco de Occidente I Unidirecto I Una línea más de Factoring
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=nVMQ78Do4J0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce esta herramienta que te otorga poder de negociar descuentos financieros con tus proveedores, aumentando plazos de pago acorde con tu ciclo operacional y mejorando tu liquidez.
+## Transcripción
+_Video sin subtítulos disponibles en español._

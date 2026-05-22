@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=tyZ58d8CY0E
+# Te damos la bienvenida al Banco de Occidente
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=tyZ58d8CY0E  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Nuestro compromiso contigo y tus metas comienzan ahora. Conoce el mensaje que tenemos para ti haciendo clic en el siguiente enlace ➡ bit.ly/BienvenidaBDO. 🤝
+## Transcripción
+_Video sin subtítulos disponibles en español._

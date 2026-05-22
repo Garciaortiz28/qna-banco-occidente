@@ -1,0 +1,21 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/segmentos/independientes -->
+URL: https://www.bancodeoccidente.com.co/segmentos/independientes
+# Independientes
+### Soy independiente, pero no estoy solo.
+### Conoce los productos que tenemos para ti
+## Disfruta de beneficios especiales
+### CDT Desmaterializado
+### Más que una plataforma, un beneficio para ti.
+Accede a un espacio creado para impulsar tu crecimiento personal y profesional, con contenidos diseñados para generar valor real en tu vida.
+#### Acceso gratuito a una plataforma exclusiva
+#### Contenidos prácticos para aprender y avanzar
+#### Herramientas que apoyan mejores decisiones
+#### Bienestar y desarrollo para tu día a día
+### Adquiere tu Tarjeta de Crédito
+Aprovecha nuestros descuentos, cashback o millas en cada compra con beneficios únicos para ti.
+Acumula millas y disfruta beneficios.
+5% de cashback en entretenimiento.
+Promociones y beneficios exclusivos.
+## Más que una plataforma, un respaldo para tu negocio
+Un espacio creado para acompañarte, brindarte conocimiento, conexiones y herramientas que impulsan el crecimiento de tu empresa.
+* Todos los campos son obligatorios.

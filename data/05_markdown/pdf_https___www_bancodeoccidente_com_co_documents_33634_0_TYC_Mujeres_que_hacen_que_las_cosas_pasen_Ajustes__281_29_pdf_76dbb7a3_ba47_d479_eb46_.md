@@ -1,0 +1,159 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/0/TYC+Mujeres+que+hacen+que+las+cosas+pasen+Ajustes+%281%29.pdf/76dbb7a3-ba47-d479-eb46-022659f38d7f?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/0/TYC+Mujeres+que+hacen+que+las+cosas+pasen+Ajustes+%281%29.pdf/76dbb7a3-ba47-d479-eb46-022659f38d7f?download=true
+# 76dbb7a3 ba47 d479 eb46 022659f38d7f?download=true
+## Campaña “Mujeres que hacen que las cosas pasen”
+La campaña denominada “Mujeres que hacen que las cosas pasen” (en adelante,
+la “Campaña”) tiene como objetivo incentivar a las mujeres a adquirir uno o más
+de los productos ofrecidos por el Banco , conforme a las condiciones y montos
+definidos para cada producto en la Campaña.
+Para ganar, las clientes deben cumplir con las Condiciones especiales y generales
+de la Campaña que se mencionan para cada Producto.
+• Banco/Entidad: Banco de Occidente S.A.
+• Cliente(s) participantes: Persona natural, Mujeres vinculadas al Banco de
+Occidente a través de uno de los productos financieros participantes en la
+• Trivia BdO: Es un juego que consiste en la modalidad de preguntas enviado
+vía correo electrónico, que constituye el registro del cliente para participar
+en el sorteo. Este se realizará a través del Cuestionario en Microsoft Forms.
+• Producto(s): Los productos del Banco que participan en la Campaña son:
+o Tarjeta de crédito.
+o Crédito de libre inversión.
+o Crédito vehículo.
+2. CONDICIONES ESPECIALES:
+2.1 Vigencia de la Campaña: La vigencia de la Campaña se llevará del
+día 01 de marzo de 2026 a las 12:01 am, hasta el 31 de marzo de 2026,
+a las 11:59 p.m. Solo se considerarán  los productos aprobados,
+aperturados y desembolsados , según corresponda,  dentro de l
+período de vigencia.
+2.2 ¿Quiénes pueden participar? Podrán participar l as clientes mujeres
+que cumplan con las siguientes condiciones:
+• Ser mujer cliente del Banco de Occidente  a través de los productos
+• Ser mayor de 18 años y residir legalmente en Colombia.
+• No estar en mora en cualquiera de sus otras obligaciones con el Banco.
+• Cumplir al menos uno de los siguientes criterios dentro del periodo de
+vigencia de la Campaña.
+## Premios y Mecánicas:
+Viaje a la ciudad de Cartagena para la titular de la obligación  y dos
+acompañantes, que incluye:
+• Tiquetes aéreos ida y regreso desde la ciudad de origen de la
+ganadora hasta la ciudad de Cartagena.
+• Alojamiento por dos (2) noches, 3 días.
+• Alimentación: desayuno, almuerzo y cena, según corresponda al
+• Traslados terrestres aeropuerto – hotel – aeropuerto.
+• Tarjeta de asistencia médica Assist Card para personas menores de
+sesenta y nueve (69) años.
+• Visita a Barú por vía terrestre, que incluye almuerzo.
+• Impuestos gubernamentales, incluido el Impuesto al Valor Agregado
+(IVA) del diecinueve por ciento (19 %).
+Para participar, las mujeres deberán durante la vigencia de la campaña, aperurar
+y desembolsar, según corresponda, de manera presencial o virtual al menos uno
+(1) de los productos participantes, cumpliendo con los montos mínimos
+establecidos para cada uno de ellos.
+## Los productos y montos participantes son:
+- Apertura CDT: ≥ $50.000.000 COP.
+- Apertura de kubo rentable ≥ $5.000.000 COP.
+- Aprobación y activación de tarjeta de crédito con un cupo
+aprobado≥ $10.000.000 COP.
+- Aprobación y desembolso de crédito de libre inversión por monto
+> $80.000.000 COP.
+- Aprobación y desembolso de crédito de vehículo por monto >
+$90.000.000 COP.
+Una vez verificado el cumplimiento de estas condiciones, se enviará al correo
+electrónico registrado en el Banco a las participantes habilitadas , una trivia con
+preguntas relacionadas con la conmemoración del Día Internacional de la Mujer
+Será ganadora del premio  principal la primera cliente que responda
+correctamente la totalidad de las preguntas de la trivia y cumpla con las
+condiciones anteriormente mencionad as. El premio será asignado de forma
+individual y no acumulable.
+## Premio de Oficina Ciudades Principales:
+Tres (3) pases de día de Spa dobles. Cada uno compuesto por un (1) pase de día
+de spa para la ganadora y un (1) acompañante.
+Podrán participar las mujeres que aperturen y desembolsen, según corresponda, al
+menos uno (1) de los productos participantes de manera presencial en las oficinas
+de las ciudades principales del P aís (Bogotá, Barranquilla , Medellin y Cali) ,
+cumpliendo con los montos mínimos establecidos para cada producto, dentro del
+- Apertura CDT: ≥ $30.000.000 COP.
+- Apertura de kubo rentable ≥ $3.000.000 COP.
+aprobado≥ $5.000.000 COP.
+> $20.000.000 COP.
+electrónico registrado en el Banco a las participantes habilitadas, una trivia con
+Serán ganadoras las  primeras tres (3 ) clientes que respondan correctamente la
+totalidad de las preguntas de la trivia y cumplan con las condiciones anteriormente
+mencionadas. Cada premio será asignado de forma individual y no acumulable.
+## Premio de Oficina Ciudades Sucursales:
+Se otorgará un (1) único premio, consistente en un (1) pase de día de spa para la
+ganadora y un (1) acompañante.
+Podrán participar en esta modalidad del concurso las mujeres que aperturen  y
+desembolsen, según corresponda, al menos uno (1) de los productos participantes
+de manera presencial en oficinas ubicadas en ciudades sucursales, es decir,
+ciudades distintas a  las ciudades principales, y que cumplan con los montos
+mínimos establecidos para cada producto, dentro del período de vigencia de la
+- Apertura CDT: ≥ $20.000.000 COP.
+- Apertura de kubo rentable ≥ $2.000.000 COP.
+aprobado≥ $3.000.000 COP.
+> $10.000.000 COP.
+Será ganadora la primera cliente que responda correctamente la totalidad de las
+preguntas de la trivia y cumpla con las condiciones mencionadas con anterioridad.
+El premio será asignado de forma individual y no acumulable.
+Las clientes que cumplan con los criterios de elegibilidad de participación
+establecidos para cada premio, recibirán en su correo electrónico
+registrado en el Banco un enlace único que lo direccionará un cuestionario
+de Microsoft Forms para diligenciar la Trivia.
+• No habrá ninguna transferencia, cesión, redención en efectivo ni sustitución
+del premio o de una parte de este. El premio no será redimible en dinero en
+• El(os) Premio(s) incluye(n) únicamente lo expresado en los presentes términos
+y condiciones, los gastos adicionales que se lleguen a causar con motivo del
+Premio serán asumidos por el Cliente.
+3. MECÁNICA DE LA CAMPAÑA:
+1. El cliente debe aperturar , adquirir y desembolsar, según corresponda,
+alguno de los productos mencionados en el numeral 2.2 de los Términos y
+2. Una vez validado el cumplimiento de los requisitos, el Banco enviará el día
+15 de abril de 2026, a las 8:00 a.m., al correo electrónico registrado por el
+cliente en el Banco , la Trivia BdO con preguntas sobre la conmemoración
+del día de la mujer.
+3. El cliente deberá responder la trivia el día 15 de abril de 2026 antes de las 3
+4. Será ganadora del premio principal, de los premios de Oficinas de Ciudades
+Principales y el premio de Oficina Ciudades Sucursales, las primeras clientes
+que respondan de manera correcta la totalidad de las preguntas de la Trivia
+y cumplan con las condiciones de participación de cada uno de los
+5. En caso de que el participante no cumpla con los requisitos establecidos, o
+la información suministrada en la trivia no sea correcta, será descalificado y
+se procederá a seleccionar un nuevo ganador en la misma forma. En caso
+de empate se priorizará la antigüedad en el Banco, es decir gana la cliente
+que lleve más tiempo vinculada a la Entidad.
+4.1. Entrega del Premio:
+El Banco de Occidente se comunicará con las ganadoras a través de los datos
+de contacto registrados en la base de datos de la Entidad, a más tardar el día
+viernes 17 de abril de 2026.
+Los ganadores deben firmar el acta de aceptación del premio  dentro de los
+quince (15) días hábiles siguientes al contacto, en caso contrario, será
+seleccionada la siguiente ganadora conforme a los criterios ya definidos  en la
+Campaña, y así sucesivamente hasta entregar la totalidad de los premios . La
+entrega del premio será coordinada por el área de mercadeo mediante correo
+4. CONDICIONES GENERALES:
+a. El Banco se reserva el derecho, a su entera discreción, de no considerar a
+b. Las ganadoras y/o participantes liberan al Banco de toda responsabilidad por
+cualquier daño, perjuicio o afectación a personas o bienes que pueda
+generarse con ocasión del uso del premio, ya sea por parte del titular o de
+c. El Banco podrá usar el nombre o imagen de  las ganadoras con fines
+publicitarios relacionados con la campaña.
+d. El banco no asumirá ninguna responsabilidad por el incumplimiento de sus
+e. Si por cualquier motivo o causa la presente Campaña no se puede llevar a
+funcionamiento, la seguridad, la transpare ncia, la integridad o imagen de la
+f. El banco se reserva el derecho de invalidar cualquier cliente que considere
+trató de manipular de forma ilícita o perjudicar la administración, la seguridad,
+la equidad o el desarrollo correcto de esta campaña.
+g. Cualquier intento de alguna persona por perjudicar el funcionamiento legítimo
+de esta actividad o de la aplicación podrá constituir una violación de las leyes
+civiles y penales, y en caso de producirse el intento, el Banco se reserva el
+derecho de solicitar indemnizaciones a dicha persona dentro de los límites de
+h. Las Clientes ganadoras relevan de toda responsabilidad al Banco de
+Occidente de cualquier daño, sobre las personas o las cosas, que se pudiesen
+ocasionar con el uso del premio, ya sea por su uso o el de terceras personas.
+i. Al participar el Tarjetahabiente entiende y acepta que el Banco contrató con
+terceros, por lo tanto, no asume responsabilidad en la calidad de los productos
+o servicios redimidos o cualquier aspecto relacionado con el servicio, la
+garantía e idoneidad de l os productos y/o servicios adquiridos por los
+Tarjetahabientes.
+5.  POLÍTICA DE PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL:
+6.  PROPIEDAD INTELECTUAL:
+7.  MODIFICACIONES:

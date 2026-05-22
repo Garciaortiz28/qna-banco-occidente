@@ -1,0 +1,13 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/segmentos/preferente-plus -->
+URL: https://www.bancodeoccidente.com.co/segmentos/preferente-plus
+#### Conoce las ventajas de Preferente Plus
+Descubre cómo acceder a este exclusivo segmento y aprovecha sus beneficios.
+#### Queremos estar contigo
+## Queremos estar contigo
+#### Disfruta de beneficios
+Preferenciales diseñados para ti, como: descuentos en tasas, en establecimientos de comercio y demás promociones.
+De un portafolio de productos y servicios diseñado para que avancemos hacia el siguiente nivel.
+### Segmento Preferente Plus
+De tu lado ponemos un mundo de posibilidades con beneficios que se adaptan a lo que realmente valoras.
+Ingresos mensuales $7.000.000 - $16.500.000
+Ingresos ventas anuales $200.000.000 - $599.000.000

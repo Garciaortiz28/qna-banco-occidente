@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=ocw53Tlou4Y
+# Comercio social
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=ocw53Tlou4Y  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a Sandra Catalina Yepes, CEO y Cofundadora Roma. Las redes sociales se han convertido en un gran aliado para las pymes para atender con éxito sus ventas y servicio al cliente.
+## Transcripción
+_Video sin subtítulos disponibles en español._

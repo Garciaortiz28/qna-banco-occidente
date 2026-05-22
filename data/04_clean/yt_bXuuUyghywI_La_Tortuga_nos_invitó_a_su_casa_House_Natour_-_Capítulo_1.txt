@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=bXuuUyghywI
+# La Tortuga nos invitó a su casa || House Natour - Capítulo 1
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=bXuuUyghywI  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Disfruta del primer episodio de la serie House Natour, un recorrido natural  creado por el Banco de Occidente y su Premio Nacional de Ecología Planeta Azul, un reconocimiento para empresas y organizaciones que protegen el agua y el medio ambiente. Regístrate aquí 👉  https://bit.ly/ConvocatoriaBDO
+## Transcripción
+_Video sin subtítulos disponibles en español._

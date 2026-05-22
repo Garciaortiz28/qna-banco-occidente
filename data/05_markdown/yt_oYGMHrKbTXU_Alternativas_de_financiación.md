@@ -1,0 +1,2 @@
+# Alternativas de financiación.
+Queremos compartirles las alternativas de financiamiento diferentes a las líneas tradicionales en pesos. Con estas pueden financiar sus obligaciones o proyectos en dolares, euros o yenes.

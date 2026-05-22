@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=8CodLY1UwS0
+
+# Lecciones PYME | Retos y oportunidades tecnológicas acelerados por la pandemia
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=8CodLY1UwS0  
+**Publicado:** 29/10/2020  
+**Duración:** 1:51:44  
+**Vistas:** 100  |  **Likes:** 1  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+¿Qué viene para las Pymes después de la pandemia? ¿Cuál es la “nueva normalidad” para la tecnología en las Pymes? Conoce en nuestra charla No. 3  las oportunidades y tendencias en tecnología generada en los tiempos de transformación.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

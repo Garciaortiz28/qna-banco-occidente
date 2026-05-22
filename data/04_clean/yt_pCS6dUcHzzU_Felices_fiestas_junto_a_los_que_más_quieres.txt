@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=pCS6dUcHzzU
+# ¡Felices fiestas junto a los que más quieres!
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=pCS6dUcHzzU  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Una fecha para disfrutar con nuestros seres queridos, compartir con alegría momentos especiales y celebrar los deseos cumplidos. #FelizNavidad para ti y para toda tu familia.
+## Transcripción
+_Video sin subtítulos disponibles en español._

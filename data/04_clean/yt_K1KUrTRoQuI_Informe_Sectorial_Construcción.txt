@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=K1KUrTRoQuI
+# Informe Sectorial Construcción
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=K1KUrTRoQuI  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Descubre este resumen de principales indicadores e información del sector de la construcción. 🚧🏗
+## Transcripción
+_Video sin subtítulos disponibles en español._

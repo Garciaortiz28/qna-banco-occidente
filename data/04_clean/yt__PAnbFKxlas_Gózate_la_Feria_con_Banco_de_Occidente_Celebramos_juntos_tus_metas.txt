@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=_PAnbFKxlas
+# ¡Gózate la Feria con Banco de Occidente! Celebramos juntos tus metas.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=_PAnbFKxlas  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Vive la Feria de las Flores en Medellín, donde la primavera nunca se va.
+## Transcripción
+_Video sin subtítulos disponibles en español._

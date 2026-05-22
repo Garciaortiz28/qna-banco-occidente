@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=B0q22O8uusU
+# Segmento Selecto
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=B0q22O8uusU  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Ser parte del Segmento Selecto del Banco de Occidente es vivir una experiencia única y permanente. Con beneficios diseñados para acompañarte siempre, disfrutarás de las mejores tasas en créditos, exoneración en cuotas de manejo, atención prioritaria en todos nuestros canales y mucho más. Porque ser selecto es para siempre.
+## Transcripción
+_Video sin subtítulos disponibles en español._

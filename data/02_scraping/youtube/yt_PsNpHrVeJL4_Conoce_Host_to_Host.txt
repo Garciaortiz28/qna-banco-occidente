@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=PsNpHrVeJL4
+
+# Conoce Host to Host
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=PsNpHrVeJL4  
+**Publicado:** 03/07/2025  
+**Duración:** 1:09  
+**Vistas:** 1,223  |  **Likes:** 11  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Gestiona las finanzas de tu empresa de forma ágil y segura con Host to Host. Habla con tu Gerente de Relación y optimiza tu tesorería y la integración directa con el banco.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

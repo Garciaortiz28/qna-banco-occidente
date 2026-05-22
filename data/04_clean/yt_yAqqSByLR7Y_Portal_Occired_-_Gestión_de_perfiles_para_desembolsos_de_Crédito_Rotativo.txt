@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=yAqqSByLR7Y
+# Portal Occired - Gestión de perfiles para desembolsos de Crédito Rotativo
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=yAqqSByLR7Y  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Aquí podrás conocer cómo crear los perfiles para el desembolso del Crédito Rotativo a través del Portal Occired. 
+Banco de Occidente, contigo donde estés. Conoce más: https://bit.ly/3llXfJr
+## Transcripción
+_Video sin subtítulos disponibles en español._

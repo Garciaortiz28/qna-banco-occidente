@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=5NMyWyVyxZk
+
+# Hacer para seguir haciendo
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=5NMyWyVyxZk  
+**Publicado:** 14/10/2021  
+**Duración:** 0:30  
+**Vistas:** 111,636  |  **Likes:** 215  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Todo lo que conseguiste solo fue un paso y este es el momento de seguir avanzando, porque todo lo que haces es para seguir haciendo más.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

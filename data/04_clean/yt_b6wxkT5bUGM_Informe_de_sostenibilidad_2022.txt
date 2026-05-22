@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=b6wxkT5bUGM
+# Informe de sostenibilidad 2022
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=b6wxkT5bUGM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Con orgullo y satisfacción queremos mostrarte algunos hitos que logramos en el 2022 de la mano de todo nuestro equipo y de todo un país que nos inspira y nos une. 🤝
+## Transcripción
+_Video sin subtítulos disponibles en español._

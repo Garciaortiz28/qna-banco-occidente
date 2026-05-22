@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=QiC864vp00A
+# Nuestros clientes Advance.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=QiC864vp00A  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Conoce todos los beneficios que tenemos para ti por ser cliente Advance.
+## Transcripción
+_Video sin subtítulos disponibles en español._

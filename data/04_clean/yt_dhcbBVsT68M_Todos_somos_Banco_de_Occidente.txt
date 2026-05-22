@@ -1,0 +1,7 @@
+# Todos somos Banco de Occidente
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Cada año el hacer nos mantiene unidos, porque todos hacemos parte de estos 59 años de transformación, crecimiento y desarrollo. 🙌¡Gracias por celebrar con nosotros esta fecha tan importante! 💙
+## Transcripción
+_Video sin subtítulos disponibles en español._

@@ -1,0 +1,2 @@
+# La estrategia adecuada de Marketing para tu empresa
+Daniel Jiménez, experto en marketing digital, nos habla en esta entrevista sobre cómo elegir una estategia de marketing que sea acorde a la empresa y que se ajuste a las necesidades y objetivos planteados. 💻

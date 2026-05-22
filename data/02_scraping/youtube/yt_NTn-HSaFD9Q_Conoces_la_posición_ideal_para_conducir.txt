@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=NTn-HSaFD9Q
+
+# ¿Conoces la posición ideal para conducir?
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=NTn-HSaFD9Q  
+**Publicado:** 27/10/2020  
+**Duración:** 2:00  
+**Vistas:** 1,916  |  **Likes:** 23  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

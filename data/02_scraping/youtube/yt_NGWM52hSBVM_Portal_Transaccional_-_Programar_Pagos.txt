@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=NGWM52hSBVM
+
+# Portal Transaccional - Programar Pagos
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=NGWM52hSBVM  
+**Publicado:** 13/04/2026  
+**Duración:** 1:40  
+**Vistas:** 157  |  **Likes:** 2  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conoce el paso a paso para programar tus pagos y obligaciones financieras desde nuestro portal transaccional.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

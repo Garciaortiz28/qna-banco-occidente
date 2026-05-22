@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=Gq1VBfkjlu4
+
+# Nuestros clientes Preferente.
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Gq1VBfkjlu4  
+**Publicado:** 08/02/2023  
+**Duración:** 0:52  
+**Vistas:** 439  |  **Likes:** 6  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Conoce todos los beneficios que tenemos para ti por ser cliente Preferente.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

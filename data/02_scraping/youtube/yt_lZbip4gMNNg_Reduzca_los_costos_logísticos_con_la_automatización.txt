@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=lZbip4gMNNg
+
+# Reduzca los costos logísticos con la automatización
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=lZbip4gMNNg  
+**Publicado:** 26/08/2022  
+**Duración:** 5:37  
+**Vistas:** 41  |  **Likes:** 1  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Entrevista a Alberto Aramayo, gerente de Beetrack para Colombia. La aplicación de estrategias adecuadas de automatización en los procesos de producción y entrega pueden otorgarles a las organizaciones márgenes de beneficio mucho más amplios, además de agilizar los procesos y fidelizar a los clientes.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

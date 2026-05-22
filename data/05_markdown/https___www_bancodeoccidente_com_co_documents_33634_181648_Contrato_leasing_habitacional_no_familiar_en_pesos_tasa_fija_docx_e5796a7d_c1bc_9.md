@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/33634/181648/Contrato-leasing-habitacional-no-familiar-en-pesos-tasa-fija.docx/e5796a7d-c1bc-940e-6691-0005af5681c8?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/33634/181648/Contrato-leasing-habitacional-no-familiar-en-pesos-tasa-fija.docx/e5796a7d-c1bc-940e-6691-0005af5681c8?download=true

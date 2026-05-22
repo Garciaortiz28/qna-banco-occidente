@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=L3Rr0RoDdAU
+# Aspectos importantes para la reducción de jornada laboral
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=L3Rr0RoDdAU  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Mira la entrevista que hicimos a Felipe Bonilla y conoce más detalles de esta ley que entró en vigencia desde el mes de julio.
+## Transcripción
+_Video sin subtítulos disponibles en español._

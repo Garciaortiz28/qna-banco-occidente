@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=NAlglvr0_4Q
+# Educación Financiera - Crédito formal vs. Crédito informal – Banco de Occidente
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=NAlglvr0_4Q  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Creemos en la educación financiera, por eso queremos informarte acerca de los beneficios del crédito formal y las implicaciones del crédito informal.  Te invitamos a conocer más acerca de temas de educación financiera en nuestro portal exclusivo, ingresando a: https://goo.gl/eKwM3X
+## Transcripción
+_Video sin subtítulos disponibles en español._

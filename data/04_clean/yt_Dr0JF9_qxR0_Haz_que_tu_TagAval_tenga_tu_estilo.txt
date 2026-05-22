@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Dr0JF9_qxR0
+# ¡Haz que tu #TagAval tenga tu estilo! 😎
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Dr0JF9_qxR0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Hazlo único con el nombre que prefieras y empieza a recibir dinero de forma rápida y segura. 🔐 ¿Bre-B, no? ​
+## Transcripción
+_Video sin subtítulos disponibles en español._

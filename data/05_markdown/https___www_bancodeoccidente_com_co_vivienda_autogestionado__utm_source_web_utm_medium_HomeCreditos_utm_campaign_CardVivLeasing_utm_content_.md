@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/vivienda-autogestionado/?utm_source=web&utm_medium=HomeCreditos&utm_campaign=CardVivLeasing&utm_content=06_01_26 -->
+URL: https://www.bancodeoccidente.com.co/vivienda-autogestionado/?utm_source=web&utm_medium=HomeCreditos&utm_campaign=CardVivLeasing&utm_content=06_01_26

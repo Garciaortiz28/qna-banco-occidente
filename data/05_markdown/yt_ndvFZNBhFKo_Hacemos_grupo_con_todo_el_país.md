@@ -1,0 +1,2 @@
+# ¡Hacemos grupo con todo el país!
+En Banco de Occidente hacemos grupo conGrupo Aval y con quienes están #DelLadoDeLosQueHacen. ¡Hacemos grupo con todo el país! 🤝 Conoce el nuevo manifiesto del propósito de marca de Grupo Aval. 🙌

@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/documents/39956/62940/fto-cap-145-formato-de-contrato-productos-y-servicios0-v80.xlsx/e634ffc7-d0e1-e2e0-125f-ec04216b0f3c?download=true -->
+URL: https://www.bancodeoccidente.com.co/documents/39956/62940/fto-cap-145-formato-de-contrato-productos-y-servicios0-v80.xlsx/e634ffc7-d0e1-e2e0-125f-ec04216b0f3c?download=true

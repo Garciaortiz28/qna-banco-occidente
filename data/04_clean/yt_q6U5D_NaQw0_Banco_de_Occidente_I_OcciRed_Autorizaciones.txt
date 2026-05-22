@@ -1,0 +1,7 @@
+URL: https://www.youtube.com/watch?v=q6U5D_NaQw0
+# Banco de Occidente I  OcciRed Autorizaciones
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=q6U5D_NaQw0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Transcripción
+_Video sin subtítulos disponibles en español._

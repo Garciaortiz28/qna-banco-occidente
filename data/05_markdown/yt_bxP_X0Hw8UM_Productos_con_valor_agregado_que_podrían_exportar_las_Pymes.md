@@ -1,0 +1,5 @@
+<!-- fuente: https://www.youtube.com/watch?v=bxP_X0Hw8UM -->
+URL: https://www.youtube.com/watch?v=bxP_X0Hw8UM
+# Productos con valor agregado que podrían exportar las Pymes
+**URL:** https://www.youtube.com/watch?v=bxP_X0Hw8UM
+Entrevista a Ana Mónica Ramírez, analista de contextualización en Sectorial. Análisis muestran que las exportaciones por parte de las Pymes han aumentado y que un mayor número de empresas han encontrado mayores oportunidades en las ventas externas. Expertos recomiendan revisar las nuevas alternativas que han surgido y que pueden ser atractivas para que las pymes se lancen a la conquista del mercado externo.

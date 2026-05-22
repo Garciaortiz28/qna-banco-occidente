@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=d_ANOpuQd80
+# Banco de occidente, del lado de los que hacen
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=d_ANOpuQd80  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Llegó el momento de dejar atrás los “me gustaría” y los “ojalá pudiera”, es hora de hacer que las cosas pasen.
+## Transcripción
+_Video sin subtítulos disponibles en español._

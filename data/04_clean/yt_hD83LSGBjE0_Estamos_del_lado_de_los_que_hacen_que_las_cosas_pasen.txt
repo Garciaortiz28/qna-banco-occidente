@@ -1,0 +1,10 @@
+URL: https://www.youtube.com/watch?v=hD83LSGBjE0
+# Estamos del lado de los que hacen que las cosas pasen
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=hD83LSGBjE0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Más allá de ofrecerte productos y servicios financieros, te conocemos, acompañamos y reconocemos.
+Estamos contigo. Conoce cómo estamos trabajando de tu lado en https://cutt.ly/4hcpzTf.
+## Transcripción
+_Video sin subtítulos disponibles en español._

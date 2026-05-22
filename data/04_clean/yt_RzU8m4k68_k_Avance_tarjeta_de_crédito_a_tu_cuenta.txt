@@ -1,0 +1,7 @@
+URL: https://www.youtube.com/watch?v=RzU8m4k68_k
+# Avance tarjeta de crédito a tu cuenta
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=RzU8m4k68_k  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Transcripción
+_Video sin subtítulos disponibles en español._

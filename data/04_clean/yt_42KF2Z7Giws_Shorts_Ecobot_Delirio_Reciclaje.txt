@@ -1,0 +1,7 @@
+URL: https://www.youtube.com/watch?v=42KF2Z7Giws
+# #Shorts #Ecobot #Delirio #Reciclaje
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=42KF2Z7Giws  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Transcripción
+_Video sin subtítulos disponibles en español._

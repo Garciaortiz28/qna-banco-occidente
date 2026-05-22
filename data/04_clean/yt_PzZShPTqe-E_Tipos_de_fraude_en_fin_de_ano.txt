@@ -1,0 +1,7 @@
+# Tipos de fraude en fin de año
+**Fuente:** YouTube — Banco de Occidente  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+No te pierdas la entrevista a Angel Huerta, auditor forense de control Risk.
+## Transcripción
+_Video sin subtítulos disponibles en español._

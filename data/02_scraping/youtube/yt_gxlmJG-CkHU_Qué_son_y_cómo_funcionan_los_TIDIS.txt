@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=gxlmJG-CkHU
+
+# ¿Qué son y cómo funcionan los TIDIS?
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=gxlmJG-CkHU  
+**Publicado:** 24/02/2021  
+**Duración:** 7:32  
+**Vistas:** 3,635  |  **Likes:** 24  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Aprende con nuestros expertos sobre el uso y funcionamiento de los TIDIS, además descubre las oportunidades que puedes tener con ellos.
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

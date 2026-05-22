@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=LtoqZgPV3uA
+# Haz avances con tu Tarjeta de Crédito Credencial
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=LtoqZgPV3uA  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Este es el momento de hacerlo. Conoce más en https://cutt.ly/3gF8UgG
+## Transcripción
+_Video sin subtítulos disponibles en español._

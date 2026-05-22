@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Nlheh2jA4Jk
+# Retención en la fuente por pagos salariales
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Nlheh2jA4Jk  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a: Maria Salas Negrete Líder del área legal de Russell Bedford
+## Transcripción
+_Video sin subtítulos disponibles en español._

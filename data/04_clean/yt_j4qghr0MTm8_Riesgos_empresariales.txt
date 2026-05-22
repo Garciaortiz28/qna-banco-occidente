@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=j4qghr0MTm8
+# Riesgos empresariales
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=j4qghr0MTm8  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a: Daniel Hurtado – Experto en aseguramiento y auditoria.
+## Transcripción
+_Video sin subtítulos disponibles en español._

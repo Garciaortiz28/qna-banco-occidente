@@ -1,0 +1,18 @@
+URL: https://www.youtube.com/watch?v=9vgIX3pf6m4
+
+# ¿Cuáles son los riesgos de la Inteligencia Artificial?
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=9vgIX3pf6m4  
+**Publicado:** 17/05/2023  
+**Duración:** 6:10  
+**Vistas:** 164  |  **Likes:** 5  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Descripción del video
+
+Descubre junto a nuestro invitado Ueric Melo, Gerente de Ciberseguridad y Privacidad de Genetec, cómo las empresas deben protegerse de los riesgos que pueden traer la inteligencia artificial. 💻¿Qué opinas tú sobre esta nueva tendencia global? Cuéntanos en los comentarios. ⬇
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

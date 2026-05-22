@@ -1,0 +1,6 @@
+<!-- fuente: https://www.youtube.com/watch?v=6wtmJ-3_2GA -->
+URL: https://www.youtube.com/watch?v=6wtmJ-3_2GA
+# Invitación de Transmilenio S.A. para participar en la XV Convocatoria Premio Planeta Azul
+**URL:** https://www.youtube.com/watch?v=6wtmJ-3_2GA
+Desde Transmilenio S.A., ganadores del Gran Premio Planeta Azul en la categoría Empresarial (2014 – 2015), con su proyecto “Optimización de recursos por recirculación y tratamiento de agua, en el alistamiento diario de la flota troncal del sistema Transmilenio Fases I y II”, nos cuentan como con la implementación del proyecto han optimizado la utilización de recursos en la operación del sistema de transporte masivo.
+Inscríbete hasta el 30 de septiembre en la XV Convocatoria Premio Nacional de Ecología Planeta Azul. Conoce más aquí: https://cutt.ly/DEYasw1

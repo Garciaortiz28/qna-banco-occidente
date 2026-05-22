@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=MPMKaMdDgK8
+# Gracias, mamás
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=MPMKaMdDgK8  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Feliz día a las madres que hacen que todo sea posible, por animarnos, por enseñarnos a creer y por mostrarnos la belleza de la vida. Gracias!
+## Transcripción
+_Video sin subtítulos disponibles en español._

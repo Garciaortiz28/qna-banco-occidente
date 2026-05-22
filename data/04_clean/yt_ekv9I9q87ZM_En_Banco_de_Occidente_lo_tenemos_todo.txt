@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=ekv9I9q87ZM
+# En Banco de Occidente lo tenemos todo
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=ekv9I9q87ZM  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Estamos del lado de tus proyectos y metas, porque cuando trabajamos juntos, es cuando construimos y aportamos más a nuestro país. 🙌
+## Transcripción
+_Video sin subtítulos disponibles en español._

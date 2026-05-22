@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=2COyYpYIFy0
+# Aprender a realizar donaciones desde nuestro Portal Transaccional
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=2COyYpYIFy0  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Con estos movimientos podrás apoyar a las fundaciones aliadas del Banco de Occidente. Estamos #ContigoDondeEstés
+## Transcripción
+_Video sin subtítulos disponibles en español._

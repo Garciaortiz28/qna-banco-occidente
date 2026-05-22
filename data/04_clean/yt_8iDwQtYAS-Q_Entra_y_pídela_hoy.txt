@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=8iDwQtYAS-Q
+# Entra y pídela hoy.
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=8iDwQtYAS-Q  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Con nuestro Portafolio Credencial, tendrás tarjetas con beneficios que sí usas. Pide tu Credencial aquí.
+## Transcripción
+_Video sin subtítulos disponibles en español._

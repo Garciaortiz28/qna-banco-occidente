@@ -1,0 +1,2 @@
+<!-- fuente: https://www.bancodeoccidente.com.co/solicitud-tarjeta-credito/?utm_source=web&utm_medium=InternaPrimeraTarjeta&utm_campaign=BannerPpal -->
+URL: https://www.bancodeoccidente.com.co/solicitud-tarjeta-credito/?utm_source=web&utm_medium=InternaPrimeraTarjeta&utm_campaign=BannerPpal

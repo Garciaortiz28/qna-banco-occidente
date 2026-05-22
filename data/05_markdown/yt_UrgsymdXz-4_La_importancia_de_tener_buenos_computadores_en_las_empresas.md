@@ -1,0 +1,2 @@
+# La importancia de tener buenos computadores en las empresas
+¿Es importante la tecnología para alcanzar mejores resultados? 💻Descúbrelo en esta entrevista junto a Matías Berardi, Sales Account Manager de AMD. 👨‍💻👩‍💻

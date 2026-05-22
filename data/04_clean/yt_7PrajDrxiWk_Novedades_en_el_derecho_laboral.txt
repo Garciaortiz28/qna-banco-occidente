@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=7PrajDrxiWk
+# Novedades en el derecho laboral
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=7PrajDrxiWk  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Una entrevista junto al abogado, Carlos Castillo, en donde hablamos sobre las actulizaciones recientes en el campo del derecho laboral. 💻#TuComunidadEmpresarial
+## Transcripción
+_Video sin subtítulos disponibles en español._

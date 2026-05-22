@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=a91qmljbHUs
+# Lecciones PYME | La era de los pagos digitales en las Pymes
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=a91qmljbHUs  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+En nuestra charla No. 6 de Lecciones Pyme, conoce la importancia de los medios de pago electrónicos. Estos permiten a los consumidores realizar sus compras de un modo eficiente y seguro, facilitando al empresario la administración de sus negocios y reduciendo el costo del manejo de efectivo.
+## Transcripción
+_Video sin subtítulos disponibles en español._

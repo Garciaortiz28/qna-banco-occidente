@@ -1,0 +1,14 @@
+URL: https://www.youtube.com/watch?v=yFiFeJGiFGY
+
+# Banco de Occidente I Aprendiendo de derivados
+
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=yFiFeJGiFGY  
+**Publicado:** 25/06/2018  
+**Duración:** 1:15:31  
+**Vistas:** 357  |  **Likes:** 7  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+
+## Transcripción
+
+_Video sin subtítulos disponibles en español._

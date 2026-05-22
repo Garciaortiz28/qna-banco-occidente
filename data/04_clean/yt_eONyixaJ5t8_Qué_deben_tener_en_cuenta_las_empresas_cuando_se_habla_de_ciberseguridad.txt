@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=eONyixaJ5t8
+# ¿Qué deben tener en cuenta las empresas cuando se habla de ciberseguridad?
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=eONyixaJ5t8  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a Felipe Gómez, LATAM Manager de Fluid Attacks donde conversamos sobre la importancia de la ciberseguridad y cómo combatirla.
+## Transcripción
+_Video sin subtítulos disponibles en español._

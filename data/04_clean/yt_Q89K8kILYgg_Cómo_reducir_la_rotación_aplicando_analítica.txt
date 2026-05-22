@@ -1,0 +1,9 @@
+URL: https://www.youtube.com/watch?v=Q89K8kILYgg
+# Cómo reducir la rotación aplicando analítica
+**Fuente:** YouTube — Banco de Occidente  
+**URL:** https://www.youtube.com/watch?v=Q89K8kILYgg  
+**Subtítulos:** error: type object 'YouTubeTranscriptApi' has no attribute 'list_tr
+## Descripción del video
+Entrevista a Víctor Hoyos, director operativo de Cala Analytics. Los empleados son el recurso más importante de cualquier empresa, es por eso que es fundamental conocer sus desempeños e intereses, y para lograr este propósito la tecnología de análisis de datos resulta de gran ayuda.
+## Transcripción
+_Video sin subtítulos disponibles en español._
