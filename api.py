@@ -78,25 +78,18 @@ class HealthResponse(BaseModel):
 async def lifespan(app: FastAPI):
     print("🚀 Asistente Virtual BdO — API iniciada")
 
-    # Pre-cargar agente y embeddings para evitar Twilio timeout en cold start
-    # Sin esto, el primer request puede tardar 60+ seg y Twilio cancela la conexion
+    # Pre-cargar solo el agente (rápido: ping a Groq + conexión Supabase)
+    # Los embeddings cargan en el primer request (550MB, demasiado para startup)
     try:
         print("[startup] Pre-cargando agente...")
         await asyncio.to_thread(get_agent)
         print("[startup] ✅ Agente listo")
-
-        print("[startup] Pre-cargando embeddings...")
-        from llm_chains import _load_vector_store  # type: ignore
-        await asyncio.to_thread(_load_vector_store)
-        print("[startup] ✅ Embeddings listos")
-
         print("[startup] ✅ Sistema listo para recibir mensajes")
     except Exception as e:
-        print(f"[startup] ⚠️ Error en pre-carga: {e} — el sistema sigue funcionando")
+        print(f"[startup] ⚠️ Error en pre-carga: {e}")
 
     yield
 
-    # Shutdown limpio
     print("🛑 Cerrando API...")
     shutdown()
 
