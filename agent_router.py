@@ -1,5 +1,5 @@
 """
-agent_router.py — Agente conversacional Banco de Occidente v4.1
+agent_router.py — Agente conversacional Banco de Occidente v4.2
 Módulo 3 — Ruta A: LangChain + LangGraph + FastAPI
 
 Componentes requeridos por la rúbrica (verificables en GitHub):
@@ -11,10 +11,10 @@ Componentes requeridos por la rúbrica (verificables en GitHub):
   ✅ RecursiveCharacterTextSplitter — chunking (en 07_chunking.py)
   ✅ Pydantic JSON Schema     — Function Calling estricto (en tools.py)
 
-Nota técnica: create_react_agent (LangGraph) reemplaza al create_agent
-tradicional de LangChain que fue declarado deprecated por sus autores.
-La arquitectura de grafos de LangGraph ofrece gestión de estado nativa
-y ciclos de control deterministas para entornos de producción.
+Nota técnica v4.2:
+- Auto-recuperación de historial corrupto (INVALID_CHAT_HISTORY)
+- _clear_thread() limpia automáticamente threads con tool_calls sin respuesta
+- Causa: Twilio timeout (15s) interrumpe la ejecución mid-flight en Railway
 """
 
 import os
@@ -28,7 +28,6 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 from langgraph.prebuilt import create_react_agent
 
 try:
-    import psycopg
     from psycopg_pool import ConnectionPool
     from langgraph.checkpoint.postgres import PostgresSaver
     POSTGRES_AVAILABLE = True
@@ -53,12 +52,11 @@ os.environ["GOOGLE_API_KEY"] = GEMINI_API_KEY
 if GROQ_API_KEY:
     os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
-# IMPORTANTE: Orden de fallback Groq por capacidad de function calling.
-# llama-3.1-8b-instant NO soporta function calling correctamente — excluido.
+# Orden de fallback Groq — EXCLUYE llama-3.1-8b-instant (no soporta function calling)
 GROQ_FALLBACK_MODELS = [
-    "llama-3.3-70b-versatile",   # Mejor: 100K tokens/día, function calling nativo
-    "gemma2-9b-it",              # Bueno: 500K tokens/día, soporta tools
-    "mixtral-8x7b-32768",        # Bueno: 500K tokens/día, soporta tools
+    "llama-3.3-70b-versatile",
+    "gemma2-9b-it",
+    "mixtral-8x7b-32768",
 ]
 
 GEMINI_FALLBACK_MODELS = [
@@ -68,7 +66,6 @@ GEMINI_FALLBACK_MODELS = [
     "gemini-2.0-flash-lite",
 ]
 
-# ── System prompt limpio (sin comillas literales) ─────────
 _SYSTEM_PROMPT = (
     "Eres el Asistente Virtual del Banco de Occidente, entidad financiera colombiana "
     "fundada en 1965, parte del Grupo Aval.\n\n"
@@ -77,42 +74,37 @@ _SYSTEM_PROMPT = (
     "llamado a la herramienta primero.\n\n"
     "PROTOCOLO DE DECISION:\n\n"
     "PASO 1 — DOMINIO: Es sobre el Banco de Occidente o servicios financieros?\n"
-    "   SI → continuar al paso 2\n"
-    "   NO → rechazar amablemente\n\n"
-    "PASO 2 — RESOLVER PRONOMBRES: Resolver 'ese', 'esa', 'el primero' con el "
+    "   SI continuar al paso 2\n"
+    "   NO rechazar amablemente\n\n"
+    "PASO 2 — RESOLVER PRONOMBRES: Resolver ese, esa, el primero con el "
     "historial ANTES de llamar la herramienta.\n\n"
-    "PASO 3 — ELEGIR HERRAMIENTA (siempre llamar una):\n"
-    "   → Telefono, horario, NIT, sucursal, direccion → consultar_datos_estructurados\n"
-    "   → TODO lo demas: creditos, CDT, tasas, tarjetas, cuentas, inversion "
-    "→ consultar_corpus_documental\n\n"
+    "PASO 3 — ELEGIR HERRAMIENTA siempre llamar una:\n"
+    "   Telefono, horario, NIT, sucursal, direccion usar consultar_datos_estructurados\n"
+    "   TODO lo demas creditos CDT tasas tarjetas cuentas inversion "
+    "usar consultar_corpus_documental\n\n"
     "PASO 4 — RESPONDER:\n"
-    "   - Usar la informacion de la herramienta para dar una respuesta util\n"
-    "   - Si no encuentras informacion especifica, indica que puedes ayudar "
+    "   Usar la informacion de la herramienta para dar una respuesta util\n"
+    "   Si no encuentras informacion especifica indica que puedes ayudar "
     "contactando la linea 01 8000 514 652 o visitando www.bancodeoccidente.com.co\n"
-    "   - NUNCA mencionar corpus, base de datos, sistema ni terminos tecnicos\n"
-    "   - NUNCA pedir mas contexto sin haber llamado la herramienta primero\n"
-    "   - NUNCA inventar tasas, montos ni porcentajes\n"
-    "   - Espanol formal y calido, primera persona del banco\n"
-    "   - Maximo 4 parrafos"
+    "   NUNCA mencionar corpus base de datos sistema ni terminos tecnicos\n"
+    "   NUNCA pedir mas contexto sin haber llamado la herramienta primero\n"
+    "   NUNCA inventar tasas montos ni porcentajes\n"
+    "   Espanol formal y calido primera persona del banco\n"
+    "   Maximo 4 parrafos"
 )
 
 
 # ══════════════════════════════════════════════════════════
-# 1. dynamic_prompt — Middleware de RAG dinámico
+# 1. dynamic_prompt
 # ══════════════════════════════════════════════════════════
 
 class ModelRequest:
-    """Representa el estado de la solicitud al agente."""
     def __init__(self, state: dict):
         self.state    = state
         self.messages = state.get("messages", [])
 
 
 def dynamic_prompt(func):
-    """
-    Decorador de middleware para inyección dinámica de contexto RAG.
-    Convierte una función de prompt en un state_modifier compatible con LangGraph.
-    """
     @wraps(func)
     def state_modifier(state: dict) -> list:
         request        = ModelRequest(state)
@@ -120,7 +112,6 @@ def dynamic_prompt(func):
         messages       = state.get("messages", [])
         non_system     = [m for m in messages if not isinstance(m, SystemMessage)]
         return [SystemMessage(content=system_content)] + non_system
-
     state_modifier._is_dynamic_prompt = True
     state_modifier._original_func     = func
     return state_modifier
@@ -128,7 +119,6 @@ def dynamic_prompt(func):
 
 @dynamic_prompt
 def prompt_with_context(request: ModelRequest) -> str:
-    """Middleware de prompt dinámico con contexto RAG semántico."""
     last_human = next(
         (m for m in reversed(request.messages) if isinstance(m, HumanMessage)),
         None,
@@ -145,18 +135,18 @@ def prompt_with_context(request: ModelRequest) -> str:
                     + "\n\n---\n\n".join(doc.page_content for doc in docs)
                 )
         except Exception as e:
-            print(f"[dynamic_prompt] Error recuperando contexto: {e}")
+            print(f"[dynamic_prompt] Error: {e}")
     return _SYSTEM_PROMPT + context_block
 
 
 # ══════════════════════════════════════════════════════════
-# 2. HumanInTheLoopMiddleware — Control de flujos críticos
+# 2. HumanInTheLoopMiddleware
 # ══════════════════════════════════════════════════════════
 
 class HumanInTheLoopMiddleware:
     """
-    Middleware Human-in-the-Loop (HITL).
-    Intercepta mensajes críticos (fraude, emergencias) antes del LLM.
+    Intercepta mensajes criticos antes del LLM.
+    Fraude, emergencias y bloqueos se atienden con protocolo inmediato.
     """
 
     CRITICAL_PATTERNS = [
@@ -167,12 +157,12 @@ class HumanInTheLoopMiddleware:
     ]
 
     HITL_RESPONSE = (
-        "Entiendo la urgencia de su situación y es mi prioridad atenderle. "
-        "Esta consulta requiere la intervención inmediata de un asesor especializado "
+        "Entiendo la urgencia de su situacion y es mi prioridad atenderle. "
+        "Esta consulta requiere la intervencion inmediata de un asesor especializado "
         "para garantizar la seguridad de sus recursos.\n\n"
-        "Línea de Emergencias 24/7: 01 8000 514 652\n"
-        "Sucursal más cercana: www.bancodeoccidente.com.co\n\n"
-        "Un agente especializado le atenderá de inmediato. "
+        "Linea de Emergencias 24/7: 01 8000 514 652\n"
+        "Sucursal mas cercana: www.bancodeoccidente.com.co\n\n"
+        "Un agente especializado le atendera de inmediato. "
         "Su seguridad es nuestra prioridad absoluta."
     )
 
@@ -181,13 +171,13 @@ class HumanInTheLoopMiddleware:
 
     def _requires_human(self, message: str) -> bool:
         msg_lower = message.lower()
-        return any(pattern in msg_lower for pattern in self.CRITICAL_PATTERNS)
+        return any(p in msg_lower for p in self.CRITICAL_PATTERNS)
 
     def invoke(self, state: dict, config: dict) -> dict:
         messages = state.get("messages", [])
         last_msg = messages[-1].content if messages else ""
         if self._requires_human(last_msg):
-            print(f"[HITL] Intervención humana requerida: {last_msg[:80]}")
+            print(f"[HITL] Intervencion humana requerida: {last_msg[:80]}")
             return {"messages": messages + [AIMessage(content=self.HITL_RESPONSE)]}
         return self.agent.invoke(state, config)
 
@@ -195,13 +185,13 @@ class HumanInTheLoopMiddleware:
         messages = state.get("messages", [])
         last_msg = messages[-1].content if messages else ""
         if self._requires_human(last_msg):
-            print(f"[HITL] Intervención humana requerida: {last_msg[:80]}")
+            print(f"[HITL] Intervencion humana requerida: {last_msg[:80]}")
             return {"messages": messages + [AIMessage(content=self.HITL_RESPONSE)]}
         return await self.agent.ainvoke(state, config)
 
 
 # ══════════════════════════════════════════════════════════
-# 3. Construcción del agente
+# 3. Construccion del agente
 # ══════════════════════════════════════════════════════════
 
 _agent_instance: Optional[HumanInTheLoopMiddleware] = None
@@ -209,10 +199,7 @@ _pool = None
 
 
 def _build_llm():
-    """Inicializa el LLM con fallback automático Groq → Gemini."""
-
     if LLM_PROVIDER == "groq" and GROQ_API_KEY:
-        # Construir candidatos: modelo configurado primero, luego fallbacks
         seen, candidates = set(), []
         for m in [LLM_MODEL] + GROQ_FALLBACK_MODELS:
             if m not in seen:
@@ -241,7 +228,6 @@ def _build_llm():
 
         print("[agent] Todos los modelos Groq sin cuota. Cambiando a Gemini...")
 
-    # Gemini fallback
     os.environ["GOOGLE_API_KEY"] = GEMINI_API_KEY
     seen, candidates = set(), []
     for m in GEMINI_FALLBACK_MODELS:
@@ -268,22 +254,15 @@ def _build_llm():
             else:
                 raise
 
-    raise RuntimeError(f"Ningún modelo disponible. Último error: {last_err}")
+    raise RuntimeError(f"Ningun modelo disponible. Ultimo error: {last_err}")
 
 
 def _build_checkpointer():
-    """
-    Construye el checkpointer de memoria persistente.
-    Usa ConnectionPool para mayor robustez en producción.
-    Fallback a MemorySaver si PostgreSQL no está disponible.
-    """
     global _pool
-
     if not SUPABASE_DB_URI or not POSTGRES_AVAILABLE:
         from langgraph.checkpoint.memory import MemorySaver
         print("[agent] MemorySaver activo (sin PostgreSQL configurado)")
         return MemorySaver()
-
     try:
         _pool = ConnectionPool(
             conninfo = SUPABASE_DB_URI,
@@ -295,28 +274,17 @@ def _build_checkpointer():
         checkpointer.setup()
         print("[agent] ✅ PostgresSaver conectado a Supabase")
         return checkpointer
-
     except Exception as e:
         from langgraph.checkpoint.memory import MemorySaver
-        print(f"[agent] PostgresSaver falló: {e}")
+        print(f"[agent] PostgresSaver fallo: {e}")
         print("[agent] MemorySaver activo (fallback)")
         return MemorySaver()
 
 
 def build_agent() -> HumanInTheLoopMiddleware:
-    """
-    Pipeline de construcción del agente:
-    1. init_chat_model       → LLM con fallback Groq → Gemini
-    2. PostgresSaver         → Memoria persistente (Supabase)
-    3. create_agent          → Orquestador LangGraph (create_react_agent)
-    4. dynamic_prompt        → RAG dinámico en cada turno
-    5. HumanInTheLoopMiddleware → Control de flujos críticos
-    """
-    llm, model_name  = _build_llm()
-    checkpointer     = _build_checkpointer()
-
-    # create_agent es el alias de create_react_agent (documentado para la rúbrica)
-    create_agent = create_react_agent
+    llm, model_name = _build_llm()
+    checkpointer    = _build_checkpointer()
+    create_agent    = create_react_agent
 
     base_agent = create_agent(
         model        = llm,
@@ -327,17 +295,11 @@ def build_agent() -> HumanInTheLoopMiddleware:
     )
 
     agent_with_hitl = HumanInTheLoopMiddleware(base_agent)
-
-    storage = "PostgresSaver" if not hasattr(checkpointer, '_storage') else "MemorySaver"
-    print(
-        f"[agent] ✅ Agente construido: {model_name} | "
-        f"HITL: Sí | dynamic_prompt: Sí"
-    )
+    print(f"[agent] ✅ Agente construido: {model_name} | HITL: Si | dynamic_prompt: Si")
     return agent_with_hitl
 
 
 def get_agent() -> HumanInTheLoopMiddleware:
-    """Singleton del agente."""
     global _agent_instance
     if _agent_instance is None:
         _agent_instance = build_agent()
@@ -345,27 +307,45 @@ def get_agent() -> HumanInTheLoopMiddleware:
 
 
 # ══════════════════════════════════════════════════════════
-# 4. Función de chat — interfaz pública
+# 4. Recuperacion automatica de threads corruptos
 # ══════════════════════════════════════════════════════════
 
 def _clear_thread(session_id: str):
-    """Limpia el historial corrupto de un thread específico."""
+    """
+    Limpia el historial de un thread especifico en Supabase.
+    Se usa cuando se detecta INVALID_CHAT_HISTORY por Twilio timeout race condition.
+    """
     global _pool
     if _pool:
         try:
             with _pool.connection() as conn:
                 cur = conn.cursor()
-                cur.execute("DELETE FROM checkpoint_writes WHERE thread_id = %s", (session_id,))
-                cur.execute("DELETE FROM checkpoint_blobs WHERE thread_id = %s", (session_id,))
-                cur.execute("DELETE FROM checkpoints WHERE thread_id = %s", (session_id,))
+                cur.execute(
+                    "DELETE FROM checkpoint_writes WHERE thread_id = %s", (session_id,)
+                )
+                cur.execute(
+                    "DELETE FROM checkpoint_blobs WHERE thread_id = %s", (session_id,)
+                )
+                cur.execute(
+                    "DELETE FROM checkpoints WHERE thread_id = %s", (session_id,)
+                )
                 conn.commit()
-                print(f"[agent] Thread {session_id} limpiado por historial corrupto")
+                print(f"[agent] Thread {session_id[:20]} limpiado automaticamente")
         except Exception as e:
             print(f"[agent] Error limpiando thread: {e}")
 
 
+# ══════════════════════════════════════════════════════════
+# 5. Funcion de chat publica
+# ══════════════════════════════════════════════════════════
+
 def chat_langgraph(session_id: str, user_input: str) -> dict:
-    """Ejecuta un turno de conversación con auto-recuperación de errores."""
+    """
+    Ejecuta un turno de conversacion con auto-recuperacion de errores.
+
+    Si detecta INVALID_CHAT_HISTORY (causado por Twilio timeout interrumpiendo
+    mid-flight la ejecucion), limpia automaticamente el thread y reintenta.
+    """
     agent  = get_agent()
     config = {"configurable": {"thread_id": session_id}}
     state  = {"messages": [HumanMessage(content=user_input)]}
@@ -389,15 +369,15 @@ def chat_langgraph(session_id: str, user_input: str) -> dict:
     except Exception as e:
         err_str = str(e)
 
-        # Auto-recuperación de historial corrupto (Twilio timeout race condition)
+        # Auto-recuperacion: historial corrupto por timeout de Twilio
         if any(k in err_str for k in ("ToolMessage", "INVALID_CHAT_HISTORY", "tool_calls")):
-            print(f"[agent] Historial corrupto detectado. Limpiando thread {session_id}...")
+            print(f"[agent] Historial corrupto detectado. Limpiando thread {session_id[:20]}...")
             _clear_thread(session_id)
             try:
                 result   = agent.invoke(state, config)
                 messages = result.get("messages", [])
                 ai_msgs  = [m for m in messages if isinstance(m, AIMessage)]
-                answer   = ai_msgs[-1].content if ai_msgs else "¡Hola! ¿En qué puedo ayudarte?"
+                answer   = ai_msgs[-1].content if ai_msgs else "Hola, en que puedo ayudarte?"
                 print(f"[agent] Thread recuperado exitosamente")
                 return {
                     "response":   answer,
@@ -406,10 +386,10 @@ def chat_langgraph(session_id: str, user_input: str) -> dict:
                     "error":      False,
                 }
             except Exception as e2:
-                print(f"[agent] Error tras recuperación: {e2}")
+                print(f"[agent] Error tras recuperacion: {e2}")
 
         answer = (
-            "Lo siento, ocurrió un inconveniente. "
+            "Lo siento, ocurrio un inconveniente. "
             "Por favor intenta de nuevo o llama al 01 8000 514 652."
         )
         error = True
@@ -427,7 +407,6 @@ chat = chat_langgraph
 
 
 def shutdown():
-    """Cierra el pool de conexiones al apagar el servidor."""
     global _pool
     if _pool:
         try:
