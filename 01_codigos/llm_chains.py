@@ -27,7 +27,7 @@ load_dotenv()
 # ── Configuración ─────────────────────────────────────────
 EMBEDDING_MODEL      = os.getenv(
     "EMBEDDING_MODEL",
-    "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+    "sentence-transformers/all-MiniLM-L6-v2"
 )
 SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", "0.10"))
 

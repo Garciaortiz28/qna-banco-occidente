@@ -27,8 +27,12 @@ load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # ── Configuración de embeddings ─────────────────────────
-# Google text-embedding-004: 768 dim, estado del arte
-EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+# all-MiniLM-L6-v2: 384 dims, 90 MB RAM — compatible con Railway (512 MB)
+# paraphrase-multilingual-mpnet-base-v2: 768 dims, 1.1 GB — NO cabe en Railway
+EMBEDDING_MODEL = os.getenv(
+    "EMBEDDING_MODEL",
+    "sentence-transformers/all-MiniLM-L6-v2"
+)
 
 
 # ── Configuración de chunking ───────────────────────────
@@ -38,7 +42,7 @@ BATCH_SIZE    = 20   # Google embeddings API: batches pequeños para respetar qu
 
 print(f"""
 ╔══════════════════════════════════════════════════════╗
-║  CHUNKING + INDEXACIÓN — Google text-embedding-004  ║
+║  CHUNKING + INDEXACIÓN — HuggingFace Embeddings     ║
 ║  Modelo: {EMBEDDING_MODEL:<40} ║
 ║  Chunk size: {CHUNK_SIZE}  │  Overlap: {CHUNK_OVERLAP}  │  Batch: {BATCH_SIZE}          ║
 ╚══════════════════════════════════════════════════════╝
@@ -239,7 +243,7 @@ def run_chunking_pipeline() -> int:
     print("\n[2/3] Dividiendo en chunks...")
     texts, metadatas = _chunk_documents(documents)
 
-    print("\n[3/3] Indexando en ChromaDB con Google text-embedding-004...")
+    print(f"\n[3/3] Indexando en ChromaDB con {EMBEDDING_MODEL}...")
     indexed = _index_to_chromadb(texts, metadatas)
 
     elapsed = time.time() - t0
