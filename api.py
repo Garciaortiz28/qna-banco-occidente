@@ -190,7 +190,10 @@ async def twilio_webhook(request: Request):
         return JSONResponse(content={"status": "ignored"})
 
     try:
-        result        = await asyncio.to_thread(chat_langgraph, from_number, message_body)
+        result = await asyncio.wait_for(
+            asyncio.to_thread(chat_langgraph, from_number, message_body),
+            timeout=13.0,
+        )
         response_text = result["response"]
 
         twiml = (
@@ -200,6 +203,17 @@ async def twilio_webhook(request: Request):
             '</Response>'
         )
         return FastResponse(content=twiml, media_type="application/xml")
+
+    except asyncio.TimeoutError:
+        print(f"[webhook/twilio] Timeout 13s — {from_number}")
+        twiml_timeout = (
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<Response>\n'
+            '    <Message><Body>Estoy procesando tu consulta. '
+            'Por favor envia el mensaje nuevamente en unos segundos.</Body></Message>\n'
+            '</Response>'
+        )
+        return FastResponse(content=twiml_timeout, media_type="application/xml")
 
     except Exception as e:
         print(f"[webhook/twilio] Error: {e}")

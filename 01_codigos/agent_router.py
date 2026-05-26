@@ -220,95 +220,116 @@ _agent_instance: Optional[HumanInTheLoopMiddleware] = None
 _pool = None
 
 
+class _FallbackModels:
+    """
+    Wrapper sobre with_fallbacks() compatible con create_react_agent.
+
+    LangGraph llama internamente a model.bind_tools(tools). Esta clase
+    propaga ese bind a cada modelo de la cadena y devuelve un
+    RunnableWithFallbacks donde todos los modelos tienen las herramientas
+    pre-configuradas para function calling.
+
+    En runtime, si el modelo primario devuelve 429 u otro error, LangChain
+    cambia automaticamente al siguiente fallback sin reiniciar el proceso.
+
+    Nota tecnica: cast(BaseChatModel, model) en LangGraph es un no-op en
+    Python — no realiza conversion de tipo. Por eso, si el objeto tiene
+    bind_tools(), Python lo llama directamente aunque no sea BaseChatModel.
+    """
+
+    def __init__(self, primary, fallbacks):
+        self._primary   = primary
+        self._fallbacks = fallbacks
+        # Cadena de fallback para llamadas directas (ping, etc.)
+        self._chain = primary.with_fallbacks(
+            fallbacks,
+            exceptions_to_handle=(Exception,),
+        )
+
+    def bind_tools(self, tools, **kwargs):
+        """
+        Propaga bind_tools a cada modelo y retorna un RunnableWithFallbacks.
+        Llamado por create_react_agent internamente para configurar
+        function calling en todos los modelos de la cadena.
+        """
+        print(f"[agent] Binding {len(tools)} tool(s) a la cadena de fallback...")
+        bound_primary   = self._primary.bind_tools(tools, **kwargs)
+        bound_fallbacks = [m.bind_tools(tools, **kwargs) for m in self._fallbacks]
+        return bound_primary.with_fallbacks(
+            bound_fallbacks,
+            exceptions_to_handle=(Exception,),
+        )
+
+    def invoke(self, input, config=None, **kwargs):
+        return self._chain.invoke(input, config, **kwargs)
+
+    async def ainvoke(self, input, config=None, **kwargs):
+        return await self._chain.ainvoke(input, config, **kwargs)
+
+
 def _build_llm():
     """
-    Inicializa el LLM con fallback automático Groq → Gemini.
+    Inicializa el LLM usando with_fallbacks() para switch instantaneo en runtime.
 
-    Orden de prioridad Groq (todos soportan function calling):
-      llama-3.3-70b-versatile → gemma2-9b-it → mixtral-8x7b-32768
+    Cadena de prioridad:
+      llama-3.3-70b-versatile → gemma2-9b-it → mixtral-8x7b-32768 → gemini-2.5-flash
 
-    NOTA: llama-3.1-8b-instant está excluido — no soporta function calling
-    correctamente y genera errores 400 tool_use_failed.
+    Usa _FallbackModels para propagar bind_tools() a cada modelo de la cadena,
+    manteniendo compatibilidad con create_react_agent de LangGraph.
+
+    NOTA: llama-3.1-8b-instant excluido — no soporta function calling.
     """
-
-    # ── Diagnóstico: explicar por qué se omite Groq si aplica ────────────
+    # ── Diagnostico: explicar por que se omite Groq si aplica ────────────
     if LLM_PROVIDER != "groq":
         print(f"[agent] LLM_PROVIDER='{LLM_PROVIDER}' (distinto de 'groq') → omitiendo Groq")
     elif not GROQ_API_KEY:
-        print("[agent] ⚠️ GROQ_API_KEY no configurado (vacío) → omitiendo Groq")
+        print("[agent] ⚠️ GROQ_API_KEY no configurado (vacio) → omitiendo Groq")
 
-    # ── Intentar Groq ─────────────────────────────────────────────────────
-    if LLM_PROVIDER == "groq" and GROQ_API_KEY:
-        # Construir candidatos: modelo configurado primero, luego fallbacks
-        # (sin duplicados, preservando orden de prioridad)
-        seen, candidates = set(), []
-        for m in [LLM_MODEL] + GROQ_FALLBACK_MODELS:
-            if m not in seen:
-                candidates.append(m)
-                seen.add(m)
-
-        last_err = None
-        for m in candidates:
-            try:
-                print(f"[agent] Probando Groq: {m}")
-                llm = init_chat_model(
-                    model          = m,
-                    model_provider = "groq",
-                    temperature    = 0.2,
-                )
-                llm.invoke([HumanMessage(content="ping")])
-                print(f"[agent] ✅ Groq activo: {m}")
-                return llm, m
-            except Exception as e:
-                err_str = str(e)
-                err_low = err_str.lower()
-                # Errores recuperables → intentar siguiente modelo Groq
-                # 400: modelo no disponible / tool_use_failed temporal
-                # 429: rate limit / cuota diaria agotada
-                if any(k in err_low for k in (
-                    "429", "quota", "rate_limit", "rate limit",
-                    "tokens per", "limit", "400", "unavailable",
-                    "service_unavailable",
-                )):
-                    print(f"[agent] {m} no disponible: {err_str[:120]}")
-                    last_err = e
-                    continue
-                # Error no recuperable (auth, red, etc.) → propagar inmediatamente
-                print(f"[agent] Error fatal con Groq {m}: {err_str[:120]}")
-                raise
-
-        print("[agent] Todos los modelos Groq no disponibles → cambiando a Gemini...")
-
-    # ── Fallback Gemini (último recurso) ──────────────────────────────────
     os.environ["GOOGLE_API_KEY"] = GEMINI_API_KEY
-    seen, candidates = set(), []
-    for m in GEMINI_FALLBACK_MODELS:
-        if m not in seen:
-            candidates.append(m)
-            seen.add(m)
 
-    last_err = None
-    for m in candidates:
-        try:
-            print(f"[agent] Probando Gemini: {m}")
-            llm = init_chat_model(
-                model          = m,
-                model_provider = "google_genai",
-                temperature    = 0.2,
-                top_p          = 0.9,
-            )
-            llm.invoke([HumanMessage(content="ping")])
-            print(f"[agent] ✅ Gemini activo: {m}")
-            return llm, m
-        except Exception as e:
-            err_low = str(e).lower()
-            if any(k in err_low for k in ("404", "not_found", "429", "quota", "unavailable")):
-                print(f"[agent] Gemini {m} no disponible: {str(e)[:80]}")
-                last_err = e
-                continue
-            raise
+    llm_gemini = init_chat_model(
+        model          = GEMINI_MODEL,
+        model_provider = "google_genai",
+        temperature    = 0.2,
+        top_p          = 0.9,
+    )
 
-    raise RuntimeError(f"Ningún modelo disponible. Último error: {last_err}")
+    if LLM_PROVIDER == "groq" and GROQ_API_KEY:
+        llm_primary = init_chat_model(
+            model          = LLM_MODEL,
+            model_provider = "groq",
+            temperature    = 0.2,
+        )
+        llm_fb1 = init_chat_model(
+            model          = "gemma2-9b-it",
+            model_provider = "groq",
+            temperature    = 0.2,
+        )
+        llm_fb2 = init_chat_model(
+            model          = "mixtral-8x7b-32768",
+            model_provider = "groq",
+            temperature    = 0.2,
+        )
+
+        llm = _FallbackModels(
+            primary   = llm_primary,
+            fallbacks = [llm_fb1, llm_fb2, llm_gemini],
+        )
+        model_name = f"{LLM_MODEL} + fallbacks (gemma2, mixtral, {GEMINI_MODEL})"
+        print(f"[agent] Cadena: {LLM_MODEL} → gemma2-9b-it → mixtral-8x7b-32768 → {GEMINI_MODEL}")
+    else:
+        llm        = llm_gemini
+        model_name = GEMINI_MODEL
+        print(f"[agent] Usando Gemini: {GEMINI_MODEL}")
+
+    print("[agent] Verificando cadena con ping...")
+    try:
+        llm.invoke([HumanMessage(content="ping")])
+        print(f"[agent] LLM activo: {model_name}")
+    except Exception as e:
+        raise RuntimeError(f"Ningun modelo disponible. Error: {e}")
+
+    return llm, model_name
 
 
 def _build_checkpointer():
