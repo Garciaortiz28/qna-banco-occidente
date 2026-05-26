@@ -9,8 +9,8 @@ __pycache__/
 *.pyc
 *.pyo
 
-# ChromaDB (demasiado grande para GitHub)
-data/08_chroma/
+# ChromaDB (demasiado grande para GitHub)#
+#data/08_chroma/
 
 # Archivos temporales
 *.log

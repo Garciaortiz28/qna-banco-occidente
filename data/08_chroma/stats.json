@@ -1,0 +1,28 @@
+{
+  "total_chunks": 5234,
+  "avg_chars_per_chunk": 537,
+  "total_chars": 2813431,
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "embedding_type": "local_sentence_transformers",
+  "chunk_size": 700,
+  "chunk_overlap": 120,
+  "fecha_creacion": "2026-05-09T15:54:10.133852",
+  "distribucion_categorias": {
+    "general": 266,
+    "institucional": 2207,
+    "cuentas": 147,
+    "tarjetas": 168,
+    "creditos": 282,
+    "inversion": 72,
+    "empresarial": 1394,
+    "seguros": 302,
+    "digital": 110,
+    "atencion": 246,
+    "legal": 40
+  },
+  "distribucion_fuentes": {
+    "html": 4299,
+    "youtube": 461,
+    "pdf": 474
+  }
+}
