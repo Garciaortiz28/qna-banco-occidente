@@ -68,6 +68,18 @@ GEMINI_FALLBACK_MODELS = [
     "gemini-2.0-flash-lite",
 ]
 
+EMBEDDING_MODEL = os.getenv(
+    "EMBEDDING_MODEL",
+    "sentence-transformers/all-MiniLM-L6-v2"
+)
+
+# ── Diagnóstico de variables de entorno (visible en logs de Railway) ──────
+print(f"[config] LLM_PROVIDER={LLM_PROVIDER}")
+print(f"[config] GROQ_API_KEY={'SET' if GROQ_API_KEY else 'MISSING'}")
+print(f"[config] LLM_MODEL={LLM_MODEL}")
+print(f"[config] EMBEDDING_MODEL={EMBEDDING_MODEL}")
+print(f"[config] SUPABASE_DB_URI={'SET' if SUPABASE_DB_URI else 'MISSING'}")
+
 # ── System prompt limpio (sin comillas literales) ─────────
 _SYSTEM_PROMPT = (
     "Eres el Asistente Virtual del Banco de Occidente, entidad financiera colombiana "
@@ -209,10 +221,26 @@ _pool = None
 
 
 def _build_llm():
-    """Inicializa el LLM con fallback automático Groq → Gemini."""
+    """
+    Inicializa el LLM con fallback automático Groq → Gemini.
 
+    Orden de prioridad Groq (todos soportan function calling):
+      llama-3.3-70b-versatile → gemma2-9b-it → mixtral-8x7b-32768
+
+    NOTA: llama-3.1-8b-instant está excluido — no soporta function calling
+    correctamente y genera errores 400 tool_use_failed.
+    """
+
+    # ── Diagnóstico: explicar por qué se omite Groq si aplica ────────────
+    if LLM_PROVIDER != "groq":
+        print(f"[agent] LLM_PROVIDER='{LLM_PROVIDER}' (distinto de 'groq') → omitiendo Groq")
+    elif not GROQ_API_KEY:
+        print("[agent] ⚠️ GROQ_API_KEY no configurado (vacío) → omitiendo Groq")
+
+    # ── Intentar Groq ─────────────────────────────────────────────────────
     if LLM_PROVIDER == "groq" and GROQ_API_KEY:
         # Construir candidatos: modelo configurado primero, luego fallbacks
+        # (sin duplicados, preservando orden de prioridad)
         seen, candidates = set(), []
         for m in [LLM_MODEL] + GROQ_FALLBACK_MODELS:
             if m not in seen:
@@ -232,16 +260,26 @@ def _build_llm():
                 print(f"[agent] ✅ Groq activo: {m}")
                 return llm, m
             except Exception as e:
-                err = str(e).lower()
-                if any(k in err for k in ("429", "quota", "rate_limit", "tokens", "limit", "400")):
-                    print(f"[agent] {m} no disponible: {str(e)[:80]}")
+                err_str = str(e)
+                err_low = err_str.lower()
+                # Errores recuperables → intentar siguiente modelo Groq
+                # 400: modelo no disponible / tool_use_failed temporal
+                # 429: rate limit / cuota diaria agotada
+                if any(k in err_low for k in (
+                    "429", "quota", "rate_limit", "rate limit",
+                    "tokens per", "limit", "400", "unavailable",
+                    "service_unavailable",
+                )):
+                    print(f"[agent] {m} no disponible: {err_str[:120]}")
                     last_err = e
-                else:
-                    raise
+                    continue
+                # Error no recuperable (auth, red, etc.) → propagar inmediatamente
+                print(f"[agent] Error fatal con Groq {m}: {err_str[:120]}")
+                raise
 
-        print("[agent] Todos los modelos Groq sin cuota. Cambiando a Gemini...")
+        print("[agent] Todos los modelos Groq no disponibles → cambiando a Gemini...")
 
-    # Gemini fallback
+    # ── Fallback Gemini (último recurso) ──────────────────────────────────
     os.environ["GOOGLE_API_KEY"] = GEMINI_API_KEY
     seen, candidates = set(), []
     for m in GEMINI_FALLBACK_MODELS:
@@ -263,10 +301,12 @@ def _build_llm():
             print(f"[agent] ✅ Gemini activo: {m}")
             return llm, m
         except Exception as e:
-            if any(k in str(e).lower() for k in ("404", "not_found", "429", "quota")):
+            err_low = str(e).lower()
+            if any(k in err_low for k in ("404", "not_found", "429", "quota", "unavailable")):
+                print(f"[agent] Gemini {m} no disponible: {str(e)[:80]}")
                 last_err = e
-            else:
-                raise
+                continue
+            raise
 
     raise RuntimeError(f"Ningún modelo disponible. Último error: {last_err}")
 
