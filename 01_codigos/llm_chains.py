@@ -1,12 +1,16 @@
 """
-llm_chains.py — Motor RAG v4.1
+llm_chains.py — Motor RAG v4.2
 Banco de Occidente — Módulo 3
+
+Cambios v4.2:
+- Logging exhaustivo en _load_vector_store y _retrieve_context para
+  diagnóstico remoto en Railway (modelo, ruta, scores, threshold)
+- Diagnóstico al importar el módulo (modelo + ruta ChromaDB)
 
 Cambios v4.1:
 - Eliminado import ChatGoogleGenerativeAI (no usado, causaba FutureWarning)
 - Corregida indentación de HuggingFaceEmbeddings
 - Agregado normalize_embeddings=True para mejor similitud coseno
-- Logging estructurado
 """
 
 import os
@@ -31,42 +35,73 @@ EMBEDDING_MODEL      = os.getenv(
 )
 SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", "0.10"))
 
+# ── Diagnóstico al importar (visible en logs de Railway) ──
+print(f"[rag] EMBEDDING_MODEL={EMBEDDING_MODEL}")
+print(f"[rag] SIMILARITY_THRESHOLD={SIMILARITY_THRESHOLD}")
+print(f"[rag] CHROMA_DIR={CHROMA_DIR}")
+print(f"[rag] CHROMA_COLLECTION={CHROMA_COLLECTION}")
+
 
 @lru_cache(maxsize=1)
 def _load_vector_store() -> Chroma:
     """Carga ChromaDB una sola vez (singleton via lru_cache)."""
-    embedding_fn = HuggingFaceEmbeddings(
-        model_name    = EMBEDDING_MODEL,
-        model_kwargs  = {"device": "cpu"},
-        encode_kwargs = {"normalize_embeddings": True},
-    )
-    client = chromadb.PersistentClient(path=str(CHROMA_DIR))
-    client.get_or_create_collection(CHROMA_COLLECTION)
-    return Chroma(
+    print(f"[rag] Cargando modelo de embeddings: {EMBEDDING_MODEL}")
+    try:
+        embedding_fn = HuggingFaceEmbeddings(
+            model_name    = EMBEDDING_MODEL,
+            model_kwargs  = {"device": "cpu"},
+            encode_kwargs = {"normalize_embeddings": True},
+        )
+        print(f"[rag] Modelo de embeddings cargado OK")
+    except Exception as e:
+        print(f"[rag] ERROR cargando modelo de embeddings: {e}")
+        raise
+
+    print(f"[rag] Conectando a ChromaDB en: {CHROMA_DIR}")
+    try:
+        client = chromadb.PersistentClient(path=str(CHROMA_DIR))
+        col    = client.get_or_create_collection(CHROMA_COLLECTION)
+        total  = col.count()
+        print(f"[rag] ChromaDB OK — coleccion '{CHROMA_COLLECTION}' con {total} chunks")
+        if total == 0:
+            print(f"[rag] ADVERTENCIA: coleccion vacia — el RAG no retornara resultados")
+    except Exception as e:
+        print(f"[rag] ERROR conectando a ChromaDB: {e}")
+        raise
+
+    store = Chroma(
         client             = client,
         collection_name    = CHROMA_COLLECTION,
         embedding_function = embedding_fn,
     )
+    print(f"[rag] Vector store listo")
+    return store
 
 
 def _retrieve_context(query: str, k: int = 5) -> tuple:
     """Recupera los k chunks más relevantes del corpus."""
+    print(f"[rag] Buscando: '{query[:60]}'")
+    print(f"[rag] Modelo={EMBEDDING_MODEL} | Threshold={SIMILARITY_THRESHOLD} | k={k}")
+
     store = _load_vector_store()
+
     try:
         results = store.similarity_search_with_relevance_scores(query, k=k)
+        print(f"[rag] Resultados brutos: {len(results)}")
+        for doc, score in results[:3]:
+            print(f"[rag]   score={score:.3f} | '{doc.page_content[:70].strip()}'")
     except Exception as e:
-        print(f"[rag] Error en búsqueda: {e}")
+        print(f"[rag] ERROR en similarity_search: {e}")
         return "", []
 
     relevant = [(doc, score) for doc, score in results if score >= SIMILARITY_THRESHOLD]
+    print(f"[rag] Relevantes sobre threshold {SIMILARITY_THRESHOLD}: {len(relevant)}/{len(results)}")
 
     if not relevant:
-        if results:
-            scores = [f"{s:.3f}" for _, s in results[:3]]
-            print(f"[rag] Sin resultados sobre umbral {SIMILARITY_THRESHOLD}. Top scores: {scores}")
+        print(f"[rag] NINGUNO supera el threshold — retornando REFUSAL_MSG")
         return "", []
 
-    print(f"[rag] {len(relevant)} chunks relevantes (top score: {relevant[0][1]:.3f})")
+    print(f"[rag] Top score: {relevant[0][1]:.3f} | Retornando {len(relevant)} chunks")
     docs_text = "\n\n---\n\n".join(doc.page_content for doc, _ in relevant)
     return docs_text, [doc for doc, _ in relevant]
 
