@@ -78,12 +78,14 @@ class HealthResponse(BaseModel):
 async def lifespan(app: FastAPI):
     print("🚀 Asistente Virtual BdO — API iniciada")
 
-    # Pre-cargar solo el agente (rápido: ping a Groq + conexión Supabase)
-    # Los embeddings cargan en el primer request (550MB, demasiado para startup)
     try:
         print("[startup] Pre-cargando agente...")
         await asyncio.to_thread(get_agent)
         print("[startup] ✅ Agente listo")
+        print("[startup] Pre-cargando embeddings (90MB, rapido)...")
+        from llm_chains import _load_vector_store  # type: ignore
+        await asyncio.to_thread(_load_vector_store)
+        print("[startup] ✅ Embeddings listos")
         print("[startup] ✅ Sistema listo para recibir mensajes")
     except Exception as e:
         print(f"[startup] ⚠️ Error en pre-carga: {e}")
@@ -171,12 +173,66 @@ async def chat_endpoint(request: ChatRequest):
         raise HTTPException(status_code=500, detail=f"Error interno: {str(e)[:300]}")
 
 
+async def _process_voice_background(from_number: str, media_url: str, to_number: str):
+    """Procesa la nota de voz en segundo plano y envía respuesta via Twilio API."""
+    import os
+    from twilio.rest import Client
+
+    account_sid   = os.getenv("TWILIO_ACCOUNT_SID")
+    auth_token    = os.getenv("TWILIO_AUTH_TOKEN")
+    from_whatsapp = os.getenv("TWILIO_WHATSAPP_FROM", "whatsapp:+14155238886")
+    twilio_client = Client(account_sid, auth_token)
+
+    try:
+        # 1. Transcribir
+        from transcription import transcribe_whatsapp_audio
+        texto = await asyncio.to_thread(transcribe_whatsapp_audio, media_url)
+        if not texto:
+            texto = "Hola, ¿en qué puedo ayudarte?"
+        print(f"[voice_bg] Transcripción: '{texto[:80]}'")
+
+        # 2. Procesar con el agente
+        result = await asyncio.to_thread(chat_langgraph, from_number, texto)
+        response_text = result["response"]
+
+        # 3. Generar audio (opcional)
+        audio_url = None
+        try:
+            from tts_service import text_to_audio_url
+            audio_url = await asyncio.to_thread(text_to_audio_url, response_text)
+        except Exception as e:
+            print(f"[voice_bg] TTS fallido (enviando solo texto): {e}")
+
+        # 4. Enviar respuesta via Twilio API
+        msg_params = {
+            "from_": from_whatsapp,
+            "to": from_number,
+            "body": response_text[:1600],
+        }
+        if audio_url:
+            msg_params["media_url"] = [audio_url]
+
+        twilio_client.messages.create(**msg_params)
+        print(f"[voice_bg] Respuesta enviada a {from_number}")
+
+    except Exception as e:
+        print(f"[voice_bg] Error: {e}")
+        try:
+            twilio_client.messages.create(
+                from_=from_whatsapp,
+                to=from_number,
+                body="Lo siento, no pude procesar tu nota de voz. Escríbeme el texto o llama al 01 8000 514 652.",
+            )
+        except Exception:
+            pass
+
+
 @app.post("/webhook/twilio", tags=["WhatsApp"])
 async def twilio_webhook(request: Request):
     """
     Webhook Twilio WhatsApp con soporte de notas de voz.
-    Texto normal: procesa directamente.
-    Nota de voz: transcribe con Groq Whisper, luego procesa.
+    Texto normal: procesa con timeout 13s.
+    Nota de voz: ACK inmediato + procesamiento en background via Twilio REST API.
     """
     import urllib.parse
 
@@ -188,24 +244,28 @@ async def twilio_webhook(request: Request):
     media_url    = data.get("MediaUrl0", "")
     media_type   = data.get("MediaContentType0", "")
 
-    # Detectar nota de voz
+    if not from_number:
+        return JSONResponse(content={"status": "ignored"})
+
     is_voice_note = bool(media_url and "audio" in media_type.lower())
 
+    # NOTAS DE VOZ: responder inmediatamente + procesar en background
     if is_voice_note:
-        print(f"[webhook] Nota de voz recibida de {from_number} | tipo: {media_type}")
-        try:
-            from transcription import transcribe_whatsapp_audio
-            transcribed = await asyncio.to_thread(transcribe_whatsapp_audio, media_url)
-            if transcribed:
-                message_body = transcribed
-                print(f"[webhook] Transcripción exitosa: '{message_body[:80]}'")
-            else:
-                message_body = "El usuario envió una nota de voz."
-        except Exception as e:
-            print(f"[webhook] Error transcribiendo: {e}")
-            message_body = "Hola, ¿en qué puedo ayudarte?"
+        print(f"[webhook] Nota de voz de {from_number} — lanzando background task")
+        asyncio.create_task(
+            _process_voice_background(from_number, media_url, from_number)
+        )
+        twiml_ack = (
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<Response>\n'
+            '    <Message><Body>\U0001f3a4 Recibí tu nota de voz, '
+            'dame un momento para escucharte...</Body></Message>\n'
+            '</Response>'
+        )
+        return FastResponse(content=twiml_ack, media_type="application/xml")
 
-    if not from_number or not message_body:
+    # TEXTO: procesar con timeout como antes
+    if not message_body:
         return JSONResponse(content={"status": "ignored"})
 
     try:
@@ -214,35 +274,12 @@ async def twilio_webhook(request: Request):
             timeout=13.0,
         )
         response_text = result["response"]
-
-        # Generar audio de respuesta si es nota de voz y VOICE_RESPONSE=true
-        audio_url = None
-        if is_voice_note:
-            try:
-                from tts_service import text_to_audio_url
-                audio_url = await asyncio.to_thread(text_to_audio_url, response_text)
-            except Exception as e:
-                print(f"[webhook] Error generando audio respuesta: {e}")
-
-        # Construir TwiML con o sin audio
-        if audio_url:
-            twiml = (
-                '<?xml version="1.0" encoding="UTF-8"?>\n'
-                '<Response>\n'
-                '    <Message>\n'
-                f'        <Body>{response_text[:1600]}</Body>\n'
-                f'        <Media>{audio_url}</Media>\n'
-                '    </Message>\n'
-                '</Response>'
-            )
-        else:
-            twiml = (
-                '<?xml version="1.0" encoding="UTF-8"?>\n'
-                '<Response>\n'
-                f'    <Message><Body>{response_text[:1600]}</Body></Message>\n'
-                '</Response>'
-            )
-
+        twiml = (
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<Response>\n'
+            f'    <Message><Body>{response_text[:1600]}</Body></Message>\n'
+            '</Response>'
+        )
         return FastResponse(content=twiml, media_type="application/xml")
 
     except asyncio.TimeoutError:
