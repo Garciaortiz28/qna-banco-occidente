@@ -18,6 +18,10 @@ from dotenv import load_dotenv
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 load_dotenv()
 
+# Forzar UTF-8 en stdout para evitar UnicodeEncodeError en Windows (cp1252)
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 # ── Verificar dependencias ──────────────────────────────
 try:
     from sklearn.manifold import TSNE
@@ -36,11 +40,9 @@ except ImportError:
     sys.exit(1)
 
 try:
-    from langchain_community.embeddings import HuggingFaceEmbeddings
-    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-    EMBEDDING_MODEL = "models/text-embedding-004"
+    from langchain_huggingface import HuggingFaceEmbeddings
 except ImportError:
-    print("ERROR: pip install langchain-google-genai")
+    print("ERROR: pip install langchain-huggingface")
     sys.exit(1)
 
 
@@ -48,38 +50,93 @@ except ImportError:
 # CARGA DE CONVERSACIONES DESDE SUPABASE
 # ══════════════════════════════════════════════════════════
 
+def _read_msgpack_str(data: bytes, offset: int) -> tuple:
+    """Lee un string msgpack en el offset dado. Retorna (texto, nuevo_offset)."""
+    b = data[offset]
+    if 0xa0 <= b <= 0xbf:          # fixstr (0–31 bytes)
+        n = b & 0x1f
+        return data[offset+1:offset+1+n].decode("utf-8", errors="replace"), offset+1+n
+    elif b == 0xd9:                 # str8
+        n = data[offset+1]
+        return data[offset+2:offset+2+n].decode("utf-8", errors="replace"), offset+2+n
+    elif b == 0xda:                 # str16
+        n = int.from_bytes(data[offset+1:offset+3], "big")
+        return data[offset+3:offset+3+n].decode("utf-8", errors="replace"), offset+3+n
+    elif b == 0xdb:                 # str32
+        n = int.from_bytes(data[offset+1:offset+5], "big")
+        return data[offset+5:offset+5+n].decode("utf-8", errors="replace"), offset+5+n
+    return "", offset+1
+
+
+def _extract_human_messages(blob_bytes: bytes) -> list:
+    """Extrae todos los textos de HumanMessage de un blob msgpack de LangGraph."""
+    CONTENT_KEY = b"\xa7content"
+    HM_MARKER   = b"HumanMessage"
+    msgs = []
+    search = 0
+    while True:
+        hm_idx = blob_bytes.find(HM_MARKER, search)
+        if hm_idx == -1:
+            break
+        # El mapa de HumanMessage tiene 'content' como primera clave (~25 bytes despues)
+        cidx = blob_bytes.find(CONTENT_KEY, hm_idx, hm_idx + 60)
+        if cidx != -1:
+            text, _ = _read_msgpack_str(blob_bytes, cidx + len(CONTENT_KEY))
+            text = text.strip()
+            # Filtrar artefactos tecnicos y mensajes demasiado cortos
+            if len(text) > 8 and not text.replace("-", "").replace("_", "").isalnum():
+                msgs.append(text)
+            elif len(text) > 15 and " " in text:
+                msgs.append(text)
+        search = hm_idx + 1
+    return msgs
+
+
 def load_all_conversations() -> list[dict]:
     """
-    Carga todas las conversaciones de Supabase.
-    Retorna: lista de {session_id, texto_completo, n_turnos}
+    Carga mensajes humanos reales desde PostgresSaver (checkpoint_blobs).
+    Usa el blob más grande por thread (estado más reciente = más mensajes).
+    Cada mensaje humano único es un punto de análisis en el t-SNE.
+    Retorna: lista de {session_id, texto, n_turnos, mensajes}
     """
     try:
-        from database import get_client
-        db = get_client()
+        import psycopg
 
-        result = db.table("conversaciones")\
-            .select("email_usuario, mensajes")\
-            .execute()
+        db_uri = os.getenv("SUPABASE_DB_URI", "")
+        if not db_uri:
+            raise ValueError("SUPABASE_DB_URI no configurado en .env")
+
+        conn = psycopg.connect(db_uri, autocommit=True)
+        cur  = conn.cursor()
+
+        # Blob más grande por thread = historial más completo de la sesión
+        cur.execute("""
+            SELECT DISTINCT ON (thread_id) thread_id, blob
+            FROM checkpoint_blobs
+            WHERE type = 'msgpack'
+            ORDER BY thread_id, length(blob) DESC;
+        """)
+        rows = cur.fetchall()
+        conn.close()
 
         conversations = []
-        for row in result.data:
-            mensajes = row.get("mensajes", [])
-            if not mensajes:
-                continue
+        for thread_id, blob_data in rows:
+            raw_bytes = bytes(blob_data)
+            msgs      = _extract_human_messages(raw_bytes)
+            # Deduplicar manteniendo orden
+            seen, unique_msgs = set(), []
+            for m in msgs:
+                if m not in seen:
+                    seen.add(m)
+                    unique_msgs.append(m)
 
-            # Concatenar toda la conversación como texto
-            texto = " ".join(
-                m.get("content", "")
-                for m in mensajes
-                if m.get("content")
-            )
-
-            if len(texto) > 20:  # Ignorar conversaciones muy cortas
+            # Cada mensaje humano = un punto de análisis independiente
+            for i, msg in enumerate(unique_msgs):
                 conversations.append({
-                    "session_id":  row["email_usuario"],
-                    "texto":       texto[:3000],  # Limitar para embeddings
-                    "n_turnos":    len(mensajes) // 2,
-                    "mensajes":    mensajes,
+                    "session_id": f"{thread_id}_{i+1}",
+                    "texto":      msg[:3000],
+                    "n_turnos":   1,
+                    "mensajes":   [],
                 })
 
         print(f"[tsne] {len(conversations)} conversaciones cargadas de Supabase")
