@@ -174,9 +174,9 @@ async def chat_endpoint(request: ChatRequest):
 @app.post("/webhook/twilio", tags=["WhatsApp"])
 async def twilio_webhook(request: Request):
     """
-    Webhook Twilio WhatsApp Sandbox.
-    Configurar en: Twilio Console → Sandbox Settings → When a message comes in
-    URL: https://TU_DOMINIO/webhook/twilio (POST)
+    Webhook Twilio WhatsApp con soporte de notas de voz.
+    Texto normal: procesa directamente.
+    Nota de voz: transcribe con Groq Whisper, luego procesa.
     """
     import urllib.parse
 
@@ -185,6 +185,25 @@ async def twilio_webhook(request: Request):
 
     from_number  = data.get("From", "")
     message_body = data.get("Body", "").strip()
+    media_url    = data.get("MediaUrl0", "")
+    media_type   = data.get("MediaContentType0", "")
+
+    # Detectar nota de voz
+    is_voice_note = bool(media_url and "audio" in media_type.lower())
+
+    if is_voice_note:
+        print(f"[webhook] Nota de voz recibida de {from_number} | tipo: {media_type}")
+        try:
+            from transcription import transcribe_whatsapp_audio
+            transcribed = await asyncio.to_thread(transcribe_whatsapp_audio, media_url)
+            if transcribed:
+                message_body = transcribed
+                print(f"[webhook] Transcripción exitosa: '{message_body[:80]}'")
+            else:
+                message_body = "El usuario envió una nota de voz."
+        except Exception as e:
+            print(f"[webhook] Error transcribiendo: {e}")
+            message_body = "Hola, ¿en qué puedo ayudarte?"
 
     if not from_number or not message_body:
         return JSONResponse(content={"status": "ignored"})
@@ -196,12 +215,34 @@ async def twilio_webhook(request: Request):
         )
         response_text = result["response"]
 
-        twiml = (
-            '<?xml version="1.0" encoding="UTF-8"?>\n'
-            '<Response>\n'
-            f'    <Message><Body>{response_text[:1600]}</Body></Message>\n'
-            '</Response>'
-        )
+        # Generar audio de respuesta si es nota de voz y VOICE_RESPONSE=true
+        audio_url = None
+        if is_voice_note:
+            try:
+                from tts_service import text_to_audio_url
+                audio_url = await asyncio.to_thread(text_to_audio_url, response_text)
+            except Exception as e:
+                print(f"[webhook] Error generando audio respuesta: {e}")
+
+        # Construir TwiML con o sin audio
+        if audio_url:
+            twiml = (
+                '<?xml version="1.0" encoding="UTF-8"?>\n'
+                '<Response>\n'
+                '    <Message>\n'
+                f'        <Body>{response_text[:1600]}</Body>\n'
+                f'        <Media>{audio_url}</Media>\n'
+                '    </Message>\n'
+                '</Response>'
+            )
+        else:
+            twiml = (
+                '<?xml version="1.0" encoding="UTF-8"?>\n'
+                '<Response>\n'
+                f'    <Message><Body>{response_text[:1600]}</Body></Message>\n'
+                '</Response>'
+            )
+
         return FastResponse(content=twiml, media_type="application/xml")
 
     except asyncio.TimeoutError:
@@ -210,7 +251,7 @@ async def twilio_webhook(request: Request):
             '<?xml version="1.0" encoding="UTF-8"?>\n'
             '<Response>\n'
             '    <Message><Body>Estoy procesando tu consulta. '
-            'Por favor envia el mensaje nuevamente en unos segundos.</Body></Message>\n'
+            'Por favor envía el mensaje nuevamente en unos segundos.</Body></Message>\n'
             '</Response>'
         )
         return FastResponse(content=twiml_timeout, media_type="application/xml")
@@ -220,7 +261,7 @@ async def twilio_webhook(request: Request):
         error_twiml = (
             '<?xml version="1.0" encoding="UTF-8"?>\n'
             '<Response>\n'
-            '    <Message><Body>Lo siento, ocurrio un inconveniente. '
+            '    <Message><Body>Lo siento, ocurrió un inconveniente. '
             'Por favor llama al 01 8000 514 652.</Body></Message>\n'
             '</Response>'
         )

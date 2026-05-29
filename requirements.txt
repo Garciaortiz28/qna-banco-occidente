@@ -70,3 +70,8 @@ numpy==2.4.5
 scikit-learn==1.8.0
 scipy==1.17.1
 plotly==6.7.0
+
+# -- Voz: TTS y subida de audio -----------------------------------------------
+gtts==2.5.4
+cloudinary==1.44.2
+pydub==0.25.1
