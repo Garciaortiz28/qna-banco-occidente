@@ -59,3 +59,34 @@ def transcribe_whatsapp_audio(media_url: str) -> str:
 
     finally:
         os.unlink(temp_path)
+
+
+def transcribe_from_bytes(audio_bytes: bytes) -> str:
+    """Transcribe audio desde bytes en memoria (ya descargado) con Groq Whisper."""
+    with tempfile.NamedTemporaryFile(suffix=".ogg", delete=False) as f:
+        f.write(audio_bytes)
+        temp_path = f.name
+
+    try:
+        print(f"[voice] Transcribiendo {len(audio_bytes)} bytes con Groq Whisper...")
+        client = Groq(api_key=GROQ_API_KEY)
+
+        with open(temp_path, "rb") as audio_file:
+            transcription = client.audio.transcriptions.create(
+                file=(os.path.basename(temp_path), audio_file, "audio/ogg"),
+                model=WHISPER_MODEL,
+                language="es",
+                response_format="text",
+                prompt="Esto es una consulta bancaria al Banco de Occidente Colombia.",
+            )
+
+        texto = (
+            transcription.strip()
+            if isinstance(transcription, str)
+            else transcription.text.strip()
+        )
+        print(f"[voice] Transcripción: '{texto[:100]}'")
+        return texto
+
+    finally:
+        os.unlink(temp_path)

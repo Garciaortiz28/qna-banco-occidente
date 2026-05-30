@@ -173,7 +173,7 @@ async def chat_endpoint(request: ChatRequest):
         raise HTTPException(status_code=500, detail=f"Error interno: {str(e)[:300]}")
 
 
-async def _process_voice_background(from_number: str, media_url: str, to_number: str):
+async def _process_voice_background(from_number: str, audio_bytes: bytes | None, to_number: str):
     """Procesa la nota de voz en segundo plano y envía respuesta via Twilio API."""
     import os
     from twilio.rest import Client
@@ -183,10 +183,21 @@ async def _process_voice_background(from_number: str, media_url: str, to_number:
     from_whatsapp = os.getenv("TWILIO_WHATSAPP_FROM", "whatsapp:+14155238886")
     twilio_client = Client(account_sid, auth_token)
 
+    if not audio_bytes:
+        try:
+            twilio_client.messages.create(
+                from_=from_whatsapp,
+                to=from_number,
+                body="No pude recibir tu nota de voz. Por favor intenta de nuevo o escríbeme.",
+            )
+        except Exception:
+            pass
+        return
+
     try:
         # 1. Transcribir
-        from transcription import transcribe_whatsapp_audio
-        texto = await asyncio.to_thread(transcribe_whatsapp_audio, media_url)
+        from transcription import transcribe_from_bytes
+        texto = await asyncio.to_thread(transcribe_from_bytes, audio_bytes)
         if not texto:
             texto = "Hola, ¿en qué puedo ayudarte?"
         print(f"[voice_bg] Transcripción: '{texto[:80]}'")
@@ -251,9 +262,25 @@ async def twilio_webhook(request: Request):
 
     # NOTAS DE VOZ: responder inmediatamente + procesar en background
     if is_voice_note:
-        print(f"[webhook] Nota de voz de {from_number} — lanzando background task")
+        print(f"[webhook] Nota de voz de {from_number} — descargando audio inmediatamente")
+        audio_bytes = None
+        try:
+            import requests as req_lib
+            resp = req_lib.get(
+                media_url,
+                auth=(os.getenv("TWILIO_ACCOUNT_SID"), os.getenv("TWILIO_AUTH_TOKEN")),
+                timeout=10,
+            )
+            if resp.status_code == 200:
+                audio_bytes = resp.content
+                print(f"[webhook] Audio descargado: {len(audio_bytes)} bytes")
+            else:
+                print(f"[webhook] Error descargando audio: {resp.status_code}")
+        except Exception as e:
+            print(f"[webhook] Error descargando audio: {e}")
+
         asyncio.create_task(
-            _process_voice_background(from_number, media_url, from_number)
+            _process_voice_background(from_number, audio_bytes, from_number)
         )
         twiml_ack = (
             '<?xml version="1.0" encoding="UTF-8"?>\n'
